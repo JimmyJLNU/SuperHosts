@@ -4201,6 +4201,10 @@
 185.28.71.53   cdn-en.aptoide.com
 149.11.174.82  cdn-site.aptoide.com
 185.28.71.53   cdn-site.aptoide.com
+37.48.77.180   apk.aptoide.com
+37.48.77.161   apk.aptoide.com
+37.48.77.162   apk.aptoide.com
+95.211.105.104 pool.apk.aptoide.com
 37.48.77.180   store.aptoide.com
 37.48.77.162   store.aptoide.com
 37.48.77.161   store.aptoide.com
@@ -4338,6 +4342,47 @@
 37.48.77.180   m.appstv.store.aptoide.com
 37.48.77.180   m.apps.store.aptoide.com
 # Aptoide End
+
+# Downloadapk Start
+104.25.105.112 downloadapk.net
+104.25.106.112 downloadapk.net
+104.25.105.112 i.downloadapk.net
+104.25.106.112 i.downloadapk.net
+104.25.105.112 i0.downloadapk.net
+104.25.105.112 i1.downloadapk.net
+104.25.105.112 i2.downloadapk.net
+104.25.105.112 i3.downloadapk.net
+104.25.105.112 i4.downloadapk.net
+104.25.105.112 i5.downloadapk.net
+104.25.105.112 i6.downloadapk.net
+104.25.105.112 i7.downloadapk.net
+104.25.105.112 i8.downloadapk.net
+104.25.105.112 i9.downloadapk.net
+104.25.105.112 ia.downloadapk.net
+104.25.105.112 ib.downloadapk.net
+104.25.105.112 ic.downloadapk.net
+104.25.105.112 id.downloadapk.net
+104.25.105.112 ie.downloadapk.net
+104.25.105.112 if.downloadapk.net
+104.25.106.112 i0.downloadapk.net
+104.25.106.112 i1.downloadapk.net
+104.25.106.112 i2.downloadapk.net
+104.25.106.112 i3.downloadapk.net
+104.25.106.112 i4.downloadapk.net
+104.25.106.112 i5.downloadapk.net
+104.25.106.112 i6.downloadapk.net
+104.25.106.112 i7.downloadapk.net
+104.25.106.112 i8.downloadapk.net
+104.25.106.112 i9.downloadapk.net
+104.25.106.112 ia.downloadapk.net
+104.25.106.112 ib.downloadapk.net
+104.25.106.112 ic.downloadapk.net
+104.25.106.112 id.downloadapk.net
+104.25.106.112 ie.downloadapk.net
+104.25.106.112 if.downloadapk.net
+104.25.105.112 www.downloadapk.net
+104.25.106.112 www.downloadapk.net
+# Downloadapk End
 
 # Uptodown Start
 23.46.134.238   uptodown.com
@@ -53468,6 +53513,20 @@
 104.19.133.58   www.apkmirror.com
 104.19.134.58   www.apkmirror.com
 104.19.135.58   www.apkmirror.com
+104.26.10.228   apkgk.com
+104.26.11.228   apkgk.com
+104.26.10.228   www.apkgk.com
+104.26.11.228   www.apkgk.com
+104.26.10.228   files.apkgk.com
+104.26.11.228   files.apkgk.com
+104.26.8.110    apktada.com
+104.26.9.110    apktada.com
+104.26.8.110    www.apktada.com
+104.26.9.110    www.apktada.com
+104.20.94.155   apkcombo.com
+104.20.95.155   apkcombo.com
+104.20.94.155   www.apkcombo.com
+104.20.95.155   www.apkcombo.com
 23.97.66.30     vpnso.com
 23.97.66.30     www.vpnso.com
 218.251.112.216 hideme.io
