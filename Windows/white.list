@@ -39119,13 +39119,14 @@
 172.217.161.145 accounts.google.com.gi
 172.217.161.145 accounts.google.co.nz
 172.217.161.145 id.google.co.nz
+172.217.194.82  googlecode.com
 172.217.194.82  www.googlecode.com
 172.217.194.82  android.googlecode.com
-172.217.194.82  googlecode.com
 172.217.194.82  chromium.googlecode.com
 172.217.194.82  html5shim.googlecode.com
 172.217.194.82  autoproxy-gfwlist.googlecode.com
 172.217.194.82  closure-library.googlecode.com
+172.217.194.82  css3-mediaqueries-js.googlecode.com
 172.217.194.82  earth-api-samples.googlecode.com
 172.217.194.82  gmaps-samples-flash.googlecode.com
 172.217.194.82  googleappengine.googlecode.com
@@ -39134,10 +39135,6 @@
 172.217.194.82  googlecl.googlecode.com
 172.217.194.82  wiki.huhamhire-hosts.googlecode.com
 172.217.194.82  closure-library.googlecode.com
-172.217.194.82  earth-api-samples.googlecode.com
-172.217.194.82  gmaps-samples-flash.googlecode.com
-172.217.194.82  googleappengine.googlecode.com
-172.217.194.82  google-code-feed-gadget.googlecode.com
 172.217.194.82  smarthosts.googlecode.com
 172.217.194.82  octane-benchmark.googlecode.com
 172.217.31.241  googlesource.com
