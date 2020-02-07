@@ -53804,6 +53804,8 @@
 104.28.1.98     npf.org.tw
 104.28.0.98     www.npf.org.tw
 104.28.1.98     www.npf.org.tw
+43.254.17.7     wufi.org.tw
+43.254.17.7     www.wufi.org.tw
 52.221.46.214   theinitium.com
 104.28.30.251   www.theinitium.com
 104.28.31.251   www.theinitium.com
@@ -56383,6 +56385,28 @@
 118.163.124.247 admsmaterial.businessweekly.com.tw
 # businessweekly End
 
+# CNYES Start
+# 2020/2/7 HTTPS 连接重置（需配合SNI工具解封）
+23.62.226.51    amp-news.cnyes.com
+210.71.219.197  blog.cnyes.com
+210.71.219.23   chart.cnyes.com
+210.71.219.192  cnyes.com
+23.62.226.51    fund.cnyes.com
+210.71.219.193  house.cnyes.com
+210.71.219.193  img.cnyes.com
+13.32.52.115    invest.cnyes.com
+210.71.219.199  mag.cnyes.com
+210.71.219.193  money.cnyes.com
+13.249.171.45   news.cnyes.com
+99.84.143.79    news.cnyes.com
+210.71.219.192  so.cnyes.com
+210.71.219.211  stage.cnyes.com
+23.62.226.51    stock.cnyes.com
+210.71.219.193  traderoom.cnyes.com
+13.33.174.115   topics.cnyes.com
+23.62.226.51    www.cnyes.com
+# CNYES End
+
 # Watchout Start
 104.28.2.114 watchout.tw
 104.28.3.114 watchout.tw
@@ -58340,6 +58364,7 @@
 # TDM End
 
 # Udn Start
+# 2020/2/7 HTTPS 连接重置（需配合SNI工具解封）
 104.76.18.35    udn.com
 104.76.18.35    m.udn.com
 210.243.166.197 gb.udn.com
