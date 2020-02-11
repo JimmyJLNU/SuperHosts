@@ -41330,6 +41330,7 @@
 172.217.160.81  youtubei.googleapis.com
 172.217.160.81  securetoken.googleapis.com
 172.217.160.81  firebasestorage.googleapis.com
+172.217.160.81  firebaseremoteconfig.googleapis.com
 172.217.160.81  clientservices.googleapis.com
 172.217.160.81  datasaver.googleapis.com
 216.58.200.48   storage.googleapis.com
@@ -53793,6 +53794,8 @@
 104.24.109.229  new7.com.tw
 104.24.109.229  www.new7.com.tw
 104.24.108.229  www.new7.com.tw
+139.162.109.217 cnews.com.tw
+139.162.109.217 www.cnews.com.tw
 13.35.8.60      afr.com
 13.35.165.19    afr.com
 13.35.37.27     afr.com
