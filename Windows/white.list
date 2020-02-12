@@ -40165,6 +40165,7 @@
 172.217.194.153 9cguide.appspot.com
 172.217.194.153 aakeeper.appspot.com
 172.217.194.153 aconito-spot.appspot.com
+172.217.194.153 acp-mobile.appspot.com
 172.217.194.153 actioncomplete-tasks.appspot.com
 172.217.194.153 admin-hotel.appspot.com
 172.217.194.153 adow.rudriverru.appspot.com
@@ -50946,8 +50947,23 @@
 13.35.8.64    www.t13.deviantart.net
 13.35.8.25    www.t14.deviantart.net
 13.35.37.2    www.t15.deviantart.net
-13.35.8.105   static.parastorage.com
 # Deviantart End
+
+# WIX Start
+13.35.8.105    static.parastorage.com
+13.33.231.82   static.parastorage.com
+13.33.231.124  static.parastorage.com
+13.225.146.29  static.parastorage.com
+13.225.146.15  static.parastorage.com
+99.86.58.94    static.parastorage.com
+99.84.194.81   static.parastorage.com
+151.101.2.49   static.parastorage.com
+13.33.41.45    siteassets.parastorage.com
+13.225.190.64  siteassets.parastorage.com
+13.226.238.61  siteassets.parastorage.com
+13.226.238.113 siteassets.parastorage.com
+13.225.190.121 siteassets.parastorage.com
+# WIX End
 
 # ArtStation Start
 # 2019/4/10 HTTPS 连接重置（需配合SNI工具解封）
@@ -53754,14 +53770,6 @@
 104.18.50.114   www.linepost.hk
 104.18.51.114   www.linepost.hk
 35.186.197.145  race.myradio.hk
-151.101.2.49    static.parastorage.com
-13.33.231.82    static.parastorage.com
-13.33.231.124   static.parastorage.com
-13.225.146.29   static.parastorage.com
-13.225.146.15   static.parastorage.com
-99.86.58.94     static.parastorage.com
-99.84.194.81    static.parastorage.com
-52.84.235.234   static.parastorage.com
 118.143.30.166  skypost.ulifestyle.com.hk
 139.162.115.148 breakblack.net
 139.162.115.148 www.breakblack.net
@@ -55539,6 +55547,10 @@
 104.18.41.118   you2go.me
 104.18.40.118   www.you2go.me
 104.18.41.118   www.you2go.me
+23.236.62.147   youlucky.com
+185.230.60.211  www.youlucky.com
+185.230.61.195  www.youlucky.com
+185.230.61.211  www.youlucky.com
 104.27.130.82   videoclip.site
 104.27.131.82   videoclip.site
 104.27.130.82   www.videoclip.site
@@ -56245,6 +56257,7 @@
 104.27.169.197  guge.today
 104.27.168.197  www.guge.today
 104.27.169.197  www.guge.today
+13.85.20.144    googleone.azurewebsites.net
 47.88.228.28    gg.bdao.top
 184.173.141.176 popyard.org
 184.173.141.176 www.popyard.org
