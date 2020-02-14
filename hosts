@@ -52659,6 +52659,54 @@
 151.101.21.164  www.wordplay.blogs.nytimes.com
 # nytimes End
 
+# FT Start
+104.22.6.28      aboutus.ft.com
+104.22.7.28      aboutus.ft.com
+151.101.0.230    api.ft.com
+151.101.64.230   api.ft.com
+151.101.228.230  api.ft.com
+151.101.2.109    ads-api.ft.com
+151.101.66.109   ads-api.ft.com
+151.101.2.109    spoor-api.ft.com
+151.101.22.109   spoor-api.ft.com
+151.101.66.109   spoor-api.ft.com
+151.101.230.109  spoor-api.ft.com
+151.101.66.109   app.ft.com
+151.101.0.230    bdp.ft.com
+34.242.94.182    busedsurveys.ft.com
+151.101.2.109    consent.ft.com
+151.101.138.109  consent.ft.com
+151.101.194.109  consent.ft.com
+104.22.6.28      enterprise.ft.com
+104.22.7.28      enterprise.ft.com
+151.101.66.109   ft.com
+151.101.66.109   ftalphaville.ft.com
+151.101.2.109    help.ft.com
+151.101.22.109   help.ft.com
+151.101.66.109   help.ft.com
+151.101.2.209    howtospendit.ft.com
+151.101.66.109   ig.ft.com
+151.101.0.230    live.ft.com
+209.234.235.208  markets.ft.com
+54.227.157.72    mma.ft.com
+151.101.66.49    myaccount.ft.com
+151.101.0.230    rankings.ft.com
+104.22.6.28      subs.ft.com
+104.22.7.28      subs.ft.com
+104.22.6.28      transact.ft.com
+104.22.7.28      transact.ft.com
+151.101.66.109   www.ft.com
+151.101.0.204    prod-upp-image-read.ft.com
+151.101.20.204   prod-upp-image-read.ft.com
+151.101.228.204  prod-upp-image-read.ft.com
+118.143.65.103   ftchinese.com
+118.143.65.103   www.ftchinese.com
+118.143.65.102   big5.ftchinese.com
+118.143.65.103   user.ftchinese.com
+118.143.65.105   static.ftchinese.com
+54.249.126.181   profile.ftchinese.com
+# FT End
+
 # Time Start
 13.35.67.48    time.com
 13.33.203.120  time.com
@@ -53723,7 +53771,6 @@
 104.18.51.114   linepost.hk
 104.18.50.114   www.linepost.hk
 104.18.51.114   www.linepost.hk
-35.186.197.145  race.myradio.hk
 118.143.30.166  skypost.ulifestyle.com.hk
 139.162.115.148 breakblack.net
 139.162.115.148 www.breakblack.net
@@ -62949,7 +62996,8 @@
 61.135.185.159  post.n.shifen.com
 61.135.185.222  post.n.shifen.com
 66.102.251.24   us.weibo.com
-61.167.55.186   c.youdao.com
+45.77.180.10    dns.containerpi.com
+210.17.9.228    dns.twnic.tw
 210.22.80.13    want-want.com
 210.22.80.13    www.want-want.com
 209.177.81.184  www.fmcoprc.gov.hk
