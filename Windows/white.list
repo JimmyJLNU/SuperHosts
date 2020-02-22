@@ -41322,7 +41322,12 @@
 172.217.160.81  bigcache.googleapis.com
 172.217.160.81  chart.googleapis.com
 172.217.160.81  content.googleapis.com
+172.217.160.81  cbks.googleapis.com
+172.217.160.81  cbks0.googleapis.com
+172.217.160.81  cbks1.googleapis.com
+172.217.160.81  earthbuilder.googleapis.com
 172.217.160.81  growth-pa.googleapis.com
+172.217.160.81  khms.googleapis.com
 172.217.160.81  khms0.googleapis.com
 172.217.160.81  khms1.googleapis.com
 172.217.160.81  maps.googleapis.com
@@ -44020,16 +44025,23 @@
 185.199.111.153 help.ss-ssr.com
 # ss-ssr End
 
-# Github Start  
-192.30.253.113  github.com
-192.30.253.112  github.com
+# Github Start
+192.30.253.118  github.com
+192.30.253.119  github.com
+192.30.255.118  www.github.com
+192.30.255.119  www.github.com
 192.30.253.118  gist.github.com
 192.30.253.119  gist.github.com
-192.30.255.120  codeload.github.com
-192.30.253.121  codeload.github.com
-151.101.0.133   assets-cdn.github.com
-151.101.72.133  assets-cdn.github.com
-151.101.228.133 assets-cdn.github.com
+192.30.255.118  gist.github.com
+192.30.255.119  gist.github.com
+151.101.108.133 raw.githubusercontent.com
+151.101.108.133 camo.githubusercontent.com
+151.101.108.133 cloud.githubusercontent.com
+151.101.108.133 avatars.githubusercontent.com
+151.101.108.133 avatars0.githubusercontent.com
+151.101.108.133 avatars1.githubusercontent.com
+151.101.108.133 avatars2.githubusercontent.com
+151.101.108.133 avatars3.githubusercontent.com
 185.199.108.153 haoel.github.io
 185.199.109.153 haoel.github.io
 185.199.110.153 haoel.github.io
@@ -58558,13 +58570,12 @@
 # TDM End
 
 # Udn Start
-# 2020/2/7 HTTPS 连接重置（需配合SNI工具解封）
-104.76.18.35    udn.com
-104.76.18.35    m.udn.com
+23.12.234.217   udn.com
+23.12.234.217   m.udn.com
 210.243.166.197 gb.udn.com
-104.76.18.35    nba.udn.com
+23.12.234.217   nba.udn.com
 27.126.237.11   www.udn.com
-104.76.18.35    money.udn.com
+23.12.234.217   money.udn.com
 13.33.74.79     video.udn.com
 13.33.41.58     video.udn.com
 13.33.197.109   video.udn.com
@@ -58572,51 +58583,51 @@
 13.32.168.41    video.udn.com
 13.33.197.138   video.udn.com
 13.33.164.142   video.udn.com
-104.76.18.35    theme.udn.com
-104.76.18.35    stars.udn.com
-104.76.18.35    topic.udn.com
-104.76.18.35    fund.udn.com
+23.12.234.217   theme.udn.com
+23.12.234.217   stars.udn.com
+23.12.234.217   topic.udn.com
+23.12.234.217   fund.udn.com
 211.20.187.85   cdn.udn.com
 211.20.187.86   cdn.udn.com
 184.31.63.101   img.udn.com
 113.196.249.55  rec.udn.com
-104.76.18.35    oops.udn.com
-104.76.18.35    autos.udn.com
-104.76.18.35    health.udn.com
+23.12.234.217   oops.udn.com
+23.12.234.217   autos.udn.com
+23.12.234.217   health.udn.com
 184.31.63.101   reader.udn.com
 211.20.177.94   member.udn.com
 210.243.166.93  reading.udn.com
 210.244.31.153  forum.udn.com
-104.76.18.35    upoints.udn.com
+23.12.234.217   upoints.udn.com
 52.199.61.25    utravel.udn.com
 54.64.127.209   utravel.udn.com
-104.76.18.35    mobile.udn.com
-104.76.18.35    style.udn.com
-104.76.18.35    paper.udn.com
-104.76.18.35    vision.udn.com
+23.12.234.217   mobile.udn.com
+23.12.234.217   style.udn.com
+23.12.234.217   paper.udn.com
+23.12.234.217   vision.udn.com
 211.20.177.96   city.udn.com
 210.244.31.135  edn.udn.com
 113.196.249.18  spm.udn.com
 113.196.249.56  cas.udn.com
 210.243.166.166 event.udn.com
 218.32.9.131    expo.udn.com
-104.76.18.35    house.udn.com
+23.12.234.217   house.udn.com
 211.20.177.98   act.udn.com
 211.20.177.10   stock.udn.com
-104.76.18.35    debate.udn.com
-104.76.18.35    opinion.udn.com
-104.76.18.35    global.udn.com
+23.12.234.217   debate.udn.com
+23.12.234.217   opinion.udn.com
+23.12.234.217   global.udn.com
 13.33.197.58    a.udn.com
 13.33.197.12    a.udn.com
 13.32.168.134   a.udn.com
-104.76.18.35    shopping.udn.com
+23.12.234.217   shopping.udn.com
 210.244.31.144  photo.udn.com
 113.196.249.5   udntalks.udn.com
 210.243.166.77  data.udn.com
 211.20.177.96   album.udn.com
 211.20.177.96   blog.udn.com
 211.20.177.104  classic-blog.udn.com
-104.76.18.35    active.udn.com
+23.12.234.217   active.udn.com
 211.78.81.155   ishow.udn.com
 210.244.31.135  life.ishow.udn.com
 # Udn End
@@ -63188,6 +63199,9 @@
 111.206.223.249 post.n.shifen.com
 61.135.185.159  post.n.shifen.com
 61.135.185.222  post.n.shifen.com
+116.128.134.139 dajia.qq.com
+116.128.134.167 dajia.qq.com
+157.255.192.44  dajia.qq.com
 66.102.251.24   us.weibo.com
 45.77.180.10    dns.containerpi.com
 210.17.9.228    dns.twnic.tw
