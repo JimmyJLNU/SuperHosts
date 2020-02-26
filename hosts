@@ -48625,6 +48625,7 @@
 103.23.108.224 checklogin.pixnet.net
 103.23.108.113 checklogin.www.pixnet.net
 103.23.108.220 a12361510.pixnet.net
+103.23.108.220 a250319.pixnet.net
 103.23.108.220 a2738993.pixnet.net
 103.23.108.220 a2928796.pixnet.net
 103.23.108.220 a305020.pixnet.net
@@ -49109,6 +49110,7 @@
 103.23.108.220 uemieve.pixnet.net
 103.23.108.220 ukbananabay.pixnet.net
 103.23.108.220 uniquevera.pixnet.net
+103.23.108.220 usa06.pixnet.net
 103.23.108.220 valteam2.pixnet.net
 103.23.108.220 vanmusic.pixnet.net
 103.23.108.220 vansak.pixnet.net
@@ -51775,12 +51777,12 @@
 61.219.29.205   m.cna.com.tw
 211.72.255.202  m.cna.com.tw
 211.72.255.204  www.cna.com.tw
-210.69.89.204   img.cna.com.tw
+210.69.89.200   img.cna.com.tw
 210.69.89.182   vod.cna.com.tw
 61.219.29.196   mail.cna.com.tw
-210.69.89.204   img1.cna.com.tw
-210.69.89.204   img2.cna.com.tw
-210.69.89.204   img3.cna.com.tw
+210.69.89.200   img1.cna.com.tw
+210.69.89.200   img2.cna.com.tw
+210.69.89.200   img3.cna.com.tw
 117.18.232.200  img4.cna.com.tw
 211.20.171.199  img5.cna.com.tw
 210.242.210.70  img5.cna.com.tw
@@ -53648,6 +53650,37 @@
 66.155.58.73 dianpu.vanpeople.com
 # Vanpeople End
 
+# Womany Start
+# 2020/2/26 HTTPS 连接重置（需配合SNI工具解封）
+104.19.189.34  womany.net
+104.19.190.34  womany.net
+54.65.107.1    www.womany.net
+13.113.64.76   api.womany.net
+13.113.210.130 api.womany.net
+104.19.189.34  knight.womany.net
+104.19.190.34  knight.womany.net
+# Womany End
+
+# INSIDE Start
+# 2020/2/26 HTTPS 连接重置（需配合SNI工具解封）
+104.26.6.13     inside.com.tw
+104.26.7.13     inside.com.tw
+104.26.6.13     www.inside.com.tw
+104.26.7.13     www.inside.com.tw
+104.26.6.13     inside-assets1.inside.com.tw
+104.26.7.13     inside-assets1.inside.com.tw
+104.26.6.13     inside-assets2.inside.com.tw
+104.26.7.13     inside-assets2.inside.com.tw
+104.26.6.13     inside-assets3.inside.com.tw
+104.26.7.13     inside-assets3.inside.com.tw
+104.26.6.13     inside-assets4.inside.com.tw
+104.26.7.13     inside-assets4.inside.com.tw
+104.26.6.13     inside-assets5.inside.com.tw
+104.26.7.13     inside-assets5.inside.com.tw
+104.26.6.13     inside-assets6.inside.com.tw
+104.26.7.13     inside-assets6.inside.com.tw
+# INSIDE End
+
 # Others Start
 54.182.1.32     vid.me
 52.84.143.32    vid.me
@@ -53840,6 +53873,14 @@
 94.31.29.128    cdn.theglobalist.com
 205.186.183.97  unpo.org
 205.186.183.97  www.unpo.org
+104.26.6.111    newcongress.tw
+104.26.7.111    newcongress.tw
+104.26.6.111    www.newcongress.tw
+104.26.7.111    www.newcongress.tw
+104.26.2.79     kairos.news
+104.26.3.79     kairos.news
+104.26.2.79     www.kairos.news
+104.26.3.79     www.kairos.news
 104.24.96.230   globals.news
 104.24.97.230   globals.news
 104.24.96.230   www.globals.news
@@ -53851,6 +53892,8 @@
 23.236.62.147   voicettank.org
 185.230.61.161  www.voicettank.org
 185.230.61.177  www.voicettank.org
+103.1.220.131   viewpointtaiwan.com
+103.1.220.131   www.viewpointtaiwan.com
 118.163.12.89   cmoney.tw
 210.242.250.31  fsv.cmoney.tw
 61.222.213.235  fsv.cmoney.tw
@@ -54564,16 +54607,18 @@
 104.28.19.44    www.qiwen.lu
 153.126.198.166 yecl.net
 153.126.198.166 www.yecl.net
+13.35.163.41    cc.tvbs.com.tw
 13.33.231.70    cc.tvbs.com.tw
-13.33.172.10    cc.tvbs.com.tw
+13.224.161.74   cc.tvbs.com.tw
+13.225.103.84   cc.tvbs.com.tw
+13.226.113.15   cc.tvbs.com.tw
+13.32.54.40     news.tvbs.com.tw
 13.33.203.54    news.tvbs.com.tw
 13.33.203.24    news.tvbs.com.tw
 13.225.176.4    news.tvbs.com.tw
 13.225.132.109  news.tvbs.com.tw
 13.225.103.18   news.tvbs.com.tw
 13.224.161.53   news.tvbs.com.tw
-13.32.54.40     news.tvbs.com.tw
-13.35.8.7       news.tvbs.com.tw
 35.185.153.185  cmmedia.com.tw
 35.185.153.185  www.cmmedia.com.tw
 104.27.158.154  2049bbs.xyz
@@ -58053,13 +58098,16 @@
 
 # Storm.mg Start
 54.65.246.243 storm.mg
+13.35.7.100   www.storm.mg
+13.35.67.42   www.storm.mg
+13.35.33.104  www.storm.mg
 13.35.99.68   www.storm.mg
 13.35.99.110  www.storm.mg
-13.33.197.140 www.storm.mg
+13.224.161.70 www.storm.mg
+13.225.105.97 www.storm.mg
 54.64.64.5    about.storm.mg
-13.33.197.14  image.cache.storm.mg
-13.35.99.107  image.cache.storm.mg
 13.35.99.39   image.cache.storm.mg
+13.35.99.107  image.cache.storm.mg
 # Storm.mg End
 
 # CW Start
