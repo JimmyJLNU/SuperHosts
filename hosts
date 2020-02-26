@@ -53651,7 +53651,6 @@
 # Vanpeople End
 
 # Womany Start
-# 2020/2/26 HTTPS 连接重置（需配合SNI工具解封）
 104.19.189.34  womany.net
 104.19.190.34  womany.net
 54.65.107.1    www.womany.net
@@ -53662,7 +53661,6 @@
 # Womany End
 
 # INSIDE Start
-# 2020/2/26 HTTPS 连接重置（需配合SNI工具解封）
 104.26.6.13     inside.com.tw
 104.26.7.13     inside.com.tw
 104.26.6.13     www.inside.com.tw
