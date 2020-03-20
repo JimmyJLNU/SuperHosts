@@ -17895,17 +17895,18 @@
 # Instagram End
 
 # Google Basic Start
-216.239.32.21   blog.google
+216.239.34.21   blog.google
 216.239.38.21   blog.google
-216.239.32.21   environment.google
+216.239.34.21   environment.google
 216.239.38.21   environment.google
-216.239.32.21   www.blog.google
+216.239.34.21   www.blog.google
 216.239.38.21   www.blog.google
-216.239.32.21   www.environment.google
+216.239.34.21   www.environment.google
 216.239.38.21   www.environment.google
 64.233.171.192  supl.google.com
 216.58.200.19   armsglobe.chromeexperiments.com
 64.233.188.121  bugs.chromium.org
+64.233.188.121  codereview.chromium.org
 64.233.170.114  check.googlezip.net
 216.58.221.108  proxy.googlezip.net
 216.58.221.108  compress.googlezip.net
@@ -17918,21 +17919,30 @@
 64.233.188.121  code.getmdl.io
 74.125.34.40    panoramio.com
 74.125.34.40    www.panoramio.com
+216.58.200.51   blog.panoramio.com
 64.233.188.128  static.panoramio.com
 64.233.188.121  b.android.com
 64.233.188.121  tools.android.com
-74.125.206.210  chat.google.com
-74.125.206.210  hangout.google.com
-74.125.206.210  hangouts.google.com
-216.239.32.21   getintra.org
-216.239.32.21   www.getintra.org
-216.239.32.21   getoutline.org
-216.239.32.21   www.getoutline.org
+216.239.34.21   getintra.org
+216.239.34.21   www.getintra.org
+216.239.34.21   getoutline.org
+216.239.34.21   www.getoutline.org
 203.208.43.120  www.google.com.cn
 203.208.48.56   www.google.com.cn
 203.208.39.216  www.google.com.cn
 203.208.50.63   www.google.com.cn
 203.208.43.87   www.google.com.cn
+216.58.200.51   html5rocks.com
+216.58.200.51   www.html5rocks.com
+216.58.200.51   slides.html5rocks.com
+216.58.200.51   studio.html5rocks.com
+216.58.200.51   playground.html5rocks.com
+216.58.200.51   goto.ext.google.com
+216.58.200.51   blog.webmproject.org
+216.58.200.51   lists.webmproject.org
+216.58.200.51   www.waveprotocol.org
+216.58.200.51   www.20thingsilearned.com
+216.58.200.51   www.chromeexperiments.com
 # Google Basic End
 
 # Snapchat Start
@@ -30938,7 +30948,7 @@
 209.58.188.166  www.comparitech.com
 209.58.135.68   www.comparitech.com
 209.58.137.71   www.comparitech.com
-216.239.32.21   china-week.com
+216.239.34.21   china-week.com
 64.233.189.121  www.china-week.com
 216.58.200.51   www.china-week.com
 216.58.200.83   www.china-week.com
@@ -30989,15 +30999,14 @@
 52.202.252.58   www.gravidpodden.se
 52.202.252.58   www.tonygaskinsshow.com
 52.202.252.58   www.livochtrafikpodden.se
-216.239.32.21   mahooq.com
+216.239.34.21   mahooq.com
 216.58.204.115  www.mahooq.com
-216.239.32.21   gopetition.com
+216.239.34.21   gopetition.com
 216.58.200.51   www.gopetition.com
-216.239.32.21   ccue.ca
-216.239.32.21   ccue.com
-216.239.32.21   the2halfsquads.com
-216.239.38.21   the2halfsquads.com
+216.239.34.21   ccue.ca
+216.239.34.21   ccue.com
 216.239.34.21   the2halfsquads.com
+216.239.38.21   the2halfsquads.com
 54.174.236.155  www.the2halfsquads.com
 54.174.236.155  www.themassivejoesshow.com
 54.174.236.155  www.beyondtheboxsetpod.com
@@ -31175,13 +31184,13 @@
 149.56.165.160  doovi.com
 149.56.165.160  www.doovi.com
 216.239.34.21   apnews.com
-216.239.32.21   apnews.com
+216.239.38.21   apnews.com
 216.239.34.21   www.apnews.com
-216.239.32.21   www.apnews.com
+216.239.38.21   www.apnews.com
 216.239.34.21   ipinfo.io
-216.239.32.21   ipinfo.io
+216.239.38.21   ipinfo.io
 216.239.34.21   www.ipinfo.io
-216.239.32.21   www.ipinfo.io
+216.239.38.21   www.ipinfo.io
 216.239.34.21   chronicle.security
 216.239.38.21   chronicle.security
 51.91.154.33    sm3ha.com
@@ -31555,10 +31564,8 @@
 104.26.15.228   startuplivingchina.com
 104.26.14.228   www.startuplivingchina.com
 104.26.15.228   www.startuplivingchina.com
-216.239.32.21   chinagfw.org
 216.239.34.21   chinagfw.org
 216.239.38.21   chinagfw.org
-216.239.32.21   www.chinagfw.org
 216.239.34.21   www.chinagfw.org
 216.239.38.21   www.chinagfw.org
 3.224.224.135   ss.pythonic.life
