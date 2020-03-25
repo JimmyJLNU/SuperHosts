@@ -54736,12 +54736,6 @@
 104.18.43.130   twgreatdaily.com
 104.18.42.130   www.twgreatdaily.com
 104.18.43.130   www.twgreatdaily.com
-23.97.68.82     peoplenews.tw
-23.97.68.82     www.peoplenews.tw
-104.24.119.121  cdn.peoplenews.tw
-104.24.118.121  cdn.peoplenews.tw
-104.24.119.121  image.peoplenews.tw
-104.24.118.121  image.peoplenews.tw
 104.27.184.36   civilmedia.tw
 104.27.185.36   civilmedia.tw
 104.27.184.36   www.civilmedia.tw
@@ -59203,6 +59197,68 @@
 151.139.128.10 vs.youmaker.com
 35.201.68.206  www.youmaker.com
 # Youtaker End
+
+# Bild Start
+146.185.101.52  aboservice.bild.de
+23.45.50.193    asbs.bild.de
+99.84.230.50    audibene.bild.de
+145.243.240.41  automarkt.bild.de
+145.243.240.41  bestseller.bild.de
+145.243.248.20  bild.de
+23.45.50.193    bilder.bild.de
+40.68.214.69    blackfriday.bild.de
+18.197.127.213  coupons.bild.de
+145.243.240.39  don.bild.de
+145.243.240.41  dresden.bild.de
+54.72.210.204   einbuergerungstest.bild.de
+91.202.50.65    epaper.bild.de
+145.243.240.41  eventim.bild.de
+54.72.210.204   fahrschule.bild.de
+145.243.233.195 fanmeile.sportbild.bild.de
+212.172.130.141 filmundfun.bild.de
+174.143.117.219 gamesarkadium.bild.de
+213.227.169.84  gutscheine.bild.de
+145.243.240.41  hannover.bild.de
+96.10.85.2      hds.ak.token.bild.de
+35.246.201.23   horoskope.bild.de
+23.45.50.193    images.bild.de
+23.45.50.193    infostatic.bild.de
+54.246.155.40   iqtest.bild.de
+23.45.50.224    jobs.bild.de
+23.44.7.139     json.bild.de
+23.44.7.139     m.bild.de
+210.176.33.91   m.sportbild.bild.de
+210.176.33.91   m.tv.bild.de
+210.176.33.91   m.wetter.bild.de
+13.35.126.49    meinkonto.bild.de
+145.243.240.41  neuwagen.bild.de
+210.176.33.91   offers.bild.de
+178.33.34.236   onlinegames.bild.de
+185.54.150.28   pixel.bild.de
+145.243.240.41  reisen.bild.de
+13.226.238.102  rosetta.prod.ps.bild.de
+91.202.50.51    shop.bild.de
+145.243.240.41  smscash.bild.de
+188.166.192.244 sonderthemen.bild.de
+210.176.33.91   sport.bild.de
+23.44.7.139     sportbild.bild.de
+210.176.33.91   sportdaten.sportbild.bild.de
+67.207.74.73    sportwetten.bild.de
+54.192.73.123   tippspiel.bild.de
+210.176.33.91   tv.bild.de
+91.210.227.74   vergleich.bild.de
+210.176.33.91   voucher.bild.de
+82.165.161.242  waiputv.bild.de
+145.243.240.41  watchever.bild.de
+23.44.7.139     wetter.bild.de
+144.11.85.2     wissenstest.bild.de
+146.185.101.52  www.aboservice.bild.de
+145.243.240.41  www.bestseller.bild.de
+23.44.7.155     www.bild.de
+145.243.240.41  www.dresden.bild.de
+145.243.240.41  www.hannover.bild.de
+145.243.240.41  www.sport.bild.de
+# Bild End
 
 # Tagesschau Start
 88.215.213.26  tagesschau.de
