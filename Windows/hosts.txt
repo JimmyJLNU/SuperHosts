@@ -3472,6 +3472,19 @@
 23.41.68.37    podcastfeeds.nbcnews.com
 # NBC News End
 
+# Westword Start
+199.204.20.205 westword.com
+192.229.179.79 www.westword.com
+199.204.20.205 cdns.westword.com
+192.229.179.79 images.westword.com
+192.229.179.79 images1.westword.com
+192.229.179.79 images2.westword.com
+199.204.20.138 adindex.westword.com
+199.204.20.139 coupons.westword.com
+199.204.20.138 readerschoice.westword.com
+199.204.20.138 2018musicshowcasepoll.westword.com
+# Westword End
+
 # Newsy Start
 52.45.243.151 newsy.com
 52.45.243.151 www.newsy.com
@@ -15790,6 +15803,7 @@
 68.232.44.126    cs96.wac.edgecastcdn.net
 68.232.44.127    cs97.wac.edgecastcdn.net
 117.18.237.128   cs98.wac.edgecastcdn.net
+192.229.144.134  cs759180859.wac.edgecastcdn.net
 117.18.232.133   edgecastcdn.net
 117.18.237.16    gp1.wac.edgecastcdn.net
 117.18.232.252   gp1.wpc.edgecastcdn.net
@@ -33205,6 +33219,7 @@
 152.195.62.116  hello.myfonts.net
 152.199.24.107  hello.myfonts.net
 151.139.128.10  kit-free.fontawesome.com
+192.229.144.134 assets.myvoicenation.com
 211.20.148.228  hichannel.hinet.net
 172.217.31.241  www.textcube.com
 172.217.31.241  montage.storyful.com
