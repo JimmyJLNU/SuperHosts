@@ -33211,6 +33211,11 @@
 54.86.175.42    ny1.com
 34.228.49.34    www.ny1.com
 54.86.175.42    www.ny1.com
+52.8.0.86       oann.com
+54.183.45.102   oann.com
+52.8.0.86       www.oann.com
+54.183.45.102   www.oann.com
+104.154.170.37  store.oann.com
 34.228.49.34    baynews9.com
 54.86.175.42    baynews9.com
 34.228.49.34    www.baynews9.com
