@@ -33264,6 +33264,8 @@
 211.20.148.228  hichannel.hinet.net
 103.72.165.197  parsevideo.com
 103.72.165.197  www.parsevideo.com
+150.109.46.203  speedpan.com
+150.109.46.203  www.speedpan.com
 108.167.177.184 vewas.net
 108.167.177.184 www.vewas.net
 152.199.21.2    hello.myfonts.net
@@ -42868,8 +42870,14 @@
 116.128.134.167 dajia.qq.com
 157.255.192.44  dajia.qq.com
 66.102.251.24   us.weibo.com
-45.77.180.10    dns.containerpi.com
-210.17.9.228    dns.twnic.tw
+139.215.142.238 www.newasp.net
+139.215.142.239 www.newasp.net
+139.215.142.240 www.newasp.net
+139.215.142.241 www.newasp.net
+139.215.142.242 www.newasp.net
+139.215.142.244 www.newasp.net
+129.215.142.243 www.newasp.net
+139.215.142.248 www.newasp.net
 210.22.80.13    want-want.com
 210.22.80.13    www.want-want.com
 209.177.81.184  www.fmcoprc.gov.hk
