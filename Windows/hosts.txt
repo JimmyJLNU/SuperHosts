@@ -33407,6 +33407,14 @@
 104.25.77.33    www.gmgard.com
 104.25.76.33    static.gmgard.com
 104.25.77.33    static.gmgard.com
+104.26.4.71     hexieshe.cn
+104.26.5.71     hexieshe.cn
+104.26.4.71     www.hexieshe.cn
+104.26.5.71     www.hexieshe.cn
+104.31.74.202   hexieshe.com
+104.31.75.202   hexieshe.com
+104.31.74.202   www.hexieshe.com
+104.31.75.202   www.hexieshe.com
 59.125.73.143   scdn.vnecdn.net
 59.125.73.143   vcdn-english.vnecdn.net
 104.18.50.114   linepost.hk
@@ -42880,9 +42888,7 @@
 139.215.142.248 www.newasp.net
 210.22.80.13    want-want.com
 210.22.80.13    www.want-want.com
-209.177.81.184  www.fmcoprc.gov.hk
-209.177.81.187  www.fmcoprc.gov.hk
-209.177.81.195  www.fmcoprc.gov.hk
+101.37.42.52    www.lanzous.com
 203.74.140.195  upos-hz-mirrorakam.akamaized.net
 210.176.33.81   upos-hz-mirrorakam.akamaized.net
 # Tieba End
