@@ -59653,14 +59653,26 @@
 
 # TDM Start
 61.244.22.9     tdm.com.mo
+61.244.22.6     gb.tdm.com.mo
+61.244.22.7     gb.tdm.com.mo
+61.244.22.8     gb.tdm.com.mo
 61.244.22.9     www.tdm.com.mo
-103.233.191.138 vod.tdm.com.mo
-103.233.191.138 vod1.tdm.com.mo
-103.233.191.138 vod2.tdm.com.mo
-103.233.191.138 vod3.tdm.com.mo
-61.244.22.6     vod4.tdm.com.mo
-61.244.22.6     vod5.tdm.com.mo
+103.233.191.137 vod.tdm.com.mo
+103.233.191.137 vod1.tdm.com.mo
+103.233.191.137 vod2.tdm.com.mo
+103.233.191.137 vod3.tdm.com.mo
+61.244.22.4     vod4.tdm.com.mo
+61.244.22.5     vod4.tdm.com.mo
+103.192.45.57   vod5.tdm.com.mo
 202.86.146.141  mail.tdm.com.mo
+103.233.191.134 live.tdm.com.mo
+103.233.191.132 live1.tdm.com.mo
+103.233.191.133 live2.tdm.com.mo
+103.233.191.132 live3.tdm.com.mo
+103.233.191.133 live3.tdm.com.mo
+61.244.22.4     live4.tdm.com.mo
+61.244.22.5     live4.tdm.com.mo
+103.192.45.55   live5.tdm.com.mo
 61.244.22.9     mobile.tdm.com.mo
 61.244.22.9     tourism.tdm.com.mo
 202.175.89.60   webstat.tdm.com.mo
