@@ -53020,22 +53020,19 @@
 
 # cyberctm Start
 125.31.1.35     cyberctm.com
-125.31.1.130    ads.cyberctm.com
-125.31.1.131    ads.cyberctm.com
-125.31.1.34     www.cyberctm.com
-125.31.1.35     www.cyberctm.com
-125.31.1.35     sme.cyberctm.com
-125.31.1.34     jobs.cyberctm.com
-125.31.1.35     jobs.cyberctm.com
-125.31.1.85     forum.cyberctm.com
-125.31.1.86     forum.cyberctm.com
-125.31.1.38     media.cyberctm.com
-125.31.1.34     lifemag.cyberctm.com
-125.31.1.35     lifemag.cyberctm.com
-125.31.1.34     calendar.cyberctm.com
-125.31.1.35     calendar.cyberctm.com
-125.31.1.34     cyberbar.cyberctm.com
-125.31.1.35     cyberbar.cyberctm.com
+202.175.22.109  ads.cyberctm.com
+202.175.22.232  ads.cyberctm.com
+202.175.22.9    www.cyberctm.com
+202.175.22.9    sme.cyberctm.com
+202.175.22.9    jobs.cyberctm.com
+202.175.22.41   forum.cyberctm.com
+202.175.161.195 forum.cyberctm.com
+202.175.161.230 media.cyberctm.com
+202.175.22.100  ucenter.cyberctm.com
+202.175.161.109 ucenter.cyberctm.com
+202.175.22.9    lifemag.cyberctm.com
+202.175.22.9    calendar.cyberctm.com
+202.175.22.9    cyberbar.cyberctm.com
 202.175.36.140  vstorage.cyberctm.com
 # cyberctm End
 
@@ -59671,7 +59668,6 @@
 # TDM End
 
 # Udn Start
-# 2020/4/13 HTTPS 连接重置（需配合SNI工具解封）
 104.78.28.160   udn.com
 104.78.28.160   m.udn.com
 210.243.166.197 gb.udn.com
