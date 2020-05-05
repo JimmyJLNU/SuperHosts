@@ -20780,11 +20780,6 @@
 172.217.160.81  blog.panoramio.com
 172.217.160.81  recaptcha.com
 172.217.160.81  www.recaptcha.com
-172.217.160.81  recaptcha.net
-172.217.160.81  www.recaptcha.net
-172.217.160.81  api.recaptcha.net
-172.217.160.81  api-secure.recaptcha.net
-172.217.160.81  mailhide.recaptcha.net
 172.217.160.81  webmproject.org
 172.217.160.81  www.webmproject.org
 172.217.160.81  www.chromercise.com
