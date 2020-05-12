@@ -50516,10 +50516,16 @@
 104.20.75.178 www.gate.io
 # Gate.io End
 
-# btc98 Start
-103.80.133.130 btc98.com
-103.80.133.130 www.btc98.com
-# Btc98 End
+# otcbtc Start
+18.180.40.58   otcbtc.com
+54.64.163.100  otcbtc.com
+13.112.32.149  bb.otcbtc.com
+52.197.60.152  bb.otcbtc.com
+18.180.40.58   www.otcbtc.com
+54.64.163.100  www.otcbtc.com
+3.222.56.98    career.otcbtc.com
+54.160.176.160 career.otcbtc.com
+# otcbtc End
 
 # HBO Start
 52.5.61.70     hbo.com
@@ -54572,6 +54578,8 @@
 35.155.167.15   factpedia.org
 35.155.167.15   www.factpedia.org
 211.20.148.228  hichannel.hinet.net
+103.80.133.130  btc98.com
+103.80.133.130  www.btc98.com
 103.72.165.197  parsevideo.com
 103.72.165.197  www.parsevideo.com
 150.109.46.203  speedpan.com
