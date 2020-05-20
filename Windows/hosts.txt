@@ -43627,9 +43627,7 @@
 116.128.134.167 dajia.qq.com
 157.255.192.44  dajia.qq.com
 66.102.251.24   us.weibo.com
-218.60.28.2     csytv.com
-218.60.28.2     www.csytv.com
-101.37.42.52    www.lanzous.com
+139.215.140.228 www.lanzous.com
 203.74.140.195  upos-hz-mirrorakam.akamaized.net
 210.176.33.81   upos-hz-mirrorakam.akamaized.net
 # Tieba End
