@@ -60175,11 +60175,15 @@
 # sueddeutsche End
 
 # TDM Start
-61.244.22.9     tdm.com.mo
+61.244.22.6     tdm.com.mo
+61.244.22.7     tdm.com.mo
+61.244.22.8     tdm.com.mo
 61.244.22.6     gb.tdm.com.mo
 61.244.22.7     gb.tdm.com.mo
 61.244.22.8     gb.tdm.com.mo
-61.244.22.9     www.tdm.com.mo
+61.244.22.6     www.tdm.com.mo
+61.244.22.7     www.tdm.com.mo
+61.244.22.8     www.tdm.com.mo
 103.233.191.137 vod.tdm.com.mo
 103.233.191.137 vod1.tdm.com.mo
 103.233.191.137 vod2.tdm.com.mo
@@ -60196,10 +60200,10 @@
 61.244.22.4     live4.tdm.com.mo
 61.244.22.5     live4.tdm.com.mo
 103.192.45.55   live5.tdm.com.mo
-61.244.22.9     mobile.tdm.com.mo
-61.244.22.9     tourism.tdm.com.mo
+61.244.22.8     mobile.tdm.com.mo
+61.244.22.8     tourism.tdm.com.mo
 202.175.89.60   webstat.tdm.com.mo
-61.244.22.9     portugues.tdm.com.mo
+61.244.22.8     portugues.tdm.com.mo
 # TDM End
 
 # Udn Start
