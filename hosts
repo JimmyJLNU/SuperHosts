@@ -43222,7 +43222,10 @@
 91.198.174.192  www.wikidata.org
 91.198.174.192  wikimedia.org
 91.198.174.192  www.wikimedia.org
+198.35.26.112   maps.wikimedia.org
 91.198.174.192  login.wikimedia.org
+198.35.26.112   upload.wikimedia.org
+91.198.174.192  toolsadmin.wikimedia.org
 91.198.174.192  meta.wikimedia.org
 91.198.174.192  meta.m.wikimedia.org
 91.198.174.192  commons.wikimedia.org
@@ -43231,7 +43234,6 @@
 91.198.174.192  wikitech.m.wikimedia.org
 91.198.174.192  incubator.wikimedia.org
 91.198.174.192  incubator.m.wikimedia.org
-198.35.26.112   upload.wikimedia.org
 91.198.174.192  wikipedia.org
 91.198.174.192  m.wikipedia.org
 91.198.174.192  www.wikipedia.org
