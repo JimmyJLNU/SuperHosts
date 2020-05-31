@@ -3472,6 +3472,23 @@
 23.41.68.37    podcastfeeds.nbcnews.com
 # NBC News End
 
+# Detroit News Start
+159.54.242.176  detroitnews.com
+209.97.50.225   detroitnews.com
+151.101.2.62    cm.detroitnews.com
+151.101.2.62    www.detroitnews.com
+151.101.78.62   www.detroitnews.com
+151.101.210.62  www.detroitnews.com
+151.101.2.62    help.detroitnews.com
+151.101.2.62    profile.detroitnews.com
+13.113.240.56   repdata.detroitnews.com
+18.140.85.34    repdata.detroitnews.com
+13.113.240.56   srepdata.detroitnews.com
+3.113.180.95    srepdata.detroitnews.com
+54.70.75.161    classifieds.detroitnews.com
+54.90.226.195   classifieds.detroitnews.com
+# Detroit News End
+
 # Westword Start
 199.204.20.205 westword.com
 192.229.179.79 www.westword.com
@@ -39229,6 +39246,7 @@
 167.99.227.239  dev.invidio.us
 157.245.249.110 dev.invidio.us
 174.138.43.128  dev.invidio.us
+104.248.113.93  instances.invidio.us
 95.216.229.153  invidious.snopyta.org
 138.68.23.98    invidious.spriteclad.com
 95.216.198.3    invidious.kabi.tk
