@@ -43299,7 +43299,9 @@
 91.198.174.192  www.wikidata.org
 91.198.174.192  wikimedia.org
 91.198.174.192  www.wikimedia.org
+198.35.26.112   maps.wikimedia.org
 91.198.174.192  login.wikimedia.org
+198.35.26.112   upload.wikimedia.org
 91.198.174.192  toolsadmin.wikimedia.org
 91.198.174.192  meta.wikimedia.org
 91.198.174.192  meta.m.wikimedia.org
@@ -55524,6 +55526,41 @@
 34.215.192.14   forums.thetvdb.com
 # TheTVDB End
 
+# TMDB Start
+13.225.99.3     themoviedb.org
+99.84.142.45    themoviedb.org
+99.84.142.50    themoviedb.org
+99.86.144.24    themoviedb.org
+99.86.144.43    themoviedb.org
+13.35.163.55    themoviedb.org
+143.204.83.11   themoviedb.org
+13.224.166.12   themoviedb.org
+13.225.99.124   themoviedb.org
+13.226.124.111  themoviedb.org
+99.86.144.77    api.themoviedb.org
+99.86.144.118   api.themoviedb.org
+13.225.99.10    api.themoviedb.org
+13.35.163.123   api.themoviedb.org
+13.224.166.2    api.themoviedb.org
+13.224.166.59   api.themoviedb.org
+13.226.124.62   api.themoviedb.org
+13.225.99.125   api.themoviedb.org
+13.226.124.91   api.themoviedb.org
+13.226.124.16   api.themoviedb.org
+143.204.83.122  api.themoviedb.org
+99.86.144.51    www.themoviedb.org
+13.225.99.75    www.themoviedb.org
+13.224.166.12   www.themoviedb.org
+13.226.124.91   www.themoviedb.org
+13.225.99.124   www.themoviedb.org
+13.227.185.87   www.themoviedb.org
+13.224.166.12   www.themoviedb.org
+13.224.166.129  www.themoviedb.org
+13.224.166.117  www.themoviedb.org
+13.226.124.111  www.themoviedb.org
+204.141.42.152  status.themoviedb.org
+# TMDB End
+
 # Imgur Start
 # 2019/4/27 HTTPS 连接重置（需配合SNI工具解封）
 151.101.40.193  imgur.com
@@ -59055,38 +59092,6 @@
 45.60.36.25     img-fnc.ebc.net.tw
 45.60.34.25     img-fnc.ebc.net.tw
 45.60.104.25    img-fnc.ebc.net.tw
-13.225.99.3     themoviedb.org
-99.84.142.45    themoviedb.org
-99.84.142.50    themoviedb.org
-99.86.144.24    themoviedb.org
-99.86.144.43    themoviedb.org
-13.35.163.55    themoviedb.org
-143.204.83.11   themoviedb.org
-13.224.166.12   themoviedb.org
-13.225.99.124   themoviedb.org
-13.226.124.111  themoviedb.org
-99.86.144.77    api.themoviedb.org
-99.86.144.118   api.themoviedb.org
-13.225.99.10    api.themoviedb.org
-13.35.163.123   api.themoviedb.org
-13.224.166.2    api.themoviedb.org
-13.224.166.59   api.themoviedb.org
-13.226.124.62   api.themoviedb.org
-13.225.99.125   api.themoviedb.org
-13.226.124.91   api.themoviedb.org
-13.226.124.16   api.themoviedb.org
-143.204.83.122  api.themoviedb.org
-99.86.144.51    www.themoviedb.org
-13.225.99.75    www.themoviedb.org
-13.224.166.12   www.themoviedb.org
-13.226.124.91   www.themoviedb.org
-13.225.99.124   www.themoviedb.org
-13.227.185.87   www.themoviedb.org
-13.224.166.12   www.themoviedb.org
-13.224.166.129  www.themoviedb.org
-13.224.166.117  www.themoviedb.org
-13.226.124.111  www.themoviedb.org
-204.141.42.152  status.themoviedb.org
 52.84.248.121   mssl.eslite.com
 54.192.75.117   mssl.eslite.com
 54.192.75.198   mssl.eslite.com
