@@ -30744,21 +30744,24 @@
 
 # TheTVDB Start
 # 2019/4/27 HTTPS 连接重置（需配合SNI工具解封）
-104.16.229.14 thetvdb.com
-104.16.228.14 thetvdb.com
-104.16.230.14 thetvdb.com
-104.16.227.14 thetvdb.com
-104.16.231.14 thetvdb.com
-104.16.229.14 www.thetvdb.com
-104.16.228.14 www.thetvdb.com
-104.16.230.14 www.thetvdb.com
-104.16.227.14 www.thetvdb.com
-104.16.231.14 www.thetvdb.com
-104.16.229.14 forums.thetvdb.com
-104.16.228.14 forums.thetvdb.com
-104.16.230.14 forums.thetvdb.com
-104.16.227.14 forums.thetvdb.com
-104.16.231.14 forums.thetvdb.com
+99.86.147.11    thetvdb.com
+13.35.48.175    thetvdb.com
+13.35.161.120   thetvdb.com
+13.224.157.34   thetvdb.com
+13.225.89.239   thetvdb.com
+13.249.175.212  thetvdb.com
+13.226.114.164  thetvdb.com
+99.86.147.11    api.thetvdb.com
+13.33.214.215   api.thetvdb.com
+13.35.161.120   api.thetvdb.com
+13.225.89.239   api.thetvdb.com
+13.224.157.34   api.thetvdb.com
+13.226.114.164  api.thetvdb.com
+99.86.147.11    www.thetvdb.com
+13.225.89.239   www.thetvdb.com
+13.224.157.34   www.thetvdb.com
+13.226.114.164  www.thetvdb.com
+34.215.192.14   forums.thetvdb.com
 # TheTVDB End
 
 # Imgur Start
@@ -34150,6 +34153,10 @@
 104.25.77.33    www.gmgard.com
 104.25.76.33    static.gmgard.com
 104.25.77.33    static.gmgard.com
+188.165.205.120 yande.re
+188.165.205.120 www.yande.re
+51.77.247.63    files.yande.re
+188.165.205.120 assets.yande.re
 104.26.4.71     hexieshe.cn
 104.26.5.71     hexieshe.cn
 104.26.4.71     www.hexieshe.cn
@@ -34278,6 +34285,38 @@
 45.60.36.25     img-fnc.ebc.net.tw
 45.60.34.25     img-fnc.ebc.net.tw
 45.60.104.25    img-fnc.ebc.net.tw
+13.225.99.3     themoviedb.org
+99.84.142.45    themoviedb.org
+99.84.142.50    themoviedb.org
+99.86.144.24    themoviedb.org
+99.86.144.43    themoviedb.org
+13.35.163.55    themoviedb.org
+143.204.83.11   themoviedb.org
+13.224.166.12   themoviedb.org
+13.225.99.124   themoviedb.org
+13.226.124.111  themoviedb.org
+99.86.144.77    api.themoviedb.org
+99.86.144.118   api.themoviedb.org
+13.225.99.10    api.themoviedb.org
+13.35.163.123   api.themoviedb.org
+13.224.166.2    api.themoviedb.org
+13.224.166.59   api.themoviedb.org
+13.226.124.62   api.themoviedb.org
+13.225.99.125   api.themoviedb.org
+13.226.124.91   api.themoviedb.org
+13.226.124.16   api.themoviedb.org
+143.204.83.122  api.themoviedb.org
+99.86.144.51    www.themoviedb.org
+13.225.99.75    www.themoviedb.org
+13.224.166.12   www.themoviedb.org
+13.226.124.91   www.themoviedb.org
+13.225.99.124   www.themoviedb.org
+13.227.185.87   www.themoviedb.org
+13.224.166.12   www.themoviedb.org
+13.224.166.129  www.themoviedb.org
+13.224.166.117  www.themoviedb.org
+13.226.124.111  www.themoviedb.org
+204.141.42.152  status.themoviedb.org
 52.84.248.121   mssl.eslite.com
 54.192.75.117   mssl.eslite.com
 54.192.75.198   mssl.eslite.com
