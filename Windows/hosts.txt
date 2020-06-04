@@ -26826,14 +26826,14 @@
 # ss-ssr End
 
 # Github Start
-192.30.253.118  github.com
-192.30.253.119  github.com
-192.30.255.118  www.github.com
-192.30.255.119  www.github.com
-192.30.253.118  gist.github.com
-192.30.253.119  gist.github.com
-192.30.255.118  gist.github.com
-192.30.255.119  gist.github.com
+140.82.112.3    github.com
+140.82.112.4    github.com
+140.82.113.4    www.github.com
+140.82.114.3    www.github.com
+140.82.112.3    gist.github.com
+140.82.112.4    gist.github.com
+140.82.113.4    gist.github.com
+140.82.114.3    gist.github.com
 151.101.108.133 raw.githubusercontent.com
 151.101.108.133 camo.githubusercontent.com
 151.101.108.133 cloud.githubusercontent.com
