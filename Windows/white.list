@@ -56788,7 +56788,7 @@
 123.51.145.44   p.ftv.com.tw
 123.51.145.44   mlb.ftv.com.tw
 123.51.145.44   www.ftv.com.tw
-13.75.46.26     news.ftv.com.tw
+52.187.17.126   news.ftv.com.tw
 123.51.145.44   view.ftv.com.tw
 202.39.27.96    blog.ftv.com.tw
 123.51.145.44   world.ftv.com.tw
@@ -56797,12 +56797,8 @@
 152.195.132.93  newsimg.ftv.com.tw
 123.51.145.44   program.ftv.com.tw
 123.51.145.44   englishnews.ftv.com.tw
-13.75.46.26     ftvnews.com.tw
-13.75.46.26     www.ftvnews.com.tw
-198.185.159.145 dopost.com
-198.185.159.144 dopost.com
-198.49.23.144   www.dopost.com
-198.49.23.145   www.dopost.com
+52.187.17.126   ftvnews.com.tw
+52.187.17.126   www.ftvnews.com.tw
 # FTV End
 
 # dynu Start
@@ -59316,6 +59312,32 @@
 52.193.30.235  external-script.mixi.net
 # MIXI End
 
+# 4GTV Start
+# 2020/6/7 HTTPS 连接重置（需配合SNI工具解封）
+59.120.12.47    4gtv.tv
+125.227.26.214  4gtv.tv
+104.20.93.59    m.4gtv.tv
+104.20.94.59    m.4gtv.tv
+122.147.213.35  app.4gtv.tv
+118.163.116.220 app.4gtv.tv
+104.20.93.59    www.4gtv.tv
+104.20.94.59    www.4gtv.tv
+59.120.12.47    api.4gtv.tv
+125.227.26.214  api.4gtv.tv
+59.120.12.47    api2.4gtv.tv
+125.227.26.214  api2.4gtv.tv
+104.20.93.59    embed.4gtv.tv
+104.20.94.59    embed.4gtv.tv
+125.227.58.190  mozai.4gtv.tv
+122.147.212.131 mozai.4gtv.tv
+122.147.213.35  service.4gtv.tv
+118.163.116.220 service.4gtv.tv
+125.227.58.190  4gtvfreepc-mozai.4gtv.tv
+122.147.212.131 4gtvfreepc-mozai.4gtv.tv
+125.227.58.190  4gtvfreemobile-mozai.4gtv.tv
+122.147.212.131 4gtvfreemobile-mozai.4gtv.tv
+# 4GTV End
+
 # Others Start
 54.182.1.32     vid.me
 52.84.143.32    vid.me
@@ -59576,6 +59598,10 @@
 104.26.7.111    newcongress.tw
 104.26.6.111    www.newcongress.tw
 104.26.7.111    www.newcongress.tw
+198.185.159.145 eatnews.net
+198.185.159.144 www.eatnews.net
+198.185.159.145 epmedia.info
+198.185.159.144 www.epmedia.info
 104.26.2.79     kairos.news
 104.26.3.79     kairos.news
 104.26.2.79     www.kairos.news
@@ -60470,6 +60496,12 @@
 216.58.200.243  www.kmt.org.tw
 220.128.150.146 dpp.org.tw
 220.128.150.146 www.dpp.org.tw
+104.31.88.77    sdparty.tw
+104.31.89.77    sdparty.tw
+172.67.206.159  sdparty.tw
+104.31.88.77    www.sdparty.tw
+104.31.89.77    www.sdparty.tw
+172.67.206.159  www.sdparty.tw
 104.25.48.13    newpowerparty.tw
 104.25.49.13    newpowerparty.tw
 104.25.48.13    www.newpowerparty.tw
