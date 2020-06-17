@@ -16165,6 +16165,7 @@
 151.139.128.11  q5f4i4t5.stackpathcdn.com
 151.139.128.11  q5y4h7n7.stackpathcdn.com
 151.139.128.11  q5y7n4c3.stackpathcdn.com
+151.139.128.11  q6q9s6d8.stackpathcdn.com
 151.139.128.11  q7h7n5e6.stackpathcdn.com
 151.139.128.11  q7p7m6h6.stackpathcdn.com
 151.139.128.11  q8a7s5e6.stackpathcdn.com
@@ -16221,6 +16222,7 @@
 151.139.128.11  u5j4h3u7.stackpathcdn.com
 151.139.128.11  u5k5k4c5.stackpathcdn.com
 151.139.128.11  u5s6p3r8.stackpathcdn.com
+151.139.128.11  u5s7z4a3.stackpathcdn.com
 151.139.128.11  u6h4y9t5.stackpathcdn.com
 151.139.128.11  u6u5j8x4.stackpathcdn.com
 151.139.128.11  u7c2q4x3.stackpathcdn.com
@@ -16249,6 +16251,7 @@
 151.139.128.11  v7t7j6y6.stackpathcdn.com
 151.139.128.11  v9e8p5i7.stackpathcdn.com
 151.139.128.11  v9i9f6v5.stackpathcdn.com
+151.139.128.11  v9k2x6g4.stackpathcdn.com
 151.139.128.11  w2k7g8a9.stackpathcdn.com
 151.139.128.11  w3g3c5x5.stackpathcdn.com
 151.139.128.11  w3h9u7b9.stackpathcdn.com
@@ -16532,6 +16535,7 @@
 151.139.128.11  www.q5f4i4t5.stackpathcdn.com
 151.139.128.11  www.q5y4h7n7.stackpathcdn.com
 151.139.128.11  www.q5y7n4c3.stackpathcdn.com
+151.139.128.11  www.q6q9s6d8.stackpathcdn.com
 151.139.128.11  www.q7h7n5e6.stackpathcdn.com
 151.139.128.11  www.q7p7m6h6.stackpathcdn.com
 151.139.128.11  www.q8a7s5e6.stackpathcdn.com
@@ -16588,6 +16592,7 @@
 151.139.128.11  www.u5j4h3u7.stackpathcdn.com
 151.139.128.11  www.u5k5k4c5.stackpathcdn.com
 151.139.128.11  www.u5s6p3r8.stackpathcdn.com
+151.139.128.11  www.u5s7z4a3.stackpathcdn.com
 151.139.128.11  www.u6h4y9t5.stackpathcdn.com
 151.139.128.11  www.u6u5j8x4.stackpathcdn.com
 151.139.128.11  www.u7c2q4x3.stackpathcdn.com
@@ -16609,6 +16614,7 @@
 151.139.128.11  www.v5q6c2z2.stackpathcdn.com
 151.139.128.11  www.v6b8i2d7.stackpathcdn.com
 151.139.128.11  www.v6k2g5f5.stackpathcdn.com
+151.139.128.11  www.v9k2x6g4.stackpathcdn.com
 151.139.128.11  www.v6k8u5d3.stackpathcdn.com
 151.139.128.11  www.v6t2s7n6.stackpathcdn.com
 151.139.128.11  www.v6w4v4x2.stackpathcdn.com
@@ -34229,6 +34235,20 @@
 54.255.159.228  server.matters.news
 52.220.202.192  server.matters.news
 # Matters News End
+
+# newsweek Start
+# 2020/6/10 HTTPS 连接重置（需配合SNI工具解封）
+52.44.228.238  newsweek.com
+151.139.128.11 d.newsweek.com
+151.139.128.11 g.newsweek.com
+151.139.128.11 gc.newsweek.com
+52.44.228.238  www.newsweek.com
+18.214.178.193 stats.newsweek.com
+52.194.65.136  newsweekjapan.jp
+13.35.34.60    www.newsweekjapan.jp
+99.84.55.123   www.newsweekjapan.jp
+13.227.54.16   www.newsweekjapan.jp
+# newsweek End
 
 # nypost Start
 # 2019/10/20 HTTPS 连接重置（需配合SNI工具解封）
