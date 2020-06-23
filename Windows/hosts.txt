@@ -42976,8 +42976,11 @@
 104.78.28.160   stars.udn.com
 104.78.28.160   topic.udn.com
 104.78.28.160   fund.udn.com
-211.20.187.85   cdn.udn.com
-211.20.187.86   cdn.udn.com
+13.35.0.26      cdn.udn.com
+13.224.166.65   cdn.udn.com
+13.224.166.71   cdn.udn.com
+13.225.158.110  cdn.udn.com
+13.227.54.104   cdn.udn.com
 184.31.63.101   img.udn.com
 113.196.249.55  rec.udn.com
 104.78.28.160   oops.udn.com
