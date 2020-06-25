@@ -59016,6 +59016,7 @@
 # Tap2World End
 
 # Matters News Start
+# 2020/6/25 HTTPS 连接重置（需配合SNI工具解封）
 13.225.103.7    matters.news
 13.35.165.60    matters.news
 13.225.103.62   matters.news
@@ -59383,10 +59384,10 @@
 54.86.175.42    ny1.com
 34.228.49.34    www.ny1.com
 54.86.175.42    www.ny1.com
-52.8.0.86       oann.com
-54.183.45.102   oann.com
-52.8.0.86       www.oann.com
-54.183.45.102   www.oann.com
+52.52.228.35    oann.com
+52.53.141.122   oann.com
+52.52.228.35    www.oann.com
+52.53.141.122   www.oann.com
 104.154.170.37  store.oann.com
 34.228.49.34    baynews9.com
 54.86.175.42    baynews9.com
@@ -61975,6 +61976,12 @@
 35.190.55.229   bbs.wenxuecity.com
 35.190.55.229   www.wenxuecity.com
 35.190.55.229   blog.wenxuecity.com
+35.185.11.58    cfcnews.com
+35.185.11.58    www.cfcnews.com
+192.0.78.24     chineseradioseattle.com
+192.0.78.25     chineseradioseattle.com
+192.0.78.24     www.chineseradioseattle.com
+192.0.78.25     www.chineseradioseattle.com
 50.23.135.236   iask.ca
 50.23.135.236   m.iask.ca
 50.23.135.236   www.iask.ca
