@@ -30625,9 +30625,9 @@
 # Xuehua End
 
 # ifj Start
-149.202.169.97 ifj.org
-149.202.169.97 www.ifj.org
-104.156.56.20  samsn.ifj.org
+157.97.34.160  ifj.org
+157.97.34.160  www.ifj.org
+66.206.11.82   samsn.ifj.org
 176.58.112.10  colombia.ifj.org
 # ifj End
 
@@ -32513,6 +32513,7 @@
 103.23.108.220 tecofound.pixnet.net
 103.23.108.220 terisawu.pixnet.net
 103.23.108.220 theyareflying.pixnet.net
+103.23.108.220 thomastagebuch.pixnet.net
 103.23.108.220 tingtingqq.pixnet.net
 103.23.108.220 tofuoyako.pixnet.net
 103.23.108.220 tonysu1109.pixnet.net
@@ -39342,10 +39343,8 @@
 104.28.22.12    s.twishort.com
 104.28.23.12    www.twishort.com
 104.28.22.12    www.twishort.com
-69.195.124.104  financetwitter.com
-69.195.124.104  www.financetwitter.com
-62.4.0.79       trendtwitter.com
-62.4.0.79       www.trendtwitter.com
+95.216.229.153  nitter.net
+95.216.229.153  www.nitter.net
 78.47.51.139    trendsmap.com
 78.47.51.139    www.trendsmap.com
 162.243.129.115 help2.trendsmap.com
@@ -40497,6 +40496,16 @@
 104.27.187.188  tmhk.org
 104.27.186.188  www.tmhk.org
 104.27.187.188  www.tmhk.org
+104.24.126.129  factwire.org
+104.24.127.129  factwire.org
+104.24.126.129  www.factwire.org
+104.24.127.129  www.factwire.org
+104.24.124.77   barrymatv.com
+104.24.125.77   barrymatv.com
+172.67.207.103  barrymatv.com
+104.24.124.77   www.barrymatv.com
+104.24.125.77   www.barrymatv.com
+172.67.207.103  www.barrymatv.com
 13.32.246.128   expressvpn.solutions
 47.52.222.187   speedfast365-day.net
 47.52.222.187   www.speedfast365-day.net
@@ -49410,13 +49419,13 @@
 202.98.24.121   thirdparty.mobilem.360.cn
 202.98.24.121   stats.np.mobilem.360.cn
 202.98.24.121   intf.zsall.mobilem.360.cn
-23.61.203.218   360totalsecurity.com
-23.61.203.218   www.360totalsecurity.com
-23.61.203.218   blog.360totalsecurity.com
-23.61.203.218   store.360totalsecurity.com
-23.61.203.218   free.360totalsecurity.com
-23.61.203.218   display.360totalsecurity.com
-23.61.203.218   account.360totalsecurity.com
-23.61.203.218   checkout.360totalsecurity.com
-23.61.203.218   www.360totalsecurity.com.awsr53.qihucdn.com
+88.198.178.56   360totalsecurity.com
+88.198.178.56   www.360totalsecurity.com
+88.198.178.56   blog.360totalsecurity.com
+88.198.178.56   store.360totalsecurity.com
+88.198.178.56   free.360totalsecurity.com
+88.198.178.56   display.360totalsecurity.com
+88.198.178.56   account.360totalsecurity.com
+88.198.178.56   checkout.360totalsecurity.com
+88.198.178.56   www.360totalsecurity.com.awsr53.qihucdn.com
 # Block 360 End
