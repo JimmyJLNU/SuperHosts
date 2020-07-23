@@ -26605,7 +26605,36 @@
 88.99.95.180  yerevan.wikimapia.org
 88.99.95.180  zaporizhzhya.wikimapia.org
 # Wikimapia End
- 
+
+# Courant Start
+192.187.77.17  courant.com
+139.175.41.48  www.courant.com
+104.70.235.139 www.courant.com
+35.190.91.31   jobs.courant.com
+34.96.77.232   mylocal.courant.com
+13.55.4.2      activate.courant.com
+3.113.189.175  activate.courant.com
+3.133.211.247  activate.courant.com
+3.133.218.120  activate.courant.com
+35.227.87.29   placeanad.courant.com
+45.60.43.187   myaccount2.courant.com
+45.64.65.187   myaccount2.courant.com
+45.60.70.187   myaccount2.courant.com
+45.64.66.187   myaccount2.courant.com
+45.60.118.187  myaccount2.courant.com
+52.70.39.53    membership.courant.com
+3.214.233.100  membership.courant.com
+34.236.169.175 membership.courant.com
+34.214.28.174  authenticate.courant.com
+52.43.55.104   authenticate.courant.com
+54.184.66.250  authenticate.courant.com
+13.35.20.94    digitaledition.courant.com
+13.226.77.14   digitaledition.courant.com
+13.226.115.29  digitaledition.courant.com
+13.225.134.111 digitaledition.courant.com
+13.224.153.105 digitaledition.courant.com
+# Courant End
+
 # Yahoo Start
 58.64.205.201   yahoo-news.com.hk
 58.64.205.201   www.yahoo-news.com.hk
@@ -26684,9 +26713,11 @@
 183.79.249.124  map.search.yahoo.co.jp
 183.79.123.212  custom.search.yahoo.co.jp
 114.110.55.169  custom.search.yahoo.co.jp
-119.161.8.11    s.yimg.com
-119.161.16.12   media.zenfs.com
-119.161.8.11    media.zenfs.com
+119.161.10.11   s.yimg.com
+119.161.10.12   s.yimg.com
+106.10.236.40   s.yimg.com
+119.161.14.17   media.zenfs.com
+119.161.14.18   media.zenfs.com
 # Yahoo End 
 
 # Yahoo Search Start
