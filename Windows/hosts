@@ -35825,6 +35825,21 @@
 122.147.212.131 4gtvfreemobile-mozai.4gtv.tv
 # 4GTV End
 
+# opentech Start
+104.26.8.170    opentech.fund
+104.26.9.170    opentech.fund
+172.67.70.18    opentech.fund
+104.26.8.170    www.opentech.fund
+104.26.9.170    www.opentech.fund
+172.67.70.18    www.opentech.fund
+104.26.8.170    apply.opentech.fund
+104.26.9.170    apply.opentech.fund
+172.67.70.18    apply.opentech.fund
+104.26.8.170    public.opentech.fund
+104.26.9.170    public.opentech.fund
+172.67.70.18    public.opentech.fund
+# opentech End
+
 # Others Start
 54.182.1.32     vid.me
 52.84.143.32    vid.me
@@ -36559,15 +36574,9 @@
 72.52.9.107     privateinternetaccess.com
 72.52.9.107     www.privateinternetaccess.com
 23.198.117.95   chi.privateinternetaccess.com
-104.26.8.170    opentech.fund
-104.26.9.170    opentech.fund
-172.67.70.18    opentech.fund
-104.26.8.170    www.opentech.fund
-104.26.9.170    www.opentech.fund
-172.67.70.18    www.opentech.fund
-104.26.8.170    apply.opentech.fund
-104.26.9.170    apply.opentech.fund
-172.67.70.18    apply.opentech.fund
+192.95.5.67     wireguard.com
+192.95.5.67     www.wireguard.com
+192.95.5.67     download.wireguard.com
 192.64.119.39   potatovpn.org
 198.54.117.218  www.potatovpn.org
 198.54.117.216  www.potatovpn.org
