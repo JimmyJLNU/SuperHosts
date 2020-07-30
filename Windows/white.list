@@ -48932,9 +48932,11 @@
 212.95.74.37  concert.arte.tv
 212.95.74.37  my.arte.tv
 212.95.74.30  api.arte.tv
+2.20.241.166  api-cdn.arte.tv
+104.85.51.65  api-cdn.arte.tv
 212.95.74.30  api-internal.arte.tv
-104.121.2.98  static-cdn.arte.tv
-23.34.182.117 static-cdn.arte.tv
+72.247.85.13  static-cdn.arte.tv
+2.20.241.166  static-cdn.arte.tv
 78.109.84.91  prisonvalley.arte.tv
 212.95.71.110 unjourenfrance-allemagne.arte.tv
 212.95.71.38  configtest.arte.tv
@@ -59596,6 +59598,7 @@
 192.0.78.13    labs.time.com
 192.0.79.32    ideas.time.com
 192.0.79.33    ideas.time.com
+192.0.66.200   world.time.com
 13.35.8.117    content.time.com
 13.224.161.45  content.time.com
 13.224.161.123 content.time.com
