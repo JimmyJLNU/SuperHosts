@@ -31732,38 +31732,6 @@
 # SCMP End
 
 # Sina Start
-218.213.85.210  sina.com.hk
-218.213.85.210  m.sina.com.hk
-218.213.85.234  tv.sina.com.hk
-218.213.85.170  hk.sina.com.hk
-218.213.85.216  cs.sina.com.hk
-218.213.85.114  ps.sina.com.hk
-218.213.85.216  ent.sina.com.hk
-218.213.85.210  www.sina.com.hk
-218.213.85.173  pda.sina.com.hk
-218.213.85.216  news.sina.com.hk
-218.213.85.33   blog.sina.com.hk
-218.213.85.216  game.sina.com.hk
-210.17.38.15    ipop.sina.com.hk
-203.73.94.166   ifate.sina.com.hk
-218.213.85.94   login.sina.com.hk
-218.213.85.129  forum.sina.com.hk
-218.213.85.198  house.sina.com.hk
-218.213.85.216  m.ent.sina.com.hk
-218.213.85.124  myway.sina.com.hk
-218.213.85.229  events.sina.com.hk
-218.213.85.210  search.sina.com.hk
-218.213.85.179  misssee.sina.com.hk
-218.213.85.216  travel.sina.com.hk
-218.213.85.203  soccer.sina.com.hk
-218.213.85.216  digital.sina.com.hk
-218.213.85.216  finance.sina.com.hk
-218.213.85.198  property.sina.com.hk
-218.213.85.74   mindcity.sina.com.hk
-218.213.85.216  basketball.sina.com.hk
-218.213.85.77   dictionary.sina.com.hk
-218.213.85.170  mysinamail.sina.com.hk
-124.95.163.249  www.sina.com
 66.102.251.33   bbs.sina.com
 205.204.104.213 news.sina.com
 66.102.251.33   home.sina.com
@@ -31802,16 +31770,75 @@
 47.246.5.226    chinanews.sina.com
 47.91.195.229   dailynews.sina.com
 47.246.59.231   dailynews.sina.com
-205.204.104.192 dailynews.sina.com
-202.47.28.96    ent.sina.com
+47.246.4.228    ent.sina.com
+47.89.64.202    ent.sina.com
+47.246.29.16    ent.sina.com
+47.246.4.227    ent.sina.com
+47.246.4.232    ent.sina.com
+47.246.16.227   ent.sina.com
+163.181.33.224  ent.sina.com
+163.181.33.228  ent.sina.com
+163.181.33.226  ent.sina.com
+163.181.36.228  ent.sina.com
 47.74.160.94    finance.sina.com
 47.246.24.229   finance.sina.com
 47.91.195.222   finance.sina.com
 47.246.16.229   finance.sina.com
 47.89.64.202    finance.sina.com
 47.246.25.228   finance.sina.com
-202.47.28.93    sports.sina.com
+47.246.4.231    sports.sina.com
+47.246.29.15    sports.sina.com
+47.246.4.232    sports.sina.com
+47.246.16.225   sports.sina.com
+47.246.36.233   sports.sina.com
+47.246.29.14    sports.sina.com
+47.246.16.230   sports.sina.com
+163.181.33.226  sports.sina.com
+163.181.33.228  sports.sina.com
+163.181.33.225  sports.sina.com
+163.181.33.230  sports.sina.com
 66.102.251.33   video.sina.com
+218.213.85.210  sina.com.hk
+218.213.85.210  m.sina.com.hk
+218.213.85.234  tv.sina.com.hk
+218.213.85.170  hk.sina.com.hk
+218.213.85.216  cs.sina.com.hk
+218.213.85.114  ps.sina.com.hk
+218.213.85.216  ent.sina.com.hk
+218.213.85.210  www.sina.com.hk
+218.213.85.173  pda.sina.com.hk
+218.213.85.216  news.sina.com.hk
+218.213.85.33   blog.sina.com.hk
+218.213.85.216  game.sina.com.hk
+210.17.38.15    ipop.sina.com.hk
+203.73.94.166   ifate.sina.com.hk
+218.213.85.94   login.sina.com.hk
+218.213.85.129  forum.sina.com.hk
+218.213.85.198  house.sina.com.hk
+218.213.85.216  m.ent.sina.com.hk
+218.213.85.124  myway.sina.com.hk
+218.213.85.229  events.sina.com.hk
+218.213.85.210  search.sina.com.hk
+218.213.85.179  misssee.sina.com.hk
+218.213.85.216  travel.sina.com.hk
+218.213.85.203  soccer.sina.com.hk
+218.213.85.216  digital.sina.com.hk
+218.213.85.216  finance.sina.com.hk
+218.213.85.198  property.sina.com.hk
+218.213.85.74   mindcity.sina.com.hk
+218.213.85.216  basketball.sina.com.hk
+218.213.85.77   dictionary.sina.com.hk
+218.213.85.170  mysinamail.sina.com.hk
+210.17.38.45    sina.com.tw
+210.17.38.26    nz.sina.com.tw
+210.17.38.45    www.sina.com.tw
+210.17.38.59    blog.sina.com.tw
+210.17.38.54    ipop.sina.com.tw
+210.17.38.13    news.sina.com.tw
+210.17.38.6     game.sina.com.tw
+210.17.38.47    iview.sina.com.tw
+210.17.38.10    weather.sina.com.tw
+210.17.38.4     mindcity.sina.com.tw
 # Sina End
 
 # Transparency Start
@@ -33135,6 +33162,7 @@
 # Yam End
 
 # RTI Start
+# 2020/7/29 HTTPS 连接重置（需配合SNI工具解封）
 104.27.168.158  cn.rti.tw
 104.27.169.158  cn.rti.tw
 104.27.168.158  cn2.rti.tw
