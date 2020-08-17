@@ -35871,6 +35871,23 @@
 172.67.70.18    public.opentech.fund
 # opentech End
 
+# vidoevo Start
+104.25.123.38 vidoevo.com
+104.25.124.38 vidoevo.com
+104.25.123.38 www.vidoevo.com
+104.25.124.38 www.vidoevo.com
+104.25.123.38 embed.vidoevo.com
+104.25.124.38 embed.vidoevo.com
+104.25.123.38 stream1.vidoevo.com
+104.25.124.38 stream1.vidoevo.com
+104.25.123.38 www.embed.vidoevo.com
+104.25.124.38 www.embed.vidoevo.com
+104.26.6.223  server111.vidoevo.com
+104.26.7.223  server111.vidoevo.com
+104.25.123.38 videothumb.vidoevo.com
+104.25.124.38 videothumb.vidoevo.com
+# vidoevo End
+
 # Others Start
 54.182.1.32     vid.me
 52.84.143.32    vid.me
@@ -37960,6 +37977,15 @@
 104.28.1.126    m.videos.tube
 104.28.0.126    www.videos.tube
 104.28.1.126    www.videos.tube
+104.28.10.66    viduba.com
+104.28.11.66    viduba.com
+172.67.132.30   viduba.com
+104.28.10.66    www.viduba.com
+104.28.11.66    www.viduba.com
+172.67.132.30   www.viduba.com
+104.28.10.66    embed.viduba.com
+104.28.11.66    embed.viduba.com
+172.67.132.30   embed.viduba.com
 104.24.100.138  www.carheadline.com
 104.24.101.138  www.carheadline.com
 104.27.154.181  videomuch.com
@@ -38016,18 +38042,6 @@
 104.28.3.144    viveos.net
 104.28.2.144    www.viveos.net
 104.28.3.144    www.viveos.net
-104.25.123.38   vidoevo.com
-104.25.124.38   vidoevo.com
-104.25.123.38   www.vidoevo.com
-104.25.124.38   www.vidoevo.com
-104.25.123.38   embed.vidoevo.com
-104.25.124.38   embed.vidoevo.com
-104.25.123.38   stream1.vidoevo.com
-104.25.124.38   stream1.vidoevo.com
-104.25.123.38   www.embed.vidoevo.com
-104.25.124.38   www.embed.vidoevo.com
-104.25.123.38   videothumb.vidoevo.com
-104.25.124.38   videothumb.vidoevo.com
 104.31.68.248   musicvideos.bid
 104.31.69.248   musicvideos.bid
 104.31.68.248   www.musicvideos.bid
