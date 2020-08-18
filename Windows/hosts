@@ -35888,6 +35888,19 @@
 104.25.124.38 videothumb.vidoevo.com
 # vidoevo End
 
+# Dailymotion Start
+# 2018/6/7 HTTPS 连接重置（需配合SNI工具解封）
+195.8.215.136   dailymotion.com
+104.16.51.111   faq.dailymotion.com
+104.16.53.111   faq.dailymotion.com
+195.8.215.137   www.dailymotion.com
+195.8.215.138   www.dailymotion.com
+195.8.215.159   api.dailymotion.com
+34.96.118.203   dmxleo.dailymotion.com
+34.102.217.225  dmxleo.dailymotion.com
+198.54.200.122  graphql.api.dailymotion.com
+# Dailymotion End
+
 # Others Start
 54.182.1.32     vid.me
 52.84.143.32    vid.me
@@ -36061,10 +36074,6 @@
 104.25.58.99    jamestown.org
 104.25.57.99    www.jamestown.org
 104.25.58.99    www.jamestown.org
-104.24.100.146  youthxianfeng.tk
-104.24.101.146  youthxianfeng.tk
-104.24.100.146  www.youthxianfeng.tk
-104.24.101.146  www.youthxianfeng.tk
 54.187.182.1    protonmail-407.wistia.com
 54.218.48.194   protonmail-407.wistia.com
 104.26.4.36     wallmama.com
