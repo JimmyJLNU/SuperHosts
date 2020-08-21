@@ -33195,12 +33195,16 @@
 104.28.25.182   arts.rti.org.tw
 104.28.24.182   rti90.rti.org.tw
 104.28.25.182   rti90.rti.org.tw
+104.28.24.182   topic.rti.org.tw
+104.28.25.182   topic.rti.org.tw
+172.64.88.130   topic.rti.org.tw
+172.67.178.173  topic.rti.org.tw
+210.61.151.194  static.rti.org.tw
 60.251.117.71   events.rti.org.tw
 104.28.24.182   asap90.rti.org.tw
 104.28.25.182   asap90.rti.org.tw
 104.28.24.182   cnnews.rti.org.tw
 104.28.25.182   cnnews.rti.org.tw
-210.61.151.194  static.rti.org.tw
 104.28.24.182   english.rti.org.tw
 104.28.25.182   english.rti.org.tw
 104.28.25.182   election.rti.org.tw
@@ -45737,8 +45741,19 @@
 157.255.192.44  dajia.qq.com
 66.102.251.24   us.weibo.com
 139.215.140.228 www.lanzous.com
+#47.244.163.151 btapi.ipip.net
+#117.23.61.188  clientapi.ipip.net
+#117.23.61.238  clientapi.ipip.net
+210.61.248.153  upos-hz-mirrorakam.akamaized.net
+210.61.248.154  upos-hz-mirrorakam.akamaized.net
+210.61.248.155  upos-hz-mirrorakam.akamaized.net
+210.61.248.161  upos-hz-mirrorakam.akamaized.net
+210.61.248.162  upos-hz-mirrorakam.akamaized.net
+210.61.248.170  upos-hz-mirrorakam.akamaized.net
+210.61.248.176  upos-hz-mirrorakam.akamaized.net
+210.61.248.184  upos-hz-mirrorakam.akamaized.net
+210.61.248.185  upos-hz-mirrorakam.akamaized.net
 203.74.140.195  upos-hz-mirrorakam.akamaized.net
-210.176.33.81   upos-hz-mirrorakam.akamaized.net
 # Tieba End
 
 # Wondershare Start
