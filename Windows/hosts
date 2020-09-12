@@ -31844,15 +31844,23 @@
 # Sina End
 
 # Transparency Start
-52.59.28.94    transparency.org
-52.59.28.94    www.transparency.org
-52.28.67.213   gcb.transparency.org
-52.28.67.213   cpi.transparency.org
-52.28.67.213   blog.transparency.org
-52.28.67.213   media.transparency.org
+64.225.94.228  transparency.org
+64.225.94.228  www.transparency.org
+64.225.94.228  gcb.transparency.org
+64.225.94.228  cpi.transparency.org
+64.225.94.228  blog.transparency.org
+64.225.94.228  media.transparency.org
+52.4.38.70     voices.transparency.org
+52.6.3.192     voices.transparency.org
+52.6.46.142    voices.transparency.org
+52.0.16.118    voices.transparency.org
+52.1.173.203   voices.transparency.org
+52.4.175.111   voices.transparency.org
+52.4.225.124   voices.transparency.org
+52.4.240.221   voices.transparency.org
 52.4.145.119   voices.transparency.org
 85.214.139.133 files.transparency.org
-52.28.67.213   archive.transparency.org
+64.225.94.228  archive.transparency.org
 81.169.200.26  knowledgehub.transparency.org
 # Transparency End
 
