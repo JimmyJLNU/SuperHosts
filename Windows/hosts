@@ -31544,6 +31544,30 @@
 184.26.255.158   static.social.ndtv.com
 # NDTV End
 
+# thestatesman Start
+# 2020/9/30 HTTPS 连接重置（需配合SNI工具解封）
+104.31.10.177 thestatesman.com
+104.31.11.177 thestatesman.com
+104.31.10.177 www.thestatesman.com
+104.31.11.177 www.thestatesman.com
+13.35.153.71  epaper.thestatesman.com
+13.225.95.21  epaper.thestatesman.com
+99.86.144.66  epaper.thestatesman.com
+99.86.144.68  epaper.thestatesman.com
+104.31.10.177 engage.thestatesman.com
+104.31.11.177 engage.thestatesman.com
+# thestatesman End
+
+# dailymaverick Start
+104.22.6.96    dailymaverick.co.za
+104.22.7.96    dailymaverick.co.za
+104.22.6.96    www.dailymaverick.co.za
+104.22.7.96    www.dailymaverick.co.za
+104.22.6.96    remp.dailymaverick.co.za
+104.22.7.96    remp.dailymaverick.co.za
+95.216.245.172 revengine-tracker.remp.dailymaverick.co.za
+# dailymaverick End
+
 # thequint Start
 23.20.179.164 thequint.com
 54.158.195.16 thequint.com
