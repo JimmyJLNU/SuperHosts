@@ -59392,7 +59392,6 @@
 # in-disguise Start
 
 # Quora Start
-# 2018/8/31 HTTPS 连接重置（需配合SNI工具解封）
 52.4.216.238    quora.com
 34.199.26.157   quora.com
 54.165.72.127   quora.com
@@ -59420,6 +59419,7 @@
 151.101.1.2     debunkingdoomsday.quora.com
 151.101.1.2     qph.fs.quoracdn.net
 151.101.1.2     qsbr.fs.quoracdn.net
+151.101.1.2     qsc.fs.quoracdn.net
 151.101.1.2     qsf.fs.quoracdn.net
 # Quora End
 
@@ -60412,11 +60412,11 @@
 
 # newsweek Start
 # 2020/6/10 HTTPS 连接重置（需配合SNI工具解封）
-52.44.228.238  newsweek.com
+99.83.219.100  newsweek.com
 151.139.128.10 d.newsweek.com
 151.139.128.10 g.newsweek.com
 151.139.128.10 gc.newsweek.com
-52.44.228.238  www.newsweek.com
+99.83.219.100  www.newsweek.com
 18.214.178.193 stats.newsweek.com
 52.194.65.136  newsweekjapan.jp
 13.35.34.60    www.newsweekjapan.jp
@@ -60892,6 +60892,9 @@
 103.72.165.197  www.parsevideo.net
 150.109.46.203  speedpan.com
 150.109.46.203  www.speedpan.com
+45.13.199.136   hao.su
+45.13.199.136   www.hao.su
+130.44.212.184  musical.ly
 130.44.212.186  musical.ly
 203.69.138.43   newsroom.tiktok.com
 203.74.140.202  newsroom.tiktok.com
@@ -67180,27 +67183,6 @@
 52.220.206.229 preview-www.dwnews.com
 54.179.181.81  preview-www.dwnews.com
 # Dwnews End
-
-# zaobao Start
-# 2020/2/3 HTTPS 连接重置（需配合SNI工具解封）
-52.74.248.180  zaobao.com
-52.221.118.137 zaobao.com
-152.195.56.204 www.zaobao.com
-152.195.56.204 beltandroad.zaobao.com
-202.27.28.101  brandinsider.zaobao.com
-152.195.56.35  changzhou.zaobao.com
-152.195.57.92  chongqing.zaobao.com
-152.195.56.204 cny.zaobao.com
-152.195.56.204 epaper.zaobao.com
-152.195.57.92  interactive.zaobao.com
-152.195.56.204 ir.zaobao.com
-23.99.117.90   luxuryproperty.zaobao.com
-152.195.56.204 medishieldlife.zaobao.com
-202.27.28.174  microfilm.zaobao.com
-152.195.56.204 project.zaobao.com
-152.195.56.204 zpolitics.zaobao.com
-152.195.56.204 zproperty.zaobao.com
-# zaobao End
 
 # podbean Start
 # 2019/8/29 HTTPS 连接重置（需配合SNI工具解封）
