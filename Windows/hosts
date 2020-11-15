@@ -34675,10 +34675,12 @@
 104.16.54.111   help.nytimes.com
 104.16.53.111   help.nytimes.com
 104.16.52.111   help.nytimes.com
+35.244.152.16   als-svc.nytimes.com
 209.234.225.89  markets.on.nytimes.com
 209.234.234.89  markets.on.nytimes.com
 151.101.21.164  content.api.nytimes.com
 4.225.58.16     messaging-sub.api.nytimes.com
+151.101.89.164  nytco-assets.nytimes.com
 54.225.156.186  tagx.nytimes.com
 23.21.73.215    nytab.nytimes.com
 34.233.208.93   rec.api.nytimes.com
@@ -34693,9 +34695,9 @@
 151.101.21.164  www.nyt.com
 151.101.21.164  typeface.nyt.com
 151.101.21.164  a1.nyt.com
-151.101.21.164  s1.nyt.com
+151.101.89.164  g1.nyt.com
 151.101.21.164  i1.nyt.com
-151.101.21.164  int.nyt.com
+151.101.21.164  s1.nyt.com
 151.101.21.164  cdn1.nyt.com
 151.101.77.164  cdn2.nyt.com
 151.101.137.164 cdn2.nyt.com
@@ -36011,10 +36013,12 @@
 52.9.118.54     www.oann.com
 104.154.170.37  store.oann.com
 64.135.21.3     newsmax.com
-203.69.81.27    www.newsmax.com
-139.175.41.19   www.newsmax.com
-23.67.53.88     www.newsmax.com
-23.55.46.195    www.newsmax.com
+117.103.182.66  www.newsmax.com
+23.40.241.152   www.newsmax.com
+23.40.241.144   www.newsmax.com
+23.210.215.193  www.newsmax.com
+23.219.172.177  www.newsmax.com
+23.210.219.49   www.newsmax.com
 34.228.49.34    baynews9.com
 54.86.175.42    baynews9.com
 34.228.49.34    www.baynews9.com
@@ -45784,6 +45788,58 @@
 54.158.32.106  websdk.moengage.com
 # Moengage End
 
+# Parler Start
+13.33.9.47      parler.com
+13.225.103.110  parler.com
+13.226.115.53   parler.com
+13.226.115.50   parler.com
+13.226.115.10   parler.com
+13.225.103.20   parler.com
+52.40.1.1       api.parler.com
+52.26.152.137   api.parler.com
+44.240.176.118  api.parler.com
+44.241.5.133    api.parler.com
+44.236.147.59   api.parler.com
+54.149.77.136   api.parler.com
+54.191.125.99   api.parler.com
+52.34.57.120    api.parler.com
+13.226.115.46   www.parler.com
+13.225.103.89   www.parler.com
+13.226.115.50   www.parler.com
+13.226.115.53   www.parler.com
+13.225.122.38   faq.parler.com
+13.226.115.54   faq.parler.com
+13.226.115.25   faq.parler.com
+13.225.103.125  faq.parler.com
+13.225.122.113  faq.parler.com
+13.35.70.22     legal.parler.com
+13.225.159.24   legal.parler.com
+13.225.103.118  legal.parler.com
+13.224.157.101  legal.parler.com
+192.107.243.100 news.parler.com
+192.107.243.100 www.news.parler.com
+143.204.74.116  images.parler.com
+13.225.103.71   images.parler.com
+13.226.115.60   images.parler.com
+13.225.112.26   images.parler.com
+13.225.112.35   images.parler.com
+211.47.61.92    image-cdn.parler.com
+99.84.130.22    company.parler.com
+13.225.103.46   company.parler.com
+13.226.115.93   company.parler.com
+13.226.115.63   company.parler.com
+13.226.115.62   company.parler.com
+13.225.103.125  company.parler.com
+99.84.130.50    company-media.parler.com
+13.224.157.67   company-media.parler.com
+13.224.157.77   company-media.parler.com
+13.225.103.122  company-media.parler.com
+13.224.157.68   company-media.parler.com
+13.225.103.84   company-media.parler.com
+13.224.157.111  company-media.parler.com
+13.225.122.98   company-media.parler.com
+# Parler End
+
 # Tieba Start
 27.221.38.41    suo.im
 221.195.34.41   suo.im
@@ -45817,15 +45873,7 @@
 157.255.192.44  dajia.qq.com
 66.102.251.24   us.weibo.com
 139.215.140.228 www.lanzous.com
-210.61.248.153  upos-hz-mirrorakam.akamaized.net
-210.61.248.154  upos-hz-mirrorakam.akamaized.net
-210.61.248.155  upos-hz-mirrorakam.akamaized.net
-210.61.248.161  upos-hz-mirrorakam.akamaized.net
-210.61.248.162  upos-hz-mirrorakam.akamaized.net
-210.61.248.170  upos-hz-mirrorakam.akamaized.net
-210.61.248.176  upos-hz-mirrorakam.akamaized.net
-210.61.248.184  upos-hz-mirrorakam.akamaized.net
-210.61.248.185  upos-hz-mirrorakam.akamaized.net
+119.207.65.67   upos-hz-mirrorakam.akamaized.net
 203.74.140.195  upos-hz-mirrorakam.akamaized.net
 # Tieba End
 
