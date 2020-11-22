@@ -21595,9 +21595,11 @@
 104.18.41.107   joinmastodon.org
 104.18.40.107   www.joinmastodon.org
 104.18.41.107   www.joinmastodon.org
+104.18.40.107   blog.joinmastodon.org
+104.18.41.107   blog.joinmastodon.org
 51.15.200.155   bridge.joinmastodon.org
-216.218.240.92  discourse.joinmastodon.org
 178.62.86.119   weblate.joinmastodon.org
+216.218.240.92  discourse.joinmastodon.org
 136.243.102.156 mastodon.social
 136.243.102.156 www.mastodon.social
 104.24.124.199  files.mastodon.social
@@ -30318,6 +30320,95 @@
 104.22.12.39 www.awards.hkgolden.com
 104.22.13.39 www.awards.hkgolden.com
 # HKgolden End
+
+# xsden Start
+104.18.46.46 xsden.info
+104.18.47.46 xsden.info
+104.18.46.46 io.xsden.info
+104.18.47.46 io.xsden.info
+104.18.46.46 io7.xsden.info
+104.18.47.46 io7.xsden.info
+104.18.46.46 www.xsden.info
+104.18.47.46 www.xsden.info
+104.18.46.46 bin.xsden.info
+104.18.47.46 bin.xsden.info
+104.18.46.46 tool.xsden.info
+104.18.47.46 tool.xsden.info
+104.18.46.46 blog.xsden.info
+104.18.47.46 blog.xsden.info
+104.18.46.46 seven.xsden.info
+104.18.47.46 seven.xsden.info
+# xsden End
+
+# gab Start
+# 2020/11/23 HTTPS 连接重置（需配合SNI工具解封）
+104.16.121.96 gab.com
+104.16.122.96 gab.com
+104.16.121.96 www.gab.com
+104.16.122.96 www.gab.com
+104.16.121.96 apps.gab.com
+104.16.122.96 apps.gab.com
+104.16.121.96 news.gab.com
+104.16.122.96 news.gab.com
+104.16.121.96 help.gab.com
+104.16.122.96 help.gab.com
+104.16.121.96 trends.gab.com
+104.16.122.96 trends.gab.com
+104.16.121.96 develop.gab.com
+104.16.122.96 develop.gab.com
+# gab End
+
+# Parler Start
+13.33.9.47      parler.com
+13.225.103.110  parler.com
+13.226.115.53   parler.com
+13.226.115.50   parler.com
+13.226.115.10   parler.com
+13.225.103.20   parler.com
+52.40.1.1       api.parler.com
+52.26.152.137   api.parler.com
+44.240.176.118  api.parler.com
+44.241.5.133    api.parler.com
+44.236.147.59   api.parler.com
+54.149.77.136   api.parler.com
+54.191.125.99   api.parler.com
+52.34.57.120    api.parler.com
+13.226.115.46   www.parler.com
+13.225.103.89   www.parler.com
+13.226.115.50   www.parler.com
+13.226.115.53   www.parler.com
+13.225.122.38   faq.parler.com
+13.226.115.54   faq.parler.com
+13.226.115.25   faq.parler.com
+13.225.103.125  faq.parler.com
+13.225.122.113  faq.parler.com
+13.35.70.22     legal.parler.com
+13.225.159.24   legal.parler.com
+13.225.103.118  legal.parler.com
+13.224.157.101  legal.parler.com
+192.107.243.100 news.parler.com
+192.107.243.100 www.news.parler.com
+143.204.74.116  images.parler.com
+13.225.103.71   images.parler.com
+13.226.115.60   images.parler.com
+13.225.112.26   images.parler.com
+13.225.112.35   images.parler.com
+211.47.61.92    image-cdn.parler.com
+99.84.130.22    company.parler.com
+13.225.103.46   company.parler.com
+13.226.115.93   company.parler.com
+13.226.115.63   company.parler.com
+13.226.115.62   company.parler.com
+13.225.103.125  company.parler.com
+99.84.130.50    company-media.parler.com
+13.224.157.67   company-media.parler.com
+13.224.157.77   company-media.parler.com
+13.225.103.122  company-media.parler.com
+13.224.157.68   company-media.parler.com
+13.225.103.84   company-media.parler.com
+13.224.157.111  company-media.parler.com
+13.225.122.98   company-media.parler.com
+# Parler End
 
 # Dcard Start
 # 2019/11/7 HTTPS 连接重置（需配合SNI工具解封）
@@ -44059,7 +44150,7 @@
 119.161.4.42    vt.tumblr.com
 119.161.4.42    vtt.tumblr.com
 119.161.14.20   www.tumblr.com
-119.161.14.19 	api.tumblr.com
+119.161.14.19   api.tumblr.com
 119.161.14.19   vt.media.tumblr.com
 119.161.14.19   api-http2.tumblr.com
 152.199.38.136  assets.tumblr.com
@@ -49232,58 +49323,6 @@
 52.205.45.13   websdk.moengage.com
 54.158.32.106  websdk.moengage.com
 # Moengage End
-
-# Parler Start
-13.33.9.47      parler.com
-13.225.103.110  parler.com
-13.226.115.53   parler.com
-13.226.115.50   parler.com
-13.226.115.10   parler.com
-13.225.103.20   parler.com
-52.40.1.1       api.parler.com
-52.26.152.137   api.parler.com
-44.240.176.118  api.parler.com
-44.241.5.133    api.parler.com
-44.236.147.59   api.parler.com
-54.149.77.136   api.parler.com
-54.191.125.99   api.parler.com
-52.34.57.120    api.parler.com
-13.226.115.46   www.parler.com
-13.225.103.89   www.parler.com
-13.226.115.50   www.parler.com
-13.226.115.53   www.parler.com
-13.225.122.38   faq.parler.com
-13.226.115.54   faq.parler.com
-13.226.115.25   faq.parler.com
-13.225.103.125  faq.parler.com
-13.225.122.113  faq.parler.com
-13.35.70.22     legal.parler.com
-13.225.159.24   legal.parler.com
-13.225.103.118  legal.parler.com
-13.224.157.101  legal.parler.com
-192.107.243.100 news.parler.com
-192.107.243.100 www.news.parler.com
-143.204.74.116  images.parler.com
-13.225.103.71   images.parler.com
-13.226.115.60   images.parler.com
-13.225.112.26   images.parler.com
-13.225.112.35   images.parler.com
-211.47.61.92    image-cdn.parler.com
-99.84.130.22    company.parler.com
-13.225.103.46   company.parler.com
-13.226.115.93   company.parler.com
-13.226.115.63   company.parler.com
-13.226.115.62   company.parler.com
-13.225.103.125  company.parler.com
-99.84.130.50    company-media.parler.com
-13.224.157.67   company-media.parler.com
-13.224.157.77   company-media.parler.com
-13.225.103.122  company-media.parler.com
-13.224.157.68   company-media.parler.com
-13.225.103.84   company-media.parler.com
-13.224.157.111  company-media.parler.com
-13.225.122.98   company-media.parler.com
-# Parler End
 
 # Tieba Start
 27.221.38.41    suo.im
