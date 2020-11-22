@@ -18253,9 +18253,11 @@
 104.18.41.107   joinmastodon.org
 104.18.40.107   www.joinmastodon.org
 104.18.41.107   www.joinmastodon.org
+104.18.40.107   blog.joinmastodon.org
+104.18.41.107   blog.joinmastodon.org
 51.15.200.155   bridge.joinmastodon.org
-216.218.240.92  discourse.joinmastodon.org
 178.62.86.119   weblate.joinmastodon.org
+216.218.240.92  discourse.joinmastodon.org
 136.243.102.156 mastodon.social
 136.243.102.156 www.mastodon.social
 104.24.124.199  files.mastodon.social
