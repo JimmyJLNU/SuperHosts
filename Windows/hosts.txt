@@ -42182,10 +42182,25 @@
 104.20.63.7     www.mitbbs.com
 107.21.18.224   mitbbsnz.com
 107.21.18.224   www.mitbbsnz.com
+202.153.163.28  showwe.tw
+202.153.163.28  www.showwe.tw
+202.153.163.28  store.showwe.tw
+202.153.163.28  govbooks.com.tw
+202.153.163.28  www.govbooks.com.tw
 35.190.31.60    wenxuecity.com
+35.190.31.60    m.wenxuecity.com
 35.190.55.229   bbs.wenxuecity.com
 35.190.55.229   www.wenxuecity.com
 35.190.55.229   blog.wenxuecity.com
+223.27.52.110   wunanbooks.com.tw
+223.27.52.110   www.wunanbooks.com.tw
+223.27.52.110   www2.wunanbooks.com.tw
+104.31.74.162   tiaotiaowen.com
+172.67.185.62   tiaotiaowen.com
+104.31.75.162   tiaotiaowen.com
+104.31.74.162   www.tiaotiaowen.com
+172.67.185.62   www.tiaotiaowen.com
+104.31.75.162   www.tiaotiaowen.com
 35.185.11.58    cfcnews.com
 35.185.11.58    www.cfcnews.com
 192.0.78.24     chineseradioseattle.com
@@ -49011,19 +49026,21 @@
 # icij End
 
 # Greatfire.org Start
-104.25.53.117  zh.greatfire.org
-104.25.54.117  zh.greatfire.org
-104.25.53.117  www.greatfire.org
-104.25.54.117  www.greatfire.org
 104.25.53.117  cc.greatfire.org
 104.25.54.117  cc.greatfire.org
 104.25.53.117  en.greatfire.org
 104.25.54.117  en.greatfire.org
+104.25.53.117  zh.greatfire.org
+104.25.54.117  zh.greatfire.org
+104.25.53.117  www.greatfire.org
+104.25.54.117  www.greatfire.org
 104.25.53.117  oauth.greatfire.org
 104.25.54.117  oauth.greatfire.org
+104.25.53.117  blocky.greatfire.org
+104.25.54.117  blocky.greatfire.org
 104.25.53.117  patreon-widget.greatfire.org
 104.25.54.117  patreon-widget.greatfire.org
-104.124.45.66  greatfire.us7.list-manage.com
+59.151.130.197 greatfire.us7.list-manage.com
 # Greatfire.org End
 
 # change.org Start
