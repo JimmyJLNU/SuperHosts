@@ -44661,6 +44661,7 @@
 13.227.54.104   cdn.udn.com
 184.31.63.101   img.udn.com
 113.196.249.55  rec.udn.com
+152.199.43.216  vip.udn.com
 104.78.28.160   oops.udn.com
 104.78.28.160   autos.udn.com
 104.78.28.160   health.udn.com
