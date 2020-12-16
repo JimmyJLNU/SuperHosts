@@ -29679,6 +29679,8 @@
 # 1688.com.au Start
 104.25.240.28 1688.com.au
 104.25.241.28 1688.com.au
+104.25.240.28 m.1688.com.au
+104.25.241.28 m.1688.com.au
 104.25.240.28 www.1688.com.au
 104.25.241.28 www.1688.com.au
 52.85.151.100 rent.1688.com.au
@@ -31949,12 +31951,16 @@
 163.181.33.228  ent.sina.com
 163.181.33.226  ent.sina.com
 163.181.36.228  ent.sina.com
-47.74.160.94    finance.sina.com
-47.246.24.229   finance.sina.com
-47.91.195.222   finance.sina.com
+47.246.4.225    finance.sina.com
+47.246.4.226    finance.sina.com
+47.246.4.228    finance.sina.com
+47.246.4.232    finance.sina.com
 47.246.16.229   finance.sina.com
-47.89.64.202    finance.sina.com
-47.246.25.228   finance.sina.com
+47.246.38.226   finance.sina.com
+47.246.16.225   finance.sina.com
+47.246.59.229   finance.sina.com
+47.246.16.232   finance.sina.com
+47.246.16.229   finance.sina.com
 47.246.4.231    sports.sina.com
 47.246.29.15    sports.sina.com
 47.246.4.232    sports.sina.com
