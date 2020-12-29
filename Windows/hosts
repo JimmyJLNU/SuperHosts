@@ -34566,6 +34566,40 @@
 13.35.50.5      travel.setn.com
 # SETTV End
 
+# VIDOL Start
+# 2020/12/29 HTTPS 连接重置（需配合SNI工具解封）
+99.86.144.123  vidol.tv
+13.225.122.110 vidol.tv
+13.249.171.13  vidol.tv
+13.225.97.119  vidol.tv
+13.225.97.90   vidol.tv
+52.69.31.237   emq.vidol.tv
+13.33.9.31     www.vidol.tv
+99.86.144.123  www.vidol.tv
+13.35.162.100  www.vidol.tv
+13.225.97.90   www.vidol.tv
+13.225.97.119  www.vidol.tv
+13.225.97.74   dapi.vidol.tv
+13.35.162.2    dapi.vidol.tv
+13.225.97.39   dapi.vidol.tv
+99.86.144.8    event.vidol.tv
+13.33.189.79   event.vidol.tv
+13.225.97.7    event.vidol.tv
+13.225.97.77   event.vidol.tv
+13.225.97.102  event.vidol.tv
+13.224.163.45  event.vidol.tv
+13.224.163.54  event.vidol.tv
+13.224.163.92  event.vidol.tv
+143.204.74.55  event.vidol.tv
+99.86.144.69   images.vidol.tv
+13.225.97.44   images.vidol.tv
+13.225.97.43   images.vidol.tv
+13.225.97.114  images.vidol.tv
+13.33.174.108  images.vidol.tv
+13.249.171.38  images.vidol.tv
+54.65.200.159  redmine.vidol.tv
+# VIDOL End
+
 # NTD Start
 104.16.194.240  ntd.tv
 104.16.195.240  ntd.tv
