@@ -40177,6 +40177,10 @@
 104.19.139.58   amp.lihkg.com
 104.19.140.58   www.lihkg.com
 104.19.141.58   www.lihkg.com
+104.27.162.43   hkdoujin.com
+104.27.163.43   hkdoujin.com
+104.27.162.43   www.hkdoujin.com
+104.27.163.43   www.hkdoujin.com
 104.25.119.37   hkgalden.com
 104.25.120.37   hkgalden.com
 104.25.119.37   m.hkgalden.com
