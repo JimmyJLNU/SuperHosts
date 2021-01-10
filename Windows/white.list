@@ -4086,7 +4086,7 @@
 # 2019/3/16 HTTPS 连接重置（需配合SNI工具解封）
 203.2.218.214  abc.net.au
 104.124.22.157 api.abc.net.au
-104.76.69.164  www.abc.net.au
+104.93.0.120   www.abc.net.au
 23.53.225.48   res.abc.net.au
 104.124.22.157 open.abc.net.au
 203.2.218.208  news.abc.net.au
@@ -4095,8 +4095,8 @@
 104.17.101.211 shop.abc.net.au
 104.17.102.211 shop.abc.net.au
 104.17.103.211 shop.abc.net.au
-104.76.69.164  about.abc.net.au
-104.74.241.36  iview.abc.net.au
+104.93.0.120   about.abc.net.au
+104.93.0.120   iview.abc.net.au
 23.76.227.203  api.iview.abc.net.au
 23.76.227.203  cdn.iview.abc.net.au
 23.53.225.48   radio.abc.net.au
@@ -4105,10 +4105,11 @@
 104.124.22.157 search.abc.net.au
 23.56.24.191   search-beta.abc.net.au
 184.87.135.85  search-beta.abc.net.au
-104.74.241.36  mylogin.abc.net.au
+104.93.0.120   mylogin.abc.net.au
 23.76.227.203  mylogin.abc.net.au
-104.76.69.164  education.abc.net.au
+104.93.0.120   education.abc.net.au
 104.124.22.157 recommendations.abc.net.au
+203.74.140.145 abcmedia.akamaized.net
 # ABC End
 
 # News.au Start
@@ -15246,7 +15247,8 @@
 198.87.54.130   a1007.dspw43.akamai.net
 125.56.201.121  a1402.dspw40.akamai.net
 117.18.237.97   gxcuf89792.i.lithium.com
-139.175.236.224 foxnewsplayer-a.akamaihd.net
+203.74.140.178  foxnewsplayer-a.akamaihd.net
+203.74.140.171  vod-progressive.akamaized.net
 13.35.11.4      d3c33hcgiwev3.cloudfront.net
 13.33.194.156   d3c33hcgiwev3.cloudfront.net
 13.33.23.248    d3c33hcgiwev3.cloudfront.net
