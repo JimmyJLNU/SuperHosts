@@ -40200,6 +40200,7 @@
 192.0.78.24     www.borderless-hk.com
 192.0.78.25     www.borderless-hk.com
 169.62.26.29    news.toutiaoabc.com
+104.21.56.160   news.migage.com
 5.10.17.162     neowin.net
 5.10.17.163     neowin.net
 5.10.17.164     neowin.net
