@@ -35478,15 +35478,17 @@
 104.16.55.111   help.livestream.com
 104.16.53.111   help.livestream.com
 104.16.52.111   help.livestream.com
-18.246.31.131   status.livestream.com
 13.236.8.150    status.livestream.com
+13.236.8.151    status.livestream.com
+18.246.31.131   status.livestream.com
 18.234.32.149   status.livestream.com
 18.234.32.150   status.livestream.com
 18.246.31.132   status.livestream.com
-13.236.8.151    status.livestream.com
 151.101.2.29    api.new.livestream.com
 151.101.78.29   api.new.livestream.com
 151.101.138.29  api.new.livestream.com
+151.101.2.29    img.new.livestream.com
+151.101.90.29   img.new.livestream.com
 # Livestream End
 
 # Browsec Start
