@@ -26479,10 +26479,10 @@
 52.33.123.215   wikivisually.com
 52.39.223.13    www.wikivisually.com
 52.33.123.215   www.wikivisually.com
-34.232.139.205  wikiwand.com
-54.172.77.238   wikiwand.com
-34.232.139.205  www.wikiwand.com
-54.172.77.238   www.wikiwand.com
+3.81.180.123    wikiwand.com
+3.212.218.163   wikiwand.com
+3.81.180.123    www.wikiwand.com
+3.212.218.163   www.wikiwand.com
 104.31.92.234   wiki.kfd.me
 104.31.93.234   wiki.kfd.me
 104.31.92.234   wiwiwiki.kfd.me
@@ -49991,6 +49991,7 @@
 116.128.134.167 dajia.qq.com
 157.255.192.44  dajia.qq.com
 66.102.251.24   us.weibo.com
+118.212.233.24  btapi.ipip.net
 139.215.140.228 www.lanzous.com
 119.207.65.67   upos-hz-mirrorakam.akamaized.net
 203.74.140.195  upos-hz-mirrorakam.akamaized.net
