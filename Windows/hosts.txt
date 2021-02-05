@@ -39752,8 +39752,8 @@
 13.124.23.220   www.rainlou.icu
 67.227.226.240  fydy.org
 67.227.226.240  www.fydy.org
-144.217.105.178 powermv.com
-144.217.105.178 www.powermv.com
+51.89.133.217   powermv.com
+51.89.133.217   www.powermv.com
 173.82.152.166  www.fcdm.cc
 192.99.216.247  www.fcdm.cc
 128.14.13.83    dm530.com
