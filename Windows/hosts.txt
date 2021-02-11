@@ -42493,6 +42493,25 @@
 217.147.220.24  webapi.project-syndicate.org
 # Others End
 
+# Clubhouse Start
+# 2021/2/11 HTTPS 连接重置（需配合SNI工具解封）
+172.67.23.40    joinclubhouse.com
+104.22.26.153   joinclubhouse.com
+104.22.27.153   joinclubhouse.com
+172.67.23.40    tos.joinclubhouse.com
+104.22.26.153   tos.joinclubhouse.com
+104.22.27.153   tos.joinclubhouse.com
+172.67.23.40    www.joinclubhouse.com
+104.22.26.153   www.joinclubhouse.com
+104.22.27.153   www.joinclubhouse.com
+172.67.23.40    privacy.joinclubhouse.com
+104.22.26.153   privacy.joinclubhouse.com
+104.22.27.153   privacy.joinclubhouse.com
+172.67.23.40    community.joinclubhouse.com
+104.22.26.153   community.joinclubhouse.com
+104.22.27.153   community.joinclubhouse.com
+# Clubhouse End
+
 # thenation Start
 192.229.173.82  thenation.com
 192.229.179.32  www.thenation.com
