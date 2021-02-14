@@ -30605,6 +30605,36 @@
 110.76.141.61   dn-theme.talk.kakao.co.kr
 # Kakao End
 
+# spreaker Start
+# 2020/6/13 HTTPS 连接重置（需配合SNI工具解封）
+65.9.57.3     spreaker.com
+65.8.7.44     spreaker.com
+65.9.57.46    spreaker.com
+65.8.168.86   spreaker.com
+65.8.7.44     www.spreaker.com
+65.9.57.3     www.spreaker.com
+65.9.57.97    www.spreaker.com
+65.8.7.37     api.spreaker.com
+65.9.57.54    api.spreaker.com
+65.8.168.82   api.spreaker.com
+65.8.168.94   api.spreaker.com
+104.196.6.144 blog.spreaker.com
+65.8.7.70     help.spreaker.com
+65.9.57.10    help.spreaker.com
+65.8.168.66   help.spreaker.com
+65.8.168.106  help.spreaker.com
+34.250.81.91  en_us.spreaker.com
+34.250.81.91  es_es.spreaker.com
+34.250.81.91  it_it.spreaker.com
+65.8.7.108    search.spreaker.com
+65.8.168.51   search.spreaker.com
+65.8.168.28   search.spreaker.com
+52.218.100.90 images.spreaker.com
+65.8.7.59     widget.spreaker.com
+65.8.168.5    widget.spreaker.com
+65.8.168.48   widget.spreaker.com
+# spreaker End
+
 # Anchor.fm Start
 151.101.2.133    anchor.fm
 151.101.66.133   anchor.fm
