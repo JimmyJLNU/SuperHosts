@@ -46626,27 +46626,30 @@
 54.158.32.106  websdk.moengage.com
 # Moengage End
 
-# XIAMI Start
+# China Start
 175.174.56.219  suo.im
 101.72.202.168  suo.im
 119.167.168.209 suo.im
 221.194.147.192 suo.im
-203.119.129.145 xiami.com
-203.119.207.255 m.xiami.com
 27.221.48.42    h.xiami.com
-203.119.211.255 i.xiami.com
-203.119.207.255 i.xiami.com
-203.119.211.255 www.xiami.com
-203.119.207.255 emumo.xiami.com
 116.128.134.139 dajia.qq.com
 116.128.134.167 dajia.qq.com
 157.255.192.44  dajia.qq.com
 66.102.251.24   us.weibo.com
 118.212.233.24  btapi.ipip.net
-139.215.140.228 www.lanzous.com
-119.207.65.67   upos-hz-mirrorakam.akamaized.net
-203.74.140.195  upos-hz-mirrorakam.akamaized.net
-# XIAMI End
+218.60.78.222   www.lanzous.com
+111.164.19.224  www.lanzous.com
+# China End
+
+# Eracom Start
+# 2021/2/22 HTTPS 连接重置（需配合SNI工具解封）
+45.223.22.160 eracom.com.tw
+45.223.22.160 www.eracom.com.tw
+45.223.22.160 nexttv.com.tw
+45.223.22.160 www.nexttv.com.tw
+45.223.22.160 image.nexttv.com.tw
+61.66.217.22  vfile.nexttv.com.tw
+# Eracom End
 
 # Wondershare Start
 243.185.187.30 platform.wondershare.com
