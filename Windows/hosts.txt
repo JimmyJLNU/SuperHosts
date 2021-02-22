@@ -50049,13 +50049,16 @@
 # China End
 
 # Eracom Start
-# 2021/2/22 HTTPS 连接重置（需配合SNI工具解封）
-45.223.22.160 eracom.com.tw
-45.223.22.160 www.eracom.com.tw
-45.223.22.160 nexttv.com.tw
-45.223.22.160 www.nexttv.com.tw
-45.223.22.160 image.nexttv.com.tw
-61.66.217.22  vfile.nexttv.com.tw
+45.223.22.160   eracom.com.tw
+45.223.22.160   www.eracom.com.tw
+59.124.78.67    survey.eracom.com.tw
+45.223.22.160   nexttv.com.tw
+45.223.22.160   www.nexttv.com.tw
+45.223.22.160   image.nexttv.com.tw
+61.66.217.22    vfile.nexttv.com.tw
+210.241.135.39  ticket.com.tw
+220.128.141.192 g.ticket.com.tw
+210.241.135.39  www.ticket.com.tw
 # Eracom End
 
 # Wondershare Start
