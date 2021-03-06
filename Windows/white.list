@@ -42590,8 +42590,10 @@
 172.217.31.241  www.tensorflow.org
 172.217.31.241  download.tensorflow.org
 172.217.31.241  magenta.tensorflow.org
-216.239.34.21   getintra.org
-216.239.34.21   www.getintra.org
+151.101.1.195   getintra.org
+151.101.65.195  getintra.org
+151.101.1.195   www.getintra.org
+151.101.65.195  www.getintra.org
 216.239.34.21   getoutline.org
 216.239.34.21   www.getoutline.org
 172.217.31.241  openhandsetalliance.com
@@ -64252,6 +64254,52 @@
 104.24.20.75  gea.enanyang.my
 104.24.21.75  gea.enanyang.my
 # enanyang End
+
+# sinchew Start
+# 2020/9/16 HTTPS 连接重置（需配合SNI工具解封）
+104.22.78.79   sinchew.com.my
+104.22.79.79   sinchew.com.my
+104.22.78.79   edu.sinchew.com.my
+104.22.79.79   edu.sinchew.com.my
+104.22.78.79   www.sinchew.com.my
+104.22.79.79   www.sinchew.com.my
+104.22.78.79   books.sinchew.com.my
+104.22.79.79   books.sinchew.com.my
+104.22.78.79   efair.sinchew.com.my
+104.22.79.79   efair.sinchew.com.my
+104.22.78.79   sabah.sinchew.com.my
+104.22.79.79   sabah.sinchew.com.my
+104.22.78.79   paryb.sinchew.com.my
+104.22.79.79   paryb.sinchew.com.my
+110.74.163.93  epaper.sinchew.com.my
+37.252.244.166 cdnpuc.sinchew.com.my
+37.252.244.167 cdnpuc.sinchew.com.my
+118.143.20.20  cdnpuc.sinchew.com.my
+104.22.78.79   easily.sinchew.com.my
+104.22.79.79   easily.sinchew.com.my
+110.74.163.80  xuehai.sinchew.com.my
+110.74.163.168 member.sinchew.com.my
+104.22.78.79   sarawak.sinchew.com.my
+104.22.79.79   sarawak.sinchew.com.my
+103.65.191.39  recording.sinchew.com.my
+104.22.78.79   indonesia.sinchew.com.my
+104.22.79.79   indonesia.sinchew.com.my
+104.22.78.79   automobile.sinchew.com.my
+104.22.79.79   automobile.sinchew.com.my
+13.225.93.28   pocketimes.sinchew.com.my
+13.225.170.89  pocketimes.sinchew.com.my
+13.225.170.43  pocketimes.sinchew.com.my
+13.225.121.23  pocketimes.sinchew.com.my
+13.225.93.46   pocketimes.sinchew.com.my
+13.225.93.64   pocketimes.sinchew.com.my
+143.204.82.12  pocketimes.sinchew.com.my
+99.86.144.110  pocketimes.sinchew.com.my
+104.22.78.79   classifieds.sinchew.com.my
+104.22.79.79   classifieds.sinchew.com.my
+37.252.244.166 scepapercdn.sinchew.com.my
+37.252.244.167 scepapercdn.sinchew.com.my
+103.65.191.38  emadvtransfer.sinchew.com.my
+# sinchew End
 
 # Technews Start
 13.33.74.100    technews.tw
