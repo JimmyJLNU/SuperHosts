@@ -41065,9 +41065,9 @@
 104.26.1.181    labour.org.hk
 104.26.0.181    www.labour.org.hk
 104.26.1.181    www.labour.org.hk
-77.104.150.231  hkctu.org.hk
-77.104.150.231  en.hkctu.org.hk
-77.104.150.231  www.hkctu.org.hk
+104.21.78.185   hkctu.org.hk
+104.21.78.185   en.hkctu.org.hk
+104.21.78.185   www.hkctu.org.hk
 104.24.112.121  ktsf.com
 104.24.113.121  ktsf.com
 104.24.112.121  www.ktsf.com
