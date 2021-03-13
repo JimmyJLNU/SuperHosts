@@ -40247,8 +40247,14 @@
 104.21.92.138   www.hkchronicles.com
 104.21.29.126   neoguidehk.com
 104.21.29.126   www.neoguidehk.com
-69.16.230.42    leungsumshops.com
-69.16.230.42    www.leungsumshops.com
+216.239.34.21   wonglaam.com
+216.239.38.21   wonglaam.com
+216.239.34.21   www.wonglaam.com
+216.239.38.21   www.wonglaam.com
+104.26.0.101    wordsofmouth.net
+104.26.1.101    wordsofmouth.net
+104.26.0.101    www.wordsofmouth.net
+104.26.1.101    www.wordsofmouth.net
 63.35.246.130   mewe.com
 18.203.50.13    www.mewe.com
 104.16.51.111   support.mewe.com
