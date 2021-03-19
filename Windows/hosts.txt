@@ -42755,6 +42755,20 @@
 104.22.27.153   community.joinclubhouse.com
 # Clubhouse End
 
+# Signal Start
+# 2021/3/19 HTTPS 连接重置（需配合SNI工具解封）
+13.225.93.6    signal.org
+13.35.46.114   signal.org
+13.225.93.119  signal.org
+13.225.93.102  signal.org
+13.35.46.28    www.signal.org
+13.35.46.68    www.signal.org
+13.225.93.102  www.signal.org
+104.18.30.112  updates.signal.org
+104.18.31.112  updates.signal.org
+104.16.53.111  support.signal.org
+# Signal End
+
 # thenation Start
 192.229.173.82  thenation.com
 192.229.179.32  www.thenation.com
