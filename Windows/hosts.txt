@@ -21963,9 +21963,9 @@
 91.198.174.192  www.wikidata.org
 91.198.174.192  wikimedia.org
 91.198.174.192  www.wikimedia.org
-198.35.26.112   maps.wikimedia.org
+103.102.166.240 maps.wikimedia.org
 91.198.174.192  login.wikimedia.org
-198.35.26.112   upload.wikimedia.org
+103.102.166.240 upload.wikimedia.org
 91.198.174.192  toolsadmin.wikimedia.org
 91.198.174.192  meta.wikimedia.org
 91.198.174.192  meta.m.wikimedia.org
@@ -43701,13 +43701,6 @@
 13.225.103.23  www.c-span.org
 13.226.113.42  www.c-span.org
 13.224.164.85  www.c-span.org
-13.33.174.52   images.c-span.org
-13.225.93.28   images.c-span.org
-13.226.77.19   images.c-span.org
-13.226.123.35  images.c-span.org
-13.226.123.75  images.c-span.org
-13.225.121.126 images.c-span.org
-13.226.123.105 images.c-span.org
 13.35.67.35    static.c-span.org
 13.35.67.19    static.c-span.org
 13.35.67.56    static.c-span.org
