@@ -30374,12 +30374,14 @@
 # VPNMentor End
 
 # PCloud Start
-74.120.8.226 my.pcloud.com
-74.120.9.121 my.pcloud.com
-74.120.9.89  my.pcloud.com
-74.120.9.90  my.pcloud.com
-74.120.10.13 pcdn-u.pcloud.com
-74.120.10.13 pcdn-my.pcloud.com
+45.131.244.7   my.pcloud.com
+45.131.244.10  my.pcloud.com
+45.131.244.9   my.pcloud.com
+45.131.244.11  my.pcloud.com
+45.131.244.8   my.pcloud.com
+45.131.244.12  my.pcloud.com
+74.120.10.13   pcdn-u.pcloud.com
+74.120.10.13   pcdn-my.pcloud.com
 # PCloud End
 
 # Hide-my-ip Start
