@@ -41345,9 +41345,9 @@
 52.219.36.189   capital-hk.com
 52.219.124.113  capital-hk.com
 18.136.89.231   www.capital-hk.com
-93.188.2.52     chinaworker.info
-93.188.2.52     www.chinaworker.info
-93.188.2.53     media.chinaworker.info
+104.21.8.143    chinaworker.info
+104.21.8.143    www.chinaworker.info
+104.21.8.143    media.chinaworker.info
 96.31.35.178    chinalaborwatch.org
 96.31.35.178    www.chinalaborwatch.org
 149.56.165.160  doovi.com
@@ -50329,19 +50329,20 @@
 54.158.32.106  websdk.moengage.com
 # Moengage End
 
-# China Start
+# Tieba Start
 175.174.56.219  suo.im
 101.72.202.168  suo.im
 119.167.168.209 suo.im
 221.194.147.192 suo.im
-27.221.48.42    h.xiami.com
 116.128.134.139 dajia.qq.com
 116.128.134.167 dajia.qq.com
 157.255.192.44  dajia.qq.com
 66.102.251.24   us.weibo.com
 218.60.78.222   www.lanzous.com
 111.164.19.224  www.lanzous.com
-# China End
+111.206.209.41  tieba.baidu.com
+111.206.209.45  tieba.baidu.com
+# Tieba End
 
 # Eracom Start
 45.223.22.160   eracom.com.tw
