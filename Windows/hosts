@@ -41674,13 +41674,33 @@
 61.244.22.8     portugues.tdm.com.mo
 # TDM End
 
+# CSIS Start
+# 2021/4/17 HTTPS 连接重置（需配合SNI工具解封）
+23.185.0.2      csis.org
+23.185.0.2      www.csis.org
+104.197.129.166 amti.csis.org
+104.197.129.166 aerospace.csis.org
+104.197.129.166 chinapower.csis.org
+104.248.158.121 ontheradar.csis.org
+206.189.46.168  ontheradar.csis.org
+104.197.129.166 missilethreat.csis.org
+104.197.129.166 beyondparallel.csis.org
+206.189.46.168  healthsecurity.csis.org
+178.128.104.229 healthsecurity.csis.org
+104.248.148.229 healthsecurity.csis.org
+104.248.158.121 healthsecurity.csis.org
+206.189.46.168  arcticmilitarytracker.csis.org
+104.248.148.229 arcticmilitarytracker.csis.org
+178.128.126.116 arcticmilitarytracker.csis.org
+# CSIS End
+
 # Udn Start
-23.41.57.174    udn.com
-23.41.57.174    m.udn.com
+104.71.140.28   udn.com
+104.71.140.28   m.udn.com
 210.243.166.197 gb.udn.com
-23.41.57.174    nba.udn.com
+104.71.140.28   nba.udn.com
 27.126.237.11   www.udn.com
-23.41.57.174    money.udn.com
+104.71.140.28   money.udn.com
 13.33.74.79     video.udn.com
 13.33.41.58     video.udn.com
 13.33.197.109   video.udn.com
@@ -41688,10 +41708,10 @@
 13.32.168.41    video.udn.com
 13.33.197.138   video.udn.com
 13.33.164.142   video.udn.com
-23.41.57.174    theme.udn.com
-23.41.57.174    stars.udn.com
-23.41.57.174    topic.udn.com
-23.41.57.174    fund.udn.com
+104.71.140.28   theme.udn.com
+104.71.140.28   stars.udn.com
+104.71.140.28   topic.udn.com
+104.71.140.28   fund.udn.com
 13.35.0.26      cdn.udn.com
 13.224.166.65   cdn.udn.com
 13.224.166.71   cdn.udn.com
@@ -41700,43 +41720,43 @@
 23.41.137.240   img.udn.com
 113.196.249.55  rec.udn.com
 152.199.43.216  vip.udn.com
-23.41.57.174    oops.udn.com
-23.41.57.174    autos.udn.com
-23.41.57.174    health.udn.com
+104.71.140.28   oops.udn.com
+104.71.140.28   autos.udn.com
+104.71.140.28   health.udn.com
 23.41.137.240   reader.udn.com
 211.20.177.94   member.udn.com
 210.243.166.93  reading.udn.com
 210.244.31.153  forum.udn.com
-23.41.57.174    upoints.udn.com
+104.71.140.28   upoints.udn.com
 52.199.61.25    utravel.udn.com
 54.64.127.209   utravel.udn.com
-23.41.57.174    mobile.udn.com
-23.41.57.174    style.udn.com
-23.41.57.174    paper.udn.com
-23.41.57.174    vision.udn.com
+104.71.140.28   mobile.udn.com
+104.71.140.28   style.udn.com
+104.71.140.28   paper.udn.com
+104.71.140.28   vision.udn.com
 211.20.177.96   city.udn.com
 210.244.31.135  edn.udn.com
 113.196.249.18  spm.udn.com
 113.196.249.56  cas.udn.com
 210.243.166.166 event.udn.com
 218.32.9.131    expo.udn.com
-23.41.57.174    house.udn.com
+104.71.140.28   house.udn.com
 211.20.177.98   act.udn.com
 211.20.177.10   stock.udn.com
-23.41.57.174    debate.udn.com
-23.41.57.174    opinion.udn.com
-23.41.57.174    global.udn.com
+104.71.140.28   debate.udn.com
+104.71.140.28   opinion.udn.com
+104.71.140.28   global.udn.com
 13.33.197.58    a.udn.com
 13.33.197.12    a.udn.com
 13.32.168.134   a.udn.com
-23.41.57.174    shopping.udn.com
+104.71.140.28   shopping.udn.com
 210.244.31.144  photo.udn.com
 113.196.249.5   udntalks.udn.com
 210.243.166.77  data.udn.com
 211.20.177.96   album.udn.com
 211.20.177.96   blog.udn.com
 211.20.177.104  classic-blog.udn.com
-23.41.57.174    active.udn.com
+104.71.140.28   active.udn.com
 211.78.81.155   ishow.udn.com
 210.244.31.135  life.ishow.udn.com
 # Udn End
