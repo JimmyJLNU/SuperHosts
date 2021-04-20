@@ -60354,11 +60354,16 @@
 # malaymail Start
 110.74.168.99   cincainews.com
 110.74.168.99   www.cincainews.com
-104.25.54.16    malaymail.com
-104.25.55.16    malaymail.com
-104.25.54.16    www.malaymail.com
-104.25.55.16    www.malaymail.com
-14.136.132.146  media.malaymail.com
+104.26.6.51     malaymail.com
+104.26.7.51     malaymail.com
+110.74.168.99   m.malaymail.com
+104.26.6.51     www.malaymail.com
+104.26.7.51     www.malaymail.com
+118.143.20.20   media.malaymail.com
+37.252.244.167  media.malaymail.com
+89.187.169.15   media2.malaymail.com
+185.59.220.193  media2.malaymail.com
+185.59.220.198  media2.malaymail.com
 110.74.168.99   pullzone.malaymail.com
 # malaymail End
 
@@ -61307,8 +61312,9 @@
 23.91.101.70    www.parsevideo.com
 23.91.101.70    parsevideo.net
 23.91.101.70    www.parsevideo.net
-150.109.46.203  speedpan.com
-150.109.46.203  www.speedpan.com
+194.36.160.50   dailysabah.com
+65.9.73.11      www.dailysabah.com
+13.224.193.113  www.dailysabah.com
 45.13.199.136   hao.su
 45.13.199.136   www.hao.su
 130.44.212.184  musical.ly
@@ -62841,6 +62847,8 @@
 104.27.191.148  9tube.us
 104.27.190.148  www.9tube.us
 104.27.191.148  www.9tube.us
+185.186.143.7   salda.ws
+185.186.143.7   www.salda.ws
 23.252.126.158  clip.fail
 23.252.126.158  www.clip.fail
 104.27.56.25    clipzui.com
@@ -71779,10 +71787,18 @@
 116.128.134.167 dajia.qq.com
 157.255.192.44  dajia.qq.com
 66.102.251.24   us.weibo.com
-218.60.78.222   www.lanzous.com
-111.164.19.224  www.lanzous.com
+111.206.209.41  tieba.com
+111.206.209.45  tieba.com
+111.206.209.41  dq.tieba.com
+111.206.209.45  dq.tieba.com
+111.206.209.41  www.tieba.com
+111.206.209.45  www.tieba.com
+111.206.209.41  live.baidu.com
+111.206.209.45  live.baidu.com
 111.206.209.41  tieba.baidu.com
 111.206.209.45  tieba.baidu.com
+218.60.78.222   www.lanzous.com
+111.164.19.224  www.lanzous.com
 # Tieba End
 
 # Eracom Start
