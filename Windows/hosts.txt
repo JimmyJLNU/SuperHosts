@@ -40239,6 +40239,8 @@
 104.22.9.150    www.hkptu.org
 172.67.11.44    www.hkptu.org
 23.185.0.4      world.wng.org
+61.238.134.170  ucpnz.co.nz
+61.238.134.170  www.ucpnz.co.nz
 185.152.70.47   vaticannews.va
 152.199.38.46   www.vaticannews.va
 152.195.133.236 www.vaticannews.va
@@ -42059,6 +42061,8 @@
 104.31.77.197   playtube.pk
 104.31.76.197   www.playtube.pk
 104.31.77.197   www.playtube.pk
+54.201.113.219  tubeninja.net
+54.201.113.219  www.tubeninja.net
 104.28.14.208   genclips.net
 104.28.15.208   genclips.net
 104.28.14.208   www.genclips.net
