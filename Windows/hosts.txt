@@ -40120,6 +40120,7 @@
 118.163.12.89   www.cmoney.tw
 219.84.203.57   wealth.com.tw
 219.84.203.57   www.wealth.com.tw
+210.67.120.100  ww2.money-link.com.tw
 104.24.108.229  new7.com.tw
 104.24.109.229  new7.com.tw
 104.24.109.229  www.new7.com.tw
