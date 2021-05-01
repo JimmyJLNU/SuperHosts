@@ -39761,18 +39761,18 @@
 # Taronews End
 
 # six-degrees Start
-104.18.48.126   6do.news
-104.18.49.126   6do.news
-104.18.48.126   www.6do.news
-104.18.49.126   www.6do.news
-104.27.188.78   six-degrees.io
-104.27.189.78   six-degrees.io
-104.27.188.78   s3.six-degrees.io
-104.27.189.78   s3.six-degrees.io
-104.27.188.78   api.six-degrees.io
-104.27.189.78   api.six-degrees.io
-104.27.188.78   www.six-degrees.io
-104.27.189.78   www.six-degrees.io
+104.21.82.79   6do.news
+172.67.155.56  6do.news
+104.21.82.79   www.6do.news
+172.67.155.56  www.6do.news
+104.21.92.51   six-degrees.io
+172.67.186.141 six-degrees.io
+104.21.92.51   s3.six-degrees.io
+172.67.186.141 s3.six-degrees.io
+104.21.92.51   api.six-degrees.io
+172.67.186.141 api.six-degrees.io
+104.21.92.51   www.six-degrees.io
+172.67.186.141 www.six-degrees.io
 # six-degrees End
 
 # Substack Start
