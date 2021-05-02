@@ -37268,14 +37268,12 @@
 104.18.112.24   press.org
 104.18.111.24   www.press.org
 104.18.112.24   www.press.org
-151.101.2.217   hoover.org
-151.101.230.117 hoover.org
-151.101.2.217   www.hoover.org
-151.101.230.117 www.hoover.org
 104.25.69.117   hudson.org
 104.25.70.117   hudson.org
 104.25.69.117   www.hudson.org
 104.25.70.117   www.hudson.org
+184.73.171.62   chinafile.com
+184.73.171.62   www.chinafile.com
 104.20.19.178   atlanticcouncil.org
 104.20.19.178   www.atlanticcouncil.org
 74.121.195.174  wilsoncenter.org
@@ -38580,6 +38578,8 @@
 91.189.80.224   www.cnclip.info
 91.189.80.129   ru-clip.net
 91.189.80.129   www.ru-clip.net
+178.218.213.138 declips.net
+178.218.213.138 www.declips.net
 178.218.214.44  kzclip.com
 178.218.214.44  www.kzclip.com
 104.28.4.237    myplay.video
@@ -39374,6 +39374,26 @@
 185.165.123.36  avatarify.ai
 185.165.123.36  www.avatarify.ai
 # Others End
+
+# hoover Start
+# 2020/2/11 HTTPS 连接重置（需配合SNI工具解封）
+151.101.2.133   hoover.org
+151.101.230.133 hoover.org
+151.101.2.133   www.hoover.org
+151.101.230.133 www.hoover.org
+23.185.0.4      giving.hoover.org
+3.0.207.158     resources.hoover.org
+18.139.47.197   resources.hoover.org
+13.225.93.30    histories.hoover.org
+13.225.93.89    histories.hoover.org
+13.225.93.87    histories.hoover.org
+13.225.93.107   histories.hoover.org
+13.225.170.32   histories.hoover.org
+13.225.170.89   histories.hoover.org
+52.207.149.52   hojishinbun.hoover.org
+171.66.112.95   miltonfriedman.hoover.org
+171.66.112.94   digitalcollections.hoover.org
+# hoover End
 
 # Clubhouse Start
 # 2021/2/11 HTTPS 连接重置（需配合SNI工具解封）
