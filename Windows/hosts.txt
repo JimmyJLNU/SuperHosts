@@ -21189,6 +21189,14 @@
 203.208.39.216  www.google.com.cn
 203.208.50.63   www.google.com.cn
 203.208.43.87   www.google.com.cn
+114.250.63.33   fonts.googleapis.com
+114.250.64.33   fonts.googleapis.com
+114.250.65.33   fonts.googleapis.com
+114.250.66.33   fonts.googleapis.com
+114.250.63.33   imasdk.googleapis.com
+114.250.64.33   imasdk.googleapis.com
+114.250.65.33   imasdk.googleapis.com
+114.250.66.33   imasdk.googleapis.com
 216.58.200.51   html5rocks.com
 216.58.200.51   www.html5rocks.com
 216.58.200.51   slides.html5rocks.com
