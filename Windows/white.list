@@ -15248,7 +15248,6 @@
 125.56.201.121  a1402.dspw40.akamai.net
 117.18.237.97   gxcuf89792.i.lithium.com
 203.74.140.178  foxnewsplayer-a.akamaihd.net
-203.74.140.171  vod-progressive.akamaized.net
 13.35.11.4      d3c33hcgiwev3.cloudfront.net
 13.33.194.156   d3c33hcgiwev3.cloudfront.net
 13.33.23.248    d3c33hcgiwev3.cloudfront.net
@@ -43381,6 +43380,7 @@
 151.101.0.217   player.vimeo.com
 151.101.248.217 player.vimeo.com
 198.245.92.39   click.email.vimeo.com
+203.74.140.171  vod-progressive.akamaized.net
 # Vimeo End
 
 # Wiki Start
@@ -62101,6 +62101,8 @@
 74.121.195.169  digitalarchive.wilsoncenter.org
 23.185.0.3      journalofdemocracy.org
 23.185.0.3      www.journalofdemocracy.org
+23.185.0.4      halifaxtheforum.org
+23.185.0.4      www.halifaxtheforum.org
 104.27.146.57   mohu.club
 104.27.147.57   mohu.club
 104.27.146.57   www.mohu.club
@@ -64526,8 +64528,17 @@
 27.126.236.160  www.rthk.hk
 59.188.18.204   teenpower.rthk.hk
 27.126.236.161  programme.rthk.hk
+210.65.144.145  rthkvod1-vh.akamaihd.net
+210.65.144.137  rthkvod1-vh.akamaihd.net
 210.61.248.82   rthklive1-lh.akamaihd.net
 210.61.248.26   rthklive2-lh.akamaihd.net
+203.69.141.11   rthkaudio1-lh.akamaihd.net
+203.69.141.25   rthkaudio2-lh.akamaihd.net
+210.61.248.49   rthkaudio3-lh.akamaihd.net
+210.61.248.34   rthkaudio4-lh.akamaihd.net
+210.61.248.58   rthkaudio5-lh.akamaihd.net
+210.61.248.19   rthkaudio6-lh.akamaihd.net
+210.61.248.19   rthkaudiocnr-lh.akamaihd.net
 # RTHK End
 
 # enanyang Start
