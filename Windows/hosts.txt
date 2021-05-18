@@ -39785,6 +39785,21 @@
 104.22.53.207   media.bastillepost.com
 # bastillepost End
 
+# ctwant Start
+# 2021/4/7 HTTPS 连接重置（需配合SNI工具解封）
+152.199.44.91   ctwant.com
+152.199.5.232   ctwant.com
+152.199.22.249  ctwant.com
+152.199.44.91   www.ctwant.com
+152.199.5.232   www.ctwant.com
+152.199.22.249  www.ctwant.com
+13.251.254.29   shop.ctwant.com
+52.76.64.229    shop.ctwant.com
+152.199.44.91   static.ctwant.com
+152.199.5.232   static.ctwant.com
+152.199.22.249  static.ctwant.com
+# ctwant End
+
 # Others Start
 54.182.1.32     vid.me
 52.84.143.32    vid.me
@@ -40114,17 +40129,20 @@
 185.230.61.177  www.voicettank.org
 103.1.220.131   viewpointtaiwan.com
 103.1.220.131   www.viewpointtaiwan.com
-152.199.44.91   ctwant.com
-152.199.5.232   ctwant.com
-152.199.22.249  ctwant.com
-152.199.44.91   www.ctwant.com
-152.199.5.232   www.ctwant.com
-152.199.22.249  www.ctwant.com
-13.251.254.29   shop.ctwant.com
-52.76.64.229    shop.ctwant.com
-152.199.44.91   static.ctwant.com
-152.199.5.232   static.ctwant.com
-152.199.22.249  static.ctwant.com
+3.208.202.0     anntw.com
+3.209.27.98     anntw.com
+3.221.4.217     anntw.com
+34.202.43.88    anntw.com
+50.19.119.19    anntw.com
+3.222.240.112   anntw.com
+34.194.108.77   anntw.com
+3.216.86.20     www.anntw.com
+35.170.10.11    www.anntw.com
+3.212.138.198   www.anntw.com
+18.205.129.29   www.anntw.com
+34.235.106.23   www.anntw.com
+34.226.165.133  www.anntw.com
+34.203.109.182  www.anntw.com
 118.163.12.89   cmoney.tw
 210.242.250.31  fsv.cmoney.tw
 61.222.213.235  fsv.cmoney.tw
@@ -45175,12 +45193,12 @@
 # CSIS End
 
 # Udn Start
-104.71.140.28   udn.com
-104.71.140.28   m.udn.com
+104.78.4.129    udn.com
+104.78.4.129    m.udn.com
 210.243.166.197 gb.udn.com
-104.71.140.28   nba.udn.com
+104.78.4.129    nba.udn.com
 27.126.237.11   www.udn.com
-104.71.140.28   money.udn.com
+104.78.4.129    money.udn.com
 13.33.74.79     video.udn.com
 13.33.41.58     video.udn.com
 13.33.197.109   video.udn.com
@@ -45188,10 +45206,10 @@
 13.32.168.41    video.udn.com
 13.33.197.138   video.udn.com
 13.33.164.142   video.udn.com
-104.71.140.28   theme.udn.com
-104.71.140.28   stars.udn.com
-104.71.140.28   topic.udn.com
-104.71.140.28   fund.udn.com
+104.78.4.129    theme.udn.com
+104.78.4.129    stars.udn.com
+104.78.4.129    topic.udn.com
+104.78.4.129    fund.udn.com
 13.35.0.26      cdn.udn.com
 13.224.166.65   cdn.udn.com
 13.224.166.71   cdn.udn.com
@@ -45200,43 +45218,43 @@
 23.41.137.240   img.udn.com
 113.196.249.55  rec.udn.com
 152.199.43.216  vip.udn.com
-104.71.140.28   oops.udn.com
-104.71.140.28   autos.udn.com
-104.71.140.28   health.udn.com
+104.78.4.129    oops.udn.com
+104.78.4.129    autos.udn.com
+104.78.4.129    health.udn.com
 23.41.137.240   reader.udn.com
 211.20.177.94   member.udn.com
 210.243.166.93  reading.udn.com
 210.244.31.153  forum.udn.com
-104.71.140.28   upoints.udn.com
+104.78.4.129    upoints.udn.com
 52.199.61.25    utravel.udn.com
 54.64.127.209   utravel.udn.com
-104.71.140.28   mobile.udn.com
-104.71.140.28   style.udn.com
-104.71.140.28   paper.udn.com
-104.71.140.28   vision.udn.com
+104.78.4.129    mobile.udn.com
+104.78.4.129    style.udn.com
+104.78.4.129    paper.udn.com
+104.78.4.129    vision.udn.com
 211.20.177.96   city.udn.com
 210.244.31.135  edn.udn.com
 113.196.249.18  spm.udn.com
 113.196.249.56  cas.udn.com
 210.243.166.166 event.udn.com
 218.32.9.131    expo.udn.com
-104.71.140.28   house.udn.com
+104.78.4.129    house.udn.com
 211.20.177.98   act.udn.com
 211.20.177.10   stock.udn.com
-104.71.140.28   debate.udn.com
-104.71.140.28   opinion.udn.com
-104.71.140.28   global.udn.com
+104.78.4.129    debate.udn.com
+104.78.4.129    opinion.udn.com
+104.78.4.129    global.udn.com
 13.33.197.58    a.udn.com
 13.33.197.12    a.udn.com
 13.32.168.134   a.udn.com
-104.71.140.28   shopping.udn.com
+104.78.4.129    shopping.udn.com
 210.244.31.144  photo.udn.com
 113.196.249.5   udntalks.udn.com
 210.243.166.77  data.udn.com
 211.20.177.96   album.udn.com
 211.20.177.96   blog.udn.com
 211.20.177.104  classic-blog.udn.com
-104.71.140.28   active.udn.com
+104.78.4.129    active.udn.com
 211.78.81.155   ishow.udn.com
 210.244.31.135  life.ishow.udn.com
 # Udn End
