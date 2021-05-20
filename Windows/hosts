@@ -36421,6 +36421,24 @@
 152.199.22.249  static.ctwant.com
 # ctwant End
 
+# KKBOX Start
+210.61.182.198 kkbox.com
+210.61.182.150 cs.kkbox.com
+210.61.183.65  tt.kkbox.com
+210.61.183.31  www.kkbox.com
+210.61.183.32  www.kkbox.com
+210.61.183.51  kma.kkbox.com
+203.69.40.207  ssl.kkbox.com
+54.150.9.159   help.kkbox.com
+52.198.242.42  help.kkbox.com
+210.61.183.71  play.kkbox.com
+52.198.242.42  kkid.kkbox.com
+54.150.9.159   kkid.kkbox.com
+210.61.182.23  podcast.kkbox.com
+210.61.182.23  kkpoints.kkbox.com
+210.61.182.23  play-beta.kkbox.com
+# KKBOX End
+
 # Others Start
 54.182.1.32     vid.me
 52.84.143.32    vid.me
