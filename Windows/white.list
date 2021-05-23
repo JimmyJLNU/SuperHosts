@@ -61184,6 +61184,31 @@
 198.54.200.122  graphql.api.dailymotion.com
 # Dailymotion End
 
+# politico Start
+# 2021/5/23 HTTPS 连接重置（需配合SNI工具解封）
+104.26.8.117    politico.eu
+104.26.9.117    politico.eu
+104.26.8.117    www.politico.eu
+104.26.9.117    www.politico.eu
+13.35.0.90      widget.politico.eu
+13.227.49.8     widget.politico.eu
+13.224.161.60   widget.politico.eu
+13.224.161.64   widget.politico.eu
+13.225.103.121  widget.politico.eu
+# politico End
+
+# wionews Start
+# 2021/5/23 HTTPS 连接重置（需配合SNI工具解封）
+13.235.97.34    wionews.com
+13.232.220.129  wionews.com
+23.77.18.161    www.wionews.com
+184.26.244.46   www.wionews.com
+184.50.191.105  www.wionews.com
+119.207.64.96   cdn.wionews.com
+203.74.140.155  cdn.wionews.com
+139.175.236.223 cdn.wionews.com
+# wionews End
+
 # bastillepost Start
 # 2018/6/7 HTTPS 连接重置（需配合SNI工具解封）
 52.219.36.46    bastillepost.com
