@@ -47112,9 +47112,11 @@
 210.241.135.39  www.ticket.com.tw
 # Eracom End
 
-# Wondershare Start
-243.185.187.30 platform.wondershare.com
-# Wondershare End
+# Flash Sart
+127.0.0.1 flash.cn
+127.0.0.1 www.flash.cn
+127.0.0.1 geo2.adobe.com
+# Flash End
 
 # Xunlei Start
 243.185.187.3  hub5btmain.sandai.net

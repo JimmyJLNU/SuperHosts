@@ -1,37 +1,38 @@
 @echo off
+title Hosts ÎÄ¼þÍ¨ÓÃÌæ»»½Å±¾ 2.0
 :main
 cls
 color 2E
 echo -------------------------------------------------------------------------------
-echo          âˆšâˆš    âˆšâˆš  âˆšâˆšâˆš      âˆšâˆšâˆšâˆš  âˆšâˆšâˆšâˆšâˆš    âˆšâˆšâˆšâˆš
-echo          âˆš    âˆš  âˆš      âˆš  âˆš      âˆš  âˆš  âˆš  âˆš  âˆš      âˆš
-echo          âˆš    âˆš  âˆš      âˆš  âˆš              âˆš      âˆš
-echo          âˆšâˆšâˆšâˆš  âˆš      âˆš    âˆšâˆš          âˆš        âˆšâˆš
-echo          âˆš    âˆš  âˆš      âˆš        âˆš        âˆš            âˆš
-echo          âˆš    âˆš  âˆš      âˆš          âˆš      âˆš              âˆš
-echo          âˆš    âˆš  âˆš      âˆš  âˆš      âˆš      âˆš      âˆš      âˆš
-echo        âˆšâˆš    âˆšâˆš  âˆšâˆšâˆš    âˆšâˆšâˆšâˆš      âˆšâˆšâˆš    âˆšâˆšâˆšâˆš
+echo          ¡Ì¡Ì    ¡Ì¡Ì  ¡Ì¡Ì¡Ì      ¡Ì¡Ì¡Ì¡Ì  ¡Ì¡Ì¡Ì¡Ì¡Ì    ¡Ì¡Ì¡Ì¡Ì
+echo          ¡Ì    ¡Ì  ¡Ì      ¡Ì  ¡Ì      ¡Ì  ¡Ì  ¡Ì  ¡Ì  ¡Ì      ¡Ì
+echo          ¡Ì    ¡Ì  ¡Ì      ¡Ì  ¡Ì              ¡Ì      ¡Ì
+echo          ¡Ì¡Ì¡Ì¡Ì  ¡Ì      ¡Ì    ¡Ì¡Ì          ¡Ì        ¡Ì¡Ì
+echo          ¡Ì    ¡Ì  ¡Ì      ¡Ì        ¡Ì        ¡Ì            ¡Ì
+echo          ¡Ì    ¡Ì  ¡Ì      ¡Ì          ¡Ì      ¡Ì              ¡Ì
+echo          ¡Ì    ¡Ì  ¡Ì      ¡Ì  ¡Ì      ¡Ì      ¡Ì      ¡Ì      ¡Ì
+echo        ¡Ì¡Ì    ¡Ì¡Ì  ¡Ì¡Ì¡Ì    ¡Ì¡Ì¡Ì¡Ì      ¡Ì¡Ì¡Ì    ¡Ì¡Ì¡Ì¡Ì
 echo --------------------------------------------------------------------------------
-echo å¦‚æœ‰360ç­‰å®‰å…¨è½¯ä»¶æé†’ï¼Œè¯·å‹¾é€‰å…è®¸å’Œä¸å†æé†’ï¼
+echo ÈçÓÐ360µÈ°²È«Èí¼þÌáÐÑ£¬Çë¹´Ñ¡ÔÊÐíºÍ²»ÔÙÌáÐÑ£¡
 echo.
-echo â€œOKEX éžæ³•æœŸè´§åˆçº¦è¯ˆéª—â€ç»´æƒå®¢æˆ·ç‰¹åˆ«æé†’ï¼š
+echo ¡°OKEX ·Ç·¨ÆÚ»õºÏÔ¼Õ©Æ­¡±Î¬È¨¿Í»§ÌØ±ðÌáÐÑ£º
 echo.
-echo è¯·å…ˆæ‰“å¼€æœ¬ç›®å½•ä¸‹çš„ hosts æ–‡ä»¶ï¼ŒåŽ»æŽ‰IPåœ°å€å‰é¢çš„äº•å·ï¼Œå†è¿è¡Œè„šæœ¬ï¼Œå³å¯æ­£å¸¸ç™»å½•ï¼
+echo ÇëÏÈ´ò¿ª±¾Ä¿Â¼ÏÂµÄ hosts ÎÄ¼þ£¬È¥µôIPµØÖ·Ç°ÃæµÄ¾®ºÅ£¬ÔÙÔËÐÐ½Å±¾£¬¼´¿ÉÕý³£µÇÂ¼£¡
 echo --------------------------------------------------------------------------------
 echo.
-echo è¯·é€‰æ‹©ï¼š
+echo ÇëÑ¡Ôñ£º
 echo.
-echo  1.ä½¿ç”¨ç©¿å¢™ hosts
+echo  1.Ê¹ÓÃ´©Ç½ hosts
 echo.
-echo  2.å¤åˆ¶ç™½åå•åˆ° Aurora DNS ç›®å½•
+echo  2.¸´ÖÆ°×Ãûµ¥µ½ Aurora DNS Ä¿Â¼
 echo.
-echo  3.æ¢å¤åŽŸå§‹ hosts	
+echo  3.»Ö¸´Ô­Ê¼ hosts	
 echo.
 echo --------------------------------------------------------------------------------
 echo.
 if exist "%SystemRoot%\System32\choice.exe" goto Win7Choice
 
-set /p choice=è¯·è¾“å…¥ç›¸åº”æ•°å­—å¹¶æŒ‰å›žè½¦é”®ç¡®è®¤:
+set /p choice=ÇëÊäÈëÏàÓ¦Êý×Ö²¢°´»Ø³µ¼üÈ·ÈÏ:
 
 echo.
 if %choice%==1 goto host DNS
@@ -39,11 +40,11 @@ if %choice%==2 goto AuroraDNS
 if %choice%==3 goto CL
 cls
 "set choice="
-echo æ‚¨è¾“å…¥æœ‰è¯¯ï¼Œè¯·é‡æ–°é€‰æ‹©ã€‚
+echo ÄúÊäÈëÓÐÎó£¬ÇëÖØÐÂÑ¡Ôñ¡£
 goto main
 
 :Win7Choice
-choice /c 123 /n /m "è¯·è¾“å…¥ç›¸åº”æ•°å­—ï¼š"
+choice /c 123 /n /m "ÇëÊäÈëÏàÓ¦Êý×Ö£º"
 if %errorlevel%==1 goto host DNS
 if %errorlevel%==2 goto AuroraDNS
 if %errorlevel%==3 goto CL
@@ -53,19 +54,21 @@ goto main
 :host DNS
 cls
 color 2f
+ver|find /i " 10.0">nul &&echo y|cacls "%SystemRoot%\System32\drivers\etc\hosts" /c /p Everyone:f
+attrib -r -s -h %SystemRoot%\System32\drivers\etc\hosts
 copy /y "hosts" "%SystemRoot%\System32\drivers\etc\hosts"
 ipconfig /flushdns
 echo.
 echo --------------------------------------------------------------------------------
 echo.
-echo æˆåŠŸè¦†ç›–æœ¬åœ° hosts å¹¶åˆ·æ–°æœ¬åœ° DNS è§£æžç¼“å­˜!
+echo ³É¹¦¸²¸Ç±¾µØ hosts ²¢Ë¢ÐÂ±¾µØ DNS ½âÎö»º´æ!
 echo.
 goto end
 
 :AuroraDNS
 @echo off
 set "FileName=AuroraGUI.exe"
-echo æ­£åœ¨æœç´¢ Aurora DNS ç›®å½•ï¼Œè¯·ç¨å€™......
+echo ÕýÔÚËÑË÷ Aurora DNS Ä¿Â¼£¬ÇëÉÔºò......
 for %%a in ("%FileName%") do (
   set "nName=%%~na"
   set "xName=%%~xa"
@@ -73,13 +76,13 @@ for %%a in ("%FileName%") do (
 set "xName=%xName:~1%"
 for /f "skip=1 delims=" %%a in ('wmic datafile where "filename='%nName%' and Extension='%xName%'" get name') do (
   echo.
-  echo å·²æ‰¾åˆ° Aurora DNS ç›®å½•ï¼š%%~dpa
+  echo ÒÑÕÒµ½ Aurora DNS Ä¿Â¼£º%%~dpa
   echo.
-  echo æ­£åœ¨å¤åˆ¶ç™½åå•æ–‡ä»¶ï¼Œè¯·ç¨å€™......
+  echo ÕýÔÚ¸´ÖÆ°×Ãûµ¥ÎÄ¼þ£¬ÇëÉÔºò......
   echo.
   copy /y %~dp0white.list %%~dpa\white.list
   echo.
-  echo å¤åˆ¶å®Œæˆï¼
+  echo ¸´ÖÆÍê³É£¡
   echo.
   goto end
 )
@@ -88,12 +91,14 @@ for /f "skip=1 delims=" %%a in ('wmic datafile where "filename='%nName%' and Ext
 :CL
 cls
 color 2f
+ver|find /i " 10.0">nul &&echo y|cacls "%SystemRoot%\System32\drivers\etc\hosts" /c /p Everyone:f
+attrib -r -s -h %SystemRoot%\System32\drivers\etc\hosts
 @echo 127.0.0.1 localhost > %SystemRoot%\System32\drivers\etc\hosts
 echo.
-echo æ­å–œæ‚¨ï¼Œhosts å·²ç»æ¢å¤åŽŸçŠ¶!
+echo ¹§Ï²Äú£¬hosts ÒÑ¾­»Ö¸´Ô­×´!
 echo.
 goto end
 
 :end
-echo è¯·æŒ‰ä»»æ„é”®é€€å‡ºã€‚
+echo Çë°´ÈÎÒâ¼üÍË³ö¡£
 @Pause>nul
