@@ -61261,6 +61261,42 @@
 210.61.182.23  play-beta.kkbox.com
 # KKBOX End
 
+# oneindia Start
+# 2021/4/7 HTTPS 连接重置（需配合SNI工具解封）
+107.6.113.219   oneindia.com
+23.50.0.79      www.oneindia.com
+23.11.190.138   www.oneindia.com
+23.60.109.161   www.oneindia.com
+23.45.199.69    rss.oneindia.com
+23.60.109.161   rss.oneindia.com
+23.217.124.116  rss.oneindia.com
+23.106.248.117  gapi.oneindia.com
+23.11.190.138   odia.oneindia.com
+23.60.109.161   odia.oneindia.com
+23.11.190.138   tamil.oneindia.com
+23.60.109.161   tamil.oneindia.com
+23.201.37.155   tamil.oneindia.com
+23.217.124.116  tamil.oneindia.com
+23.11.190.138   hindi.oneindia.com
+23.60.109.161   hindi.oneindia.com
+23.11.190.138   telugu.oneindia.com
+23.60.109.161   telugu.oneindia.com
+23.11.190.138   bengali.oneindia.com
+23.60.109.161   bengali.oneindia.com
+23.111.12.74    content.oneindia.com
+13.35.0.7       coupons.oneindia.com
+13.33.29.4      coupons.oneindia.com
+13.33.29.119    coupons.oneindia.com
+13.35.24.28     coupons.oneindia.com
+13.226.115.121  coupons.oneindia.com
+13.225.93.52    coupons.oneindia.com
+23.11.190.138   kannada.oneindia.com
+23.60.109.161   kannada.oneindia.com
+23.201.37.155   kannada.oneindia.com
+23.217.124.116  kannada.oneindia.com
+192.175.110.147 recharge.oneindia.com
+# oneindia End
+
 # Others Start
 54.182.1.32     vid.me
 52.84.143.32    vid.me
@@ -61335,9 +61371,6 @@
 69.165.42.16    secure.motherjones.com
 23.56.20.218    timesofindia.indiatimes.com
 23.219.34.196   timesofindia.indiatimes.com
-13.107.246.10   logincdn.msauth.net
-192.229.211.199 lgincdnvzeuno.azureedge.net
-192.229.221.185 lgincdnvzeuno.azureedge.net
 103.55.26.214   nettv.live
 103.55.26.214   www.nettv.live
 103.55.26.214   nettvs.live
