@@ -50997,7 +50997,6 @@
 101.78.207.170  w.qhmsg.com
 101.78.207.170  s.ssl.qhmsg.com
 101.78.207.170  p.ssl.qhmsg.com
-101.78.207.170  s.ssl.qhres.com
 101.78.207.170  ssl.qhmsg.com
 101.78.207.166  i0.qhmsg.com
 101.78.207.166  i1.qhmsg.com
@@ -51019,12 +51018,14 @@
 101.78.207.166  p3.ssl.qhimg.com
 101.78.207.166  p4.ssl.qhimg.com
 101.78.207.166  p5.ssl.qhimg.com
+101.78.207.166  s.ssl.qhres.com
 101.78.207.166  s0.ssl.qhres.com
 101.78.207.166  s1.ssl.qhres.com
 101.78.207.166  s2.ssl.qhres.com
 101.78.207.166  s3.ssl.qhres.com
 101.78.207.166  s4.ssl.qhres.com
 101.78.207.166  s5.ssl.qhres.com
+101.78.207.167  s.ssl.qhres2.com
 101.78.207.167  s0.ssl.qhres2.com
 101.78.207.167  s1.ssl.qhres2.com
 101.78.207.167  s2.ssl.qhres2.com
