@@ -61260,6 +61260,16 @@
 152.199.22.249  static.ctwant.com
 # ctwant End
 
+# turnnewsapp Start
+# 2021/6/7 HTTPS 连接重置（需配合SNI工具解封）
+52.187.36.104 turnnewsapp.com
+52.187.36.104 www.turnnewsapp.com
+52.187.36.104 prize.turnnewsapp.com
+40.65.177.68  mycte.turnnewsapp.com
+52.187.17.126 reader.turnnewsapp.com
+13.76.42.117  greenearth.turnnewsapp.com
+# turnnewsapp End
+
 # KKBOX Start
 210.61.182.198 kkbox.com
 210.61.182.150 cs.kkbox.com
@@ -71975,7 +71985,6 @@
 23.78.141.218   upos-hz-mirrorakam.akamaized.net
 72.246.150.113  upos-hz-mirrorakam.akamaized.net
 # Tieba End
-
 
 # Eracom Start
 45.223.22.160   eracom.com.tw
