@@ -17744,8 +17744,8 @@
 157.240.26.33   z-9-scontent.xx.fbcdn.net
 157.240.211.35  fb.com
 157.240.211.35  www.fb.com
-192.0.66.2      messenger.fb.com
-192.0.66.2      research.fb.com
+192.0.66.3      messenger.fb.com
+192.0.66.3      research.fb.com
 192.0.78.13     events.fb.com
 192.0.78.12     events.fb.com
 192.0.78.13     techprep.fb.com
@@ -17761,7 +17761,7 @@
 192.0.78.13     donations.fb.com
 192.0.78.12     facebook360.fb.com
 192.0.78.13     facebook360.fb.com
-192.0.66.2      inspired.fb.com
+192.0.66.3      inspired.fb.com
 192.0.78.13     placetips.fb.com
 192.0.78.12     placetips.fb.com
 69.172.200.241  investor.fb.com
@@ -17771,7 +17771,7 @@
 192.0.79.32     yearinreview.fb.com
 192.0.78.12     shemeansbusiness.fb.com
 192.0.78.13     shemeansbusiness.fb.com
-192.0.66.2      smartrestart.fb.com
+192.0.66.3      smartrestart.fb.com
 192.0.78.12     politics.fb.com
 192.0.78.13     politics.fb.com
 192.28.146.119  go.fb.com
@@ -17803,8 +17803,8 @@
 192.0.78.13     rightsmanager.fb.com
 192.0.78.12     instantarticles.fb.com
 192.0.78.13     instantarticles.fb.com
-192.0.66.2      messengerplatform.fb.com
-192.0.66.2      threatexchange.fb.com
+192.0.66.3      messengerplatform.fb.com
+192.0.66.3      threatexchange.fb.com
 199.201.64.30   mirror.facebook.net
 199.201.65.35   mirror.facebook.net
 199.201.64.30   www.mirror.facebook.net
@@ -24191,6 +24191,8 @@
 # ss-ssr End
 
 # Github Start
+192.0.66.3      github.blog
+192.0.66.3      www.github.blog
 13.114.40.48    github.com
 52.69.186.44    www.github.com
 52.192.72.89    www.github.com
@@ -35471,7 +35473,7 @@
 192.0.78.13    labs.time.com
 192.0.79.32    ideas.time.com
 192.0.79.33    ideas.time.com
-192.0.66.200   world.time.com
+192.0.66.300   world.time.com
 13.35.8.117    content.time.com
 13.224.161.45  content.time.com
 13.224.161.123 content.time.com
@@ -36609,8 +36611,8 @@
 192.230.64.1    insiders.710knus.com
 192.230.65.1    insiders.710knus.com
 185.11.124.1    insiders.710knus.com
-192.0.66.2      motherjones.com
-192.0.66.2      www.motherjones.com
+192.0.66.3      motherjones.com
+192.0.66.3      www.motherjones.com
 23.227.38.64    store.motherjones.com
 69.165.42.16    secure.motherjones.com
 23.56.20.218    timesofindia.indiatimes.com
@@ -37411,8 +37413,8 @@
 104.18.166.96   www.fdd.org
 104.18.167.96   www.fdd.org
 104.18.168.96   www.fdd.org
-192.0.66.2      brookings.edu
-192.0.66.2      www.brookings.edu
+192.0.66.3      brookings.edu
+192.0.66.3      www.brookings.edu
 104.18.111.24   press.org
 104.18.112.24   press.org
 104.18.111.24   www.press.org
@@ -40951,7 +40953,7 @@
 151.101.2.133   qz.com
 151.101.130.133 qz.com
 38.118.71.250   ssl.qz.com
-192.0.66.2      cms.qz.com
+192.0.66.3      cms.qz.com
 151.101.194.133 www.qz.com
 151.101.66.133  www.qz.com
 151.101.2.133   www.qz.com
