@@ -37116,6 +37116,10 @@
 104.21.84.50    cn2.rti.tw
 104.21.84.50    cn3.rti.tw
 104.21.84.50    cn4.rti.tw
+104.21.84.50    www.rti.tw
+104.21.84.50    apec.rti.tw
+104.21.84.50    arts.rti.tw
+104.21.84.50    topic.rti.tw
 202.55.233.140  rti.org.tw
 104.22.12.102   en.rti.org.tw
 104.22.13.102   en.rti.org.tw
