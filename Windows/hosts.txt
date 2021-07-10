@@ -36768,6 +36768,7 @@
 # Pubu End
 
 # Yam Start
+# 2020/1/27 HTTPS 连接重置（需配合SNI工具解封）
 13.75.119.113   n.yam.com
 54.238.221.82   dq.yam.com
 52.68.110.218   qu.yam.com
@@ -37112,6 +37113,7 @@
 # Yam End
 
 # RTI Start
+# 2021/7/2 HTTPS 连接重置（需配合SNI工具解封）
 104.21.84.50    cn.rti.tw
 104.21.84.50    cn2.rti.tw
 104.21.84.50    cn3.rti.tw
@@ -45035,37 +45037,6 @@
 13.225.103.57   static02-proxy.hket.com
 # HKET End
 
-# Youtaker Start
-# 2018/8/31 HTTPS 连接重置（需配合SNI工具解封）
-104.18.56.51   youtaker.com
-104.18.57.51   youtaker.com
-104.18.56.51   m.youtaker.com
-104.18.57.51   m.youtaker.com
-104.18.56.51   www.youtaker.com
-104.18.57.51   www.youtaker.com
-64.62.138.72   s1.youtaker.com
-64.62.138.72   s5.youtaker.com
-64.62.138.72   s10.youtaker.com
-64.62.138.72   s15.youtaker.com
-72.52.81.66    s20.youtaker.com
-64.62.138.72   s25.youtaker.com
-64.62.138.72   s30.youtaker.com
-64.62.138.70   s35.youtaker.com
-64.62.138.92   s55.youtaker.com
-64.62.138.70   s60.youtaker.com
-64.62.138.70   s65.youtaker.com
-64.62.138.72   s70.youtaker.com
-72.52.81.66    s75.youtaker.com
-64.62.138.66   s80.youtaker.com
-64.62.138.92   s85.youtaker.com
-72.52.81.66    s90.youtaker.com
-64.62.138.88   s95.youtaker.com
-35.201.68.206  youmaker.com
-35.201.68.206  m.youmaker.com
-151.139.128.10 vs.youmaker.com
-35.201.68.206  www.youmaker.com
-# Youtaker End
-
 # Bild Start
 # 2020/3/25 HTTPS 连接重置（需配合SNI工具解封）
 146.185.101.52  aboservice.bild.de
@@ -45385,26 +45356,33 @@
 # Udn End
 
 # TTV Start
-124.219.78.5   www.ttv.com.tw
-59.120.159.53  www.ttv.com.tw
-61.222.5.197   www.ttv.com.tw
-124.219.78.31  m.ttv.com.tw
+124.9.2.113    ttv.com.tw
+124.219.78.5   ttv.com.tw
+61.222.5.197   ttv.com.tw
+59.120.159.53  ttv.com.tw
 124.9.2.112    m.ttv.com.tw
 61.222.5.223   m.ttv.com.tw
+124.219.78.31  m.ttv.com.tw
+124.9.2.110    bb.ttv.com.tw
+124.219.78.11  bb.ttv.com.tw
+59.120.159.55  bb.ttv.com.tw
 124.9.2.104    ads.ttv.com.tw
 59.120.159.54  ads.ttv.com.tw
 61.222.5.198   ads.ttv.com.tw
 124.219.78.9   img.ttv.com.tw
 124.9.2.108    img.ttv.com.tw
 61.222.5.201   img.ttv.com.tw
+152.199.39.108 cdn.ttv.com.tw
+124.9.2.113    www.ttv.com.tw
+124.219.78.5   www.ttv.com.tw
+61.222.5.197   www.ttv.com.tw
+59.120.159.53  www.ttv.com.tw
+23.101.10.141  news.ttv.com.tw
+124.219.78.29  blog.ttv.com.tw
+61.222.5.232   ipexpo.ttv.com.tw
 124.219.78.14  webmail.ttv.com.tw
 118.163.70.216 webmail.ttv.com.tw
 61.222.5.206   webmail.ttv.com.tw
-61.222.5.232   ipexpo.ttv.com.tw
-124.219.78.29  blog.ttv.com.tw
-124.9.2.110    bb.ttv.com.tw
-124.219.78.11  bb.ttv.com.tw
-59.120.159.55  bb.ttv.com.tw
 124.9.2.114    ishopping.ttv.com.tw
 59.120.159.61  ishopping.ttv.com.tw
 124.219.78.12  ishopping.ttv.com.tw
