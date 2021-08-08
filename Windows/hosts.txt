@@ -50557,13 +50557,14 @@
 111.206.209.41  tieba.baidu.com
 111.206.209.45  tieba.baidu.com
 121.254.136.58  upos-hz-mirrorakam.akamaized.net
-23.200.75.125   upos-hz-mirrorakam.akamaized.net
-23.211.117.19   upos-hz-mirrorakam.akamaized.net
-23.15.14.251    upos-hz-mirrorakam.akamaized.net
+23.33.95.234    upos-hz-mirrorakam.akamaized.net
+23.195.91.96    upos-hz-mirrorakam.akamaized.net
+23.32.236.163   upos-hz-mirrorakam.akamaized.net
 96.7.248.115    upos-hz-mirrorakam.akamaized.net
 184.25.227.81   upos-hz-mirrorakam.akamaized.net
-23.78.141.218   upos-hz-mirrorakam.akamaized.net
+23.202.35.50    upos-hz-mirrorakam.akamaized.net
 72.246.150.113  upos-hz-mirrorakam.akamaized.net
+#221.195.206.1  upos-sz-mirrorks3c.bilivideo.com
 # Tieba End
 
 # Eracom Start
