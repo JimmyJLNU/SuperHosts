@@ -41105,8 +41105,8 @@
 104.247.220.139 cn.mojim.com
 104.247.220.139 www.mojim.com
 149.56.117.142  www.mojim.com
-3.217.135.192   id.heroku.com
-52.203.233.193  id.heroku.com
+3.211.142.173   id.heroku.com
+3.226.117.209   id.heroku.com
 104.27.188.38   xxshe.com
 104.27.189.38   xxshe.com
 104.27.188.38   www.xxshe.com
@@ -50556,6 +50556,7 @@
 111.206.209.45  live.baidu.com
 111.206.209.41  tieba.baidu.com
 111.206.209.45  tieba.baidu.com
+107.22.57.98    jimmyjlnu.herokuapp.com
 121.254.136.58  upos-hz-mirrorakam.akamaized.net
 23.33.95.234    upos-hz-mirrorakam.akamaized.net
 23.195.91.96    upos-hz-mirrorakam.akamaized.net
@@ -50564,7 +50565,7 @@
 184.25.227.81   upos-hz-mirrorakam.akamaized.net
 23.202.35.50    upos-hz-mirrorakam.akamaized.net
 72.246.150.113  upos-hz-mirrorakam.akamaized.net
-#221.195.206.1  upos-sz-mirrorks3c.bilivideo.com
+221.195.206.1   upos-sz-mirrorks3c.bilivideo.com
 # Tieba End
 
 # Eracom Start
