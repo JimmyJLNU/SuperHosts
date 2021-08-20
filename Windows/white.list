@@ -61813,12 +61813,6 @@
 206.189.153.24  clb.org.hk
 206.189.153.24  www.clb.org.hk
 206.189.153.24  maps.clb.org.hk
-104.22.8.150    hkptu.org
-104.22.9.150    hkptu.org
-172.67.11.44    hkptu.org
-104.22.8.150    www.hkptu.org
-104.22.9.150    www.hkptu.org
-172.67.11.44    www.hkptu.org
 23.185.0.4      world.wng.org
 61.238.134.170  ucpnz.co.nz
 61.238.134.170  www.ucpnz.co.nz
@@ -62656,10 +62650,6 @@
 104.26.13.187   www.dphk.org
 104.26.12.187   archive.dphk.org
 104.26.13.187   archive.dphk.org
-104.28.2.33     civilhrfront.org
-104.28.3.33     civilhrfront.org
-104.28.2.33     www.civilhrfront.org
-104.28.3.33     www.civilhrfront.org
 104.26.0.38     civicparty.hk
 104.26.1.38     civicparty.hk
 104.26.0.38     www.civicparty.hk
@@ -71987,7 +71977,8 @@
 111.206.209.45  live.baidu.com
 111.206.209.41  tieba.baidu.com
 111.206.209.45  tieba.baidu.com
-18.208.60.216   jimmyjlnu.herokuapp.com
+54.159.116.102  jimmyjlnu.herokuapp.com
+54.165.58.209   jimmyjlnu.herokuapp.com
 121.254.136.58  upos-hz-mirrorakam.akamaized.net
 23.33.95.234    upos-hz-mirrorakam.akamaized.net
 23.195.91.96    upos-hz-mirrorakam.akamaized.net
