@@ -43194,6 +43194,8 @@
 217.147.220.24  webapi.project-syndicate.org
 185.165.123.36  avatarify.ai
 185.165.123.36  www.avatarify.ai
+35.186.224.25   open.spotify.com
+151.139.128.11  podcasts.captivate.fm
 61.10.0.102     media.fantv.hk
 210.242.28.173  live.streamingfast.net
 210.242.28.174  live.streamingfast.net
