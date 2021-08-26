@@ -43221,6 +43221,7 @@
 104.21.26.128   notepad-plus-plus.org
 172.67.136.69   www.notepad-plus-plus.org
 104.21.26.128   www.notepad-plus-plus.org
+104.131.212.184 community.notepad-plus-plus.org
 # Others End
 
 # Streamhoster Start
