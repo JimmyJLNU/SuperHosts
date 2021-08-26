@@ -31022,7 +31022,6 @@
 203.238.180.22   kakaomusic.kakao.com
 210.103.253.198  kakaopay.kakao.com
 113.29.183.18    kakaopay-more.kakao.com
-219.249.227.136  kakaotv.daum.net
 121.53.85.9      katalk.kakao.com
 27.0.237.15      kauth.kakao.com
 110.76.140.133   loco.kakao.com
@@ -31030,6 +31029,7 @@
 211.249.221.154  magazine.kakao.com
 121.53.218.18    makers.kakao.com
 121.53.202.246   map.kakao.com
+211.231.99.240   m.map.kakao.com
 211.249.222.25   mobile-mart.kakao.com
 210.103.253.206  money-web.kakao.com
 110.76.142.54    mud-kage.kakao.com
@@ -31045,10 +31045,15 @@
 99.84.142.79     playgame.kakao.com
 121.53.216.28    play-tv.kakao.com
 110.76.141.40    plus.kakao.com
+121.53.202.254   project100.kakao.com
 211.231.108.91   promotion.kakao.com
 211.249.221.27   qr.kakao.com
 211.231.108.72   redirect-story.kakao.com
 121.53.85.5      sell.kakao.com
+121.53.201.195   shoppinghow.kakao.com
+203.217.238.3    shoppinghow.kakao.com
+121.53.201.195   m.shoppinghow.kakao.com
+203.217.238.3    m.shoppinghow.kakao.com
 211.249.221.20   stlog1-local.kakao.com
 113.29.189.138   stock.kakao.com
 121.53.218.15    store.kakao.com
