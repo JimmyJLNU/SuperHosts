@@ -49371,6 +49371,7 @@
 113.61.106.5     blog.daum.net
 113.61.107.5     blog.daum.net
 219.249.227.147  blog.daum.net
+211.231.99.210   board.realestate.daum.net
 121.53.202.225   board2.finance.daum.net
 113.61.106.5     cafe.daum.net
 113.61.107.5     cafe.daum.net
@@ -49385,6 +49386,10 @@
 113.29.186.76    cls.webtoon.daum.net
 27.0.236.35      comment.daum.net
 211.231.108.160  commerceone.biz.daum.net
+121.53.224.10    content.daum.net
+211.249.221.181  content.daum.net
+121.53.224.10    content.v.daum.net
+211.249.221.181  content.v.daum.net
 211.231.108.74   cp.news.search.daum.net
 211.231.99.214   cs.daum.net
 113.61.106.5     daum.net
@@ -49443,6 +49448,7 @@
 211.249.221.229  m.sports.daum.net
 211.249.221.229  m.sports.media.daum.net
 113.29.187.36    m.webtoon.daum.net
+211.249.221.154  magazine.daum.net
 211.249.221.154  magazine.channel.daum.net
 211.249.221.154  magazine.shopping.daum.net
 211.249.221.154  magazine2.movie.daum.net
@@ -49479,6 +49485,8 @@
 39.115.2.206     pub.game.daum.net
 39.115.2.228     pubg.game.daum.net
 211.231.99.213   realestate.daum.net
+211.249.221.181  realestate.v.daum.net
+121.53.224.10    realestate.v.daum.net
 211.249.220.160  real-feedback.toros.daum.net
 121.53.202.219   realty.daum.net
 39.115.2.213     redbell.game.daum.net
@@ -64186,6 +64194,10 @@
 23.50.129.24    skydvn-nowtv-atv-prod.skydvn.com
 23.192.46.243   skydvn-nowtv-atv-prod.skydvn.com
 23.43.165.104   skydvn-nowtv-atv-prod.skydvn.com
+172.67.136.69   notepad-plus-plus.org
+104.21.26.128   notepad-plus-plus.org
+172.67.136.69   www.notepad-plus-plus.org
+104.21.26.128   www.notepad-plus-plus.org
 # Others End
 
 # Streamhoster Start
@@ -71929,6 +71941,8 @@
 # Xunlei End
 
 # Block 360 Start
+123.126.249.238 warning.360.cn
+123.126.249.238 ce.warning.360.cn
 123.126.249.238 openapi.360.cn
 123.126.249.238 md.openapi.360.cn
 123.126.249.238 test.360.cn
