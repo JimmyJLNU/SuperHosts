@@ -42705,10 +42705,12 @@
 52.72.165.160   help.boxpn.com
 46.166.138.241  mullvad.net
 46.166.138.241  www.mullvad.net
-104.25.239.102  freebrowser.org
-104.25.240.102  freebrowser.org
-104.25.239.102  www.freebrowser.org
-104.25.240.102  www.freebrowser.org
+210.61.14.160   www.ydn.com.tw
+185.196.72.10   mediapart.fr
+185.196.72.10   www.mediapart.fr
+194.213.115.146 info.mediapart.fr
+185.196.72.10   blogs.mediapart.fr
+185.196.72.10   static.mediapart.fr
 104.25.161.105  bestvpnrating.com
 104.25.162.105  bestvpnrating.com
 104.25.161.105  www.bestvpnrating.com
