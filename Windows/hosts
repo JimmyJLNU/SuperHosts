@@ -39375,6 +39375,11 @@
 185.165.123.36  avatarify.ai
 185.165.123.36  www.avatarify.ai
 35.186.224.25   open.spotify.com
+13.35.30.45     open.firstory.me
+99.86.207.57    open.firstory.me
+13.227.49.87    open.firstory.me
+18.65.116.97    open.firstory.me
+18.66.139.82    open.firstory.me
 151.139.128.11  podcasts.captivate.fm
 61.10.0.102     media.fantv.hk
 210.242.28.173  live.streamingfast.net
@@ -47072,11 +47077,7 @@
 54.158.32.106  websdk.moengage.com
 # Moengage End
 
-# Tieba Start
-116.128.134.139 dajia.qq.com
-116.128.134.167 dajia.qq.com
-157.255.192.44  dajia.qq.com
-66.102.251.24   us.weibo.com
+# China Start
 111.206.209.41  tieba.com
 111.206.209.45  tieba.com
 111.206.209.41  dq.tieba.com
@@ -47087,8 +47088,18 @@
 111.206.209.45  live.baidu.com
 111.206.209.41  tieba.baidu.com
 111.206.209.45  tieba.baidu.com
+116.128.134.139 dajia.qq.com
+116.128.134.167 dajia.qq.com
+157.255.192.44  dajia.qq.com
+66.102.251.24   us.weibo.com
+103.61.39.191   btapi.ipip.net
 54.159.116.102  jimmyjlnu.herokuapp.com
 54.165.58.209   jimmyjlnu.herokuapp.com
+218.12.76.150   upos-sz-upcdnhw.bilivideo.com
+157.255.138.36  upos-sz-upcdnhw.bilivideo.com
+120.201.104.162 upos-sz-upcdnhw.bilivideo.com
+120.201.104.165 upos-sz-upcdnhw.bilivideo.com
+120.201.104.168 upos-sz-upcdnhw.bilivideo.com
 121.254.136.58  upos-hz-mirrorakam.akamaized.net
 23.33.95.234    upos-hz-mirrorakam.akamaized.net
 23.195.91.96    upos-hz-mirrorakam.akamaized.net
@@ -47098,7 +47109,7 @@
 23.202.35.50    upos-hz-mirrorakam.akamaized.net
 72.246.150.113  upos-hz-mirrorakam.akamaized.net
 221.195.206.1   upos-sz-mirrorks3c.bilivideo.com
-# Tieba End
+# China End
 
 # Eracom Start
 45.223.22.160   eracom.com.tw
