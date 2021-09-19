@@ -43223,6 +43223,10 @@
 13.227.49.87    open.firstory.me
 18.65.116.97    open.firstory.me
 18.66.139.82    open.firstory.me
+104.200.22.27   overcast.fm
+104.200.23.53   overcast.fm
+104.200.22.27   www.overcast.fm
+104.200.23.53   www.overcast.fm
 151.139.128.11  podcasts.captivate.fm
 61.10.0.102     media.fantv.hk
 210.242.28.173  live.streamingfast.net
