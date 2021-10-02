@@ -26071,6 +26071,8 @@
 151.101.1.140     d.thumbs.redditmedia.com
 151.101.1.140     e.thumbs.redditmedia.com
 151.101.1.140     f.thumbs.redditmedia.com
+34.120.194.28     libredd.it
+34.120.194.28     www.libredd.it
 # Reddit End
 
 # MySpace Start
@@ -46534,6 +46536,12 @@
 212.58.249.135 session.bbc.co.uk
 212.58.249.136 session.bbc.co.uk
 212.58.249.137 session.bbc.co.uk
+212.58.244.45  downloads.bbc.co.uk
+212.58.244.46  downloads.bbc.co.uk
+212.58.244.48  downloads.bbc.co.uk
+212.58.249.123 downloads.bbc.co.uk
+212.58.249.124 downloads.bbc.co.uk
+212.58.249.125 downloads.bbc.co.uk
 212.58.244.129 bbci.co.uk
 212.58.244.210 bbci.co.uk
 212.58.244.129 www.bbci.co.uk
