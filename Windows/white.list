@@ -15244,9 +15244,10 @@
 
 # CDN Start
 121.254.136.17  a248.e.akamai.net
+72.21.81.200    cteecors.azureedge.net
+210.71.227.147  onesource.azureedge.net
 198.87.54.130   a1007.dspw43.akamai.net
 125.56.201.121  a1402.dspw40.akamai.net
-210.71.227.147  onesource.azureedge.net
 117.18.237.97   gxcuf89792.i.lithium.com
 203.74.140.178  foxnewsplayer-a.akamaihd.net
 13.35.11.4      d3c33hcgiwev3.cloudfront.net
@@ -50601,27 +50602,87 @@
 # Naver End
 
 # Shopee Start
-103.117.4.201  shopee.tw
-203.205.138.12 cf.shopee.tw
-107.155.58.75  cf.shopee.tw
-119.28.45.94   www.shopee.tw
-119.28.83.126  mall.shopee.tw
-103.117.4.201  help.shopee.tw
-124.108.161.50 myads.shopee.tw
-103.117.4.201  seller.shopee.tw
-203.116.187.49 careers.shopee.tw
+103.117.4.129  shopee.tw
+45.40.60.46    cf.shopee.tw
+23.33.32.146   cf.shopee.tw
+203.69.138.224 cvf.shopee.tw
+103.117.4.129  www.shopee.tw
+103.117.4.129  mall.shopee.tw
+103.117.4.129  help.shopee.tw
+103.115.77.222 myads.shopee.tw
+103.117.4.129  seller.shopee.tw
+103.115.77.222 careers.shopee.tw
+210.61.180.8   play-ws.vod.shopee.com
 # Shopee End
 
+# Momo Start
+# 2021/10/10 HTTPS 连接重置（需配合SNI工具解封）
+61.219.4.15   momoshop.com.tw
+203.74.57.14  momoshop.com.tw
+202.39.40.15  momoshop.com.tw
+61.219.4.14   m.momoshop.com.tw
+61.219.4.15   m.momoshop.com.tw
+203.74.57.15  m.momoshop.com.tw
+202.39.40.15  m.momoshop.com.tw
+202.39.40.43  img.momoshop.com.tw
+219.87.9.171  img.momoshop.com.tw
+61.219.4.14   www.momoshop.com.tw
+61.219.4.15   www.momoshop.com.tw
+203.74.57.15  www.momoshop.com.tw
+202.39.40.15  www.momoshop.com.tw
+202.39.40.11  cart.momoshop.com.tw
+219.87.9.139  cart.momoshop.com.tw
+18.65.152.5   img1.momoshop.com.tw
+18.65.200.46  img1.momoshop.com.tw
+99.86.207.124 img1.momoshop.com.tw
+18.65.152.76  img2.momoshop.com.tw
+18.65.200.14  img2.momoshop.com.tw
+99.86.207.71  img2.momoshop.com.tw
+99.86.207.3   img3.momoshop.com.tw
+18.65.152.5   img3.momoshop.com.tw
+18.65.200.104 img3.momoshop.com.tw
+18.65.200.104 img4.momoshop.com.tw
+99.86.207.3   img5.momoshop.com.tw
+18.65.152.76  img5.momoshop.com.tw
+18.65.200.113 img5.momoshop.com.tw
+99.86.207.3   image.momoshop.com.tw
+18.65.200.14  image.momoshop.com.tw
+35.190.52.153 momowa.momoshop.com.tw
+202.39.40.45  momomall.com.tw
+219.87.9.173  momomall.com.tw
+202.39.40.45  m.momomall.com.tw
+219.87.9.173  m.momomall.com.tw
+202.39.40.45  www.momomall.com.tw
+219.87.9.173  www.momomall.com.tw
+202.39.40.49  img.momomall.com.tw
+99.86.207.89  img1.momomall.com.tw
+18.65.116.102 img1.momomall.com.tw
+99.86.207.54  img2.momomall.com.tw
+18.65.191.73  img2.momomall.com.tw
+18.65.116.102 img2.momomall.com.tw
+18.65.116.18  img3.momomall.com.tw
+18.65.116.95  img3.momomall.com.tw
+99.86.207.54  img3.momomall.com.tw
+99.86.207.77  img4.momomall.com.tw
+18.65.116.90  img4.momomall.com.tw
+18.65.191.73  img5.momomall.com.tw
+18.65.191.92  img5.momomall.com.tw
+18.65.116.18  img5.momomall.com.tw
+18.65.116.102 img5.momomall.com.tw
+18.65.152.5   image.momoshop.com.tw
+18.65.152.83  image.momoshop.com.tw
+18.65.200.14  image.momoshop.com.tw
+# Momo End
+
 # Rakuten Start
-133.237.48.124  rakuten.jp
-133.237.48.124  www.rakuten.jp
+133.237.16.233  rakuten.jp
+133.237.16.233  www.rakuten.jp
 23.213.142.84   srdk.rakuten.jp
 23.53.162.176   rat.rakuten.co.jp
 52.185.138.248  campaign.rakuten.jp
 133.237.16.92   api.id.rakuten.co.jp
 133.237.60.161  api.books.rakuten.co.jp
-104.94.39.116   static.id.rakuten.co.jp
-23.76.232.101   static.id.rakuten.co.jp
+184.29.40.12    static.id.rakuten.co.jp
 133.237.42.143  grp01.id.rakuten.co.jp
 133.237.42.144  grp02.id.rakuten.co.jp
 133.237.42.145  grp03.id.rakuten.co.jp
@@ -50629,22 +50690,29 @@
 133.237.61.176  rakuten.co.jp
 133.237.24.198  my.rakuten.co.jp
 133.237.50.6    rd.rakuten.co.jp
+133.237.69.131  rp.rakuten.co.jp
+133.237.16.110  edy.rakuten.co.jp
+96.7.254.213    error.rakuten.co.jp
 118.214.75.192  anz.rd.rakuten.co.jp
 104.71.50.102   anz.rd.rakuten.co.jp
 104.93.2.29     anz.rd.rakuten.co.jp
 104.71.50.102   anz.rd.rakuten.co.jp
+23.218.96.124   rat.rakuten.co.jp
+133.237.69.56   secure.rat.rakuten.co.jp
+34.120.247.178  ad.rmp.rakuten.co.jp
+35.186.254.47   log.rmp.rakuten.co.jp
+23.208.81.182   s-cdn.rmp.rakuten.co.jp
+34.120.12.77    s-evt.rmp.rakuten.co.jp
+104.124.40.164  ashiato.rakuten.co.jp
+23.57.112.193   ashiato.rakuten.co.jp
 133.237.62.226  ranking.rakuten.co.jp
 133.237.48.45   api.ranking.rakuten.co.jp
 133.237.17.11   api.ranking.rakuten.co.jp
-133.237.16.110  edy.rakuten.co.jp
-104.124.40.164  ashiato.rakuten.co.jp
-23.57.112.193   ashiato.rakuten.co.jp
 23.11.184.31    mall.ashiato.rakuten.co.jp
 133.237.50.9    coupon.rakuten.co.jp
 133.237.16.20   keiba.rakuten.co.jp
 23.67.6.193     books.rakuten.co.jp
-23.49.112.202   image.books.rakuten.co.jp
-23.219.33.34    image.books.rakuten.co.jp
+23.208.81.182   image.books.rakuten.co.jp
 133.237.24.110  bookmark.rakuten.co.jp
 133.237.24.120  my.bookmark.rakuten.co.jp
 133.237.50.8    image.infoseek.rakuten.co.jp
@@ -50656,7 +50724,8 @@
 133.237.60.103  kuji.rakuten.co.jp
 104.124.40.164  event.rakuten.co.jp
 23.57.112.193   event.rakuten.co.jp
-52.198.174.242  music.rakuten.co.jp
+13.35.70.5      music.rakuten.co.jp
+13.224.163.116  music.rakuten.co.jp
 23.219.33.34    order.my.rakuten.co.jp
 23.57.113.8     order.my.rakuten.co.jp
 133.237.61.239  books.step.rakuten.co.jp
@@ -50673,6 +50742,8 @@
 133.237.16.130  plaza.rakuten.co.jp
 23.67.6.193     item.rakuten.co.jp
 133.237.49.44   travel.rakuten.co.jp
+23.208.81.182   img.travel.rakuten.co.jp
+133.237.49.4    ashiato.travel.rakuten.co.jp
 104.69.160.185  room.rakuten.co.jp
 133.237.61.72   directory.rakuten.co.jp
 133.237.17.4    gora.golf.rakuten.co.jp
@@ -50681,6 +50752,14 @@
 133.237.48.73   app.rakuten.co.jp
 133.237.16.57   app.rakuten.co.jp
 133.237.62.46   api.rakuten.co.jp
+133.237.63.235  attributes.api.rakuten.co.jp
+133.237.61.118  challenger.api.rakuten.co.jp
+133.237.63.235  user-attributes.api.rakuten.co.jp
+133.237.69.163  rdc-api-catalog-gateway-api.rakuten.co.jp
+133.237.60.30   money.rakuten.co.jp
+133.237.61.80   card-media.money.rakuten.co.jp
+133.237.24.123  notifier.rakuten.co.jp
+133.237.69.217  event.notifier.rakuten.co.jp
 23.219.33.34    cdn.rex.contents.rakuten.co.jp
 23.49.112.202   cdn.rex.contents.rakuten.co.jp
 133.237.48.74   24x7.app.rakuten.co.jp
@@ -50698,6 +50777,7 @@
 133.237.61.59   m.rakuten.co.jp
 23.213.142.86   maker-showroom.rakuten.co.jp
 133.237.24.220  mobile.rakuten.co.jp
+133.237.63.235  network.mobile.rakuten.co.jp
 35.190.70.32    online-signup.mobile.rakuten.co.jp
 133.237.60.234  insight.rakuten.co.jp
 133.237.62.60   cl-raqs.insight.rakuten.co.jp
@@ -50706,6 +50786,7 @@
 133.237.61.80   raxy.rakuten.co.jp
 133.237.62.178  realestate.rakuten.co.jp
 133.237.48.86   rt.rakuten.co.jp
+133.237.63.235  m.rt.rakuten.co.jp
 133.237.63.10   rakoo.rakuten.co.jp
 133.237.24.100  denwa.rakuten.co.jp
 23.213.142.86   search.rakuten.co.jp
@@ -50955,8 +51036,9 @@
 
 # Line Start
 # 2018/8/23 HTTPS 连接重置（需配合SNI工具解封）
-223.119.202.208 lan.line.me
 223.119.202.208 w.line.me
+147.92.191.92   tr.line.me
+223.119.202.208 lan.line.me
 203.74.140.186  buy.line.me
 139.175.74.27   buy.line.me
 203.104.129.195 www.line.me
@@ -61542,6 +61624,8 @@
 104.24.108.229  www.new7.com.tw
 139.162.109.217 cnews.com.tw
 139.162.109.217 www.cnews.com.tw
+203.69.43.92    khmusic.tw
+203.69.43.92    www.khmusic.tw
 104.22.66.66    cacnews.ca
 104.22.67.66    cacnews.ca
 104.22.66.66    www.cacnews.ca
@@ -62352,6 +62436,10 @@
 61.219.96.81    tnimage.taiwannews.com.tw
 202.39.176.13   tnimage.taiwannews.com.tw
 61.219.35.248   tnimage.taiwannews.com.tw
+61.218.68.186   taipeitimes.com
+218.211.33.81   taipeitimes.com
+61.218.68.186   www.taipeitimes.com
+218.211.33.81   www.taipeitimes.com
 104.24.96.16    blog.yandere.moe
 104.24.97.16    blog.yandere.moe
 195.123.224.35  dupl.site
@@ -66668,12 +66756,12 @@
 # CSIS End
 
 # Udn Start
-104.78.4.129    udn.com
-104.78.4.129    m.udn.com
+104.71.140.28   udn.com
+104.71.140.28   m.udn.com
 210.243.166.197 gb.udn.com
-104.78.4.129    nba.udn.com
+104.71.140.28   nba.udn.com
 27.126.237.11   www.udn.com
-104.78.4.129    money.udn.com
+104.71.140.28   money.udn.com
 13.33.74.79     video.udn.com
 13.33.41.58     video.udn.com
 13.33.197.109   video.udn.com
@@ -66681,10 +66769,10 @@
 13.32.168.41    video.udn.com
 13.33.197.138   video.udn.com
 13.33.164.142   video.udn.com
-104.78.4.129    theme.udn.com
-104.78.4.129    stars.udn.com
-104.78.4.129    topic.udn.com
-104.78.4.129    fund.udn.com
+104.71.140.28   theme.udn.com
+104.71.140.28   stars.udn.com
+104.71.140.28   topic.udn.com
+104.71.140.28   fund.udn.com
 13.35.0.26      cdn.udn.com
 13.224.166.65   cdn.udn.com
 13.224.166.71   cdn.udn.com
@@ -66693,45 +66781,46 @@
 23.41.137.240   img.udn.com
 113.196.249.55  rec.udn.com
 152.199.43.216  vip.udn.com
-104.78.4.129    oops.udn.com
-104.78.4.129    autos.udn.com
-104.78.4.129    health.udn.com
+104.71.140.28   oops.udn.com
+104.71.140.28   autos.udn.com
+104.71.140.28   health.udn.com
 23.41.137.240   reader.udn.com
 211.20.177.94   member.udn.com
 210.243.166.93  reading.udn.com
 210.244.31.153  forum.udn.com
-104.78.4.129    upoints.udn.com
+104.71.140.28   upoints.udn.com
 52.199.61.25    utravel.udn.com
 54.64.127.209   utravel.udn.com
-104.78.4.129    mobile.udn.com
-104.78.4.129    style.udn.com
-104.78.4.129    paper.udn.com
-104.78.4.129    vision.udn.com
+104.71.140.28   mobile.udn.com
+104.71.140.28   style.udn.com
+104.71.140.28   paper.udn.com
+104.71.140.28   vision.udn.com
 211.20.177.96   city.udn.com
 210.244.31.135  edn.udn.com
 113.196.249.18  spm.udn.com
 113.196.249.56  cas.udn.com
 210.243.166.166 event.udn.com
 218.32.9.131    expo.udn.com
-104.78.4.129    house.udn.com
+104.71.140.28   house.udn.com
 211.20.177.98   act.udn.com
 211.20.177.10   stock.udn.com
-104.78.4.129    debate.udn.com
-104.78.4.129    opinion.udn.com
-104.78.4.129    global.udn.com
+104.71.140.28   debate.udn.com
+104.71.140.28   opinion.udn.com
+104.71.140.28   global.udn.com
 13.33.197.58    a.udn.com
 13.33.197.12    a.udn.com
 13.32.168.134   a.udn.com
-104.78.4.129    shopping.udn.com
+104.71.140.28   shopping.udn.com
 210.244.31.144  photo.udn.com
 113.196.249.5   udntalks.udn.com
 210.243.166.77  data.udn.com
 211.20.177.96   album.udn.com
 211.20.177.96   blog.udn.com
 211.20.177.104  classic-blog.udn.com
-104.78.4.129    active.udn.com
+104.71.140.28   active.udn.com
 211.78.81.155   ishow.udn.com
 210.244.31.135  life.ishow.udn.com
+152.199.5.110   pgw.udn.com.tw
 # Udn End
 
 # TTV Start
@@ -71925,28 +72014,12 @@
 54.158.32.106  websdk.moengage.com
 # Moengage End
 
-# China Start
-111.206.209.41  tieba.com
-111.206.209.45  tieba.com
-111.206.209.41  dq.tieba.com
-111.206.209.45  dq.tieba.com
-111.206.209.41  www.tieba.com
-111.206.209.45  www.tieba.com
-111.206.209.41  live.baidu.com
-111.206.209.45  live.baidu.com
-111.206.209.41  tieba.baidu.com
-111.206.209.45  tieba.baidu.com
+# Bilibili Start
 116.128.134.139 dajia.qq.com
 116.128.134.167 dajia.qq.com
 157.255.192.44  dajia.qq.com
 66.102.251.24   us.weibo.com
-103.61.39.191   btapi.ipip.net
 54.165.58.209   jimmyjlnu.herokuapp.com
-218.12.76.150   upos-sz-upcdnhw.bilivideo.com
-157.255.138.36  upos-sz-upcdnhw.bilivideo.com
-120.201.104.162 upos-sz-upcdnhw.bilivideo.com
-120.201.104.165 upos-sz-upcdnhw.bilivideo.com
-120.201.104.168 upos-sz-upcdnhw.bilivideo.com
 121.254.136.58  upos-hz-mirrorakam.akamaized.net
 23.33.95.234    upos-hz-mirrorakam.akamaized.net
 23.195.91.96    upos-hz-mirrorakam.akamaized.net
@@ -71955,8 +72028,7 @@
 184.25.227.81   upos-hz-mirrorakam.akamaized.net
 23.202.35.50    upos-hz-mirrorakam.akamaized.net
 72.246.150.113  upos-hz-mirrorakam.akamaized.net
-221.195.206.1   upos-sz-mirrorks3c.bilivideo.com
-# China End
+# Bilibili End
 
 # Eracom Start
 45.223.22.160   eracom.com.tw
