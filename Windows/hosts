@@ -24197,12 +24197,12 @@
 192.0.66.3      github.blog
 192.0.66.3      www.github.blog
 20.205.243.166  github.com
+15.164.81.167   www.github.com
 13.114.40.48    www.github.com
-52.69.186.44    www.github.com
 13.230.158.120  api.github.com
 18.179.245.253  api.github.com
+15.164.81.167   gist.github.com
 13.114.40.48    gist.github.com
-52.69.186.44    gist.github.com
 13.124.75.135   codeload.github.com
 13.124.243.66   codeload.github.com
 151.101.64.133  raw.githubusercontent.com
@@ -36345,6 +36345,20 @@
 198.54.200.122  graphql.api.dailymotion.com
 # Dailymotion End
 
+# Rumble Start
+# 2021/10/17 HTTPS 连接重置（需配合SNI工具解封）
+68.232.45.168   i.rmbl.ws
+151.139.128.11  sp.rmbl.ws
+151.139.128.11  www.rmbl.ws
+169.44.97.14    rumble.com
+169.55.146.12   rumble.com
+169.59.64.184   rumble.com
+169.44.97.14    www.rumble.com
+169.55.146.12   www.rumble.com
+169.59.64.184   www.rumble.com
+151.139.128.11  live-fd164e1.rmbl.ws
+# Rumble End
+
 # bastillepost Start
 # 2018/6/7 HTTPS 连接重置（需配合SNI工具解封）
 52.219.36.46    bastillepost.com
@@ -36911,6 +36925,9 @@
 13.226.77.107   news.ebc.net.tw
 13.249.165.53   news.ebc.net.tw
 13.225.103.54   news.ebc.net.tw
+175.99.91.152   myvideo.net.tw
+175.99.91.152   www.myvideo.net.tw
+60.199.188.159  img.myvideo.net.tw
 52.84.248.121   mssl.eslite.com
 54.192.75.117   mssl.eslite.com
 54.192.75.198   mssl.eslite.com
@@ -37646,6 +37663,10 @@
 218.211.33.81   taipeitimes.com
 61.218.68.186   www.taipeitimes.com
 218.211.33.81   www.taipeitimes.com
+18.65.200.18    taiwanplus.com
+18.65.200.43    taiwanplus.com
+18.65.200.18    www.taiwanplus.com
+18.65.200.43    www.taiwanplus.com
 104.24.96.16    blog.yandere.moe
 104.24.97.16    blog.yandere.moe
 195.123.224.35  dupl.site
@@ -38045,10 +38066,22 @@
 104.26.9.226    chinamediaproject.org
 104.26.8.226    www.chinamediaproject.org
 104.26.9.226    www.chinamediaproject.org
-211.20.171.198  times.hinet.net
-61.221.230.166  times.hinet.net
-203.66.92.136   times.hinet.net
-210.71.222.129  times.hinet.net
+61.221.82.2     times.hinet.net
+61.221.82.8     times.hinet.net
+61.221.82.11    times.hinet.net
+61.221.82.13    times.hinet.net
+210.61.44.226   times.hinet.net
+210.61.44.228   times.hinet.net
+210.61.33.232   times.hinet.net
+210.242.210.72  stg.topnews.hinet.net
+211.20.171.206  stg.topnews.hinet.net
+211.20.148.233  stg.topnews.hinet.net
+211.20.148.229  stg.topnews.hinet.net
+211.20.148.236  stg.topnews.hinet.net
+211.20.148.230  stg.topnews.hinet.net
+210.242.181.130 stg.topnews.hinet.net
+210.242.181.138 stg.topnews.hinet.net
+210.242.181.134 stg.topnews.hinet.net
 210.65.127.128  ncsist.org.tw
 210.65.127.128  www.ncsist.org.tw
 210.65.138.176  join.ncsist.org.tw
@@ -39525,6 +39558,23 @@
 104.21.26.128   www.notepad-plus-plus.org
 104.131.212.184 community.notepad-plus-plus.org
 # Others End
+
+# Tiktok Start
+# 2021/10/11 HTTPS 连接重置（需配合SNI工具解封）
+103.136.220.181 tiktok.com
+103.136.220.180 tiktok.com
+103.136.221.164 tiktok.com
+103.136.221.168 tiktok.com
+210.71.227.43   m.tiktok.com
+210.71.227.10   t.tiktok.com
+210.71.227.51   t.tiktok.com
+119.207.66.8    vt.tiktok.com
+119.207.66.33   www.tiktok.com
+119.207.66.10   careers.tiktok.com
+210.71.227.32   support.tiktok.com
+210.71.227.9    newsroom.tiktok.com
+210.71.227.65   developers.tiktok.com
+# Tiktok End
 
 # Streamhoster Start
 205.251.192.183 1-fss24-s0.streamhoster.com
@@ -47121,6 +47171,8 @@
 104.16.119.145 cdn-static-2.medium.com
 104.16.119.145 cdn-images-1.medium.com
 104.16.119.145 cdn-images-2.medium.com
+162.159.152.4  ondutyjournalist.medium.com
+162.159.153.4  ondutyjournalist.medium.com
 # Medium End
 
 # Sogotrade Start
@@ -47219,7 +47271,6 @@
 116.128.134.167 dajia.qq.com
 157.255.192.44  dajia.qq.com
 66.102.251.24   us.weibo.com
-54.165.58.209   jimmyjlnu.herokuapp.com
 121.254.136.58  upos-hz-mirrorakam.akamaized.net
 23.33.95.234    upos-hz-mirrorakam.akamaized.net
 23.195.91.96    upos-hz-mirrorakam.akamaized.net
