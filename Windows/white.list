@@ -4266,22 +4266,15 @@
 # android-apk.org End
 
 # Apk-dl Start
-104.248.9.12    apk-dl.com
-45.55.37.53     apk-dl.com
-104.248.9.12    www.apk-dl.com
-45.55.37.53     www.apk-dl.com
-104.248.9.12    cdn.apk-dl.com
-45.55.37.53     cdn.apk-dl.com
-104.248.9.12    bktremote.apk-dl.com
-45.55.37.53     bktremote.apk-dl.com
-104.248.9.12    ireferee.apk-dl.com
-45.55.37.53     ireferee.apk-dl.com
-104.248.9.12    lsat-timer.apk-dl.com
-45.55.37.53     lsat-timer.apk-dl.com
-104.248.9.12    magichangul.apk-dl.com
-45.55.37.53     magichangul.apk-dl.com
-104.248.9.12    friendicall.apk-dl.com
-45.55.37.53     friendicall.apk-dl.com
+# 2021/10/26 HTTPS 连接重置（需配合SNI工具解封）
+162.246.23.246  apk-dl.com
+162.246.23.246  www.apk-dl.com
+162.246.23.246  cdn.apk-dl.com
+162.246.23.246  ireferee.apk-dl.com
+162.246.23.246  bktremote.apk-dl.com
+162.246.23.246  lsat-timer.apk-dl.com
+162.246.23.246  magichangul.apk-dl.com
+162.246.23.246  friendicall.apk-dl.com
 207.182.137.180 dl3.apk-dl.com
 # Apk-dl End
 
