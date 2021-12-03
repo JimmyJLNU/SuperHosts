@@ -39587,7 +39587,7 @@
 137.74.58.219   eu2.proxysite.com
 178.33.33.138   eu3.proxysite.com
 164.132.119.16  eu4.proxysite.com
-217.182.18.114? eu5.proxysite.com
+217.182.18.114  eu5.proxysite.com
 188.165.65.182  eu6.proxysite.com
 5.135.136.191   eu7.proxysite.com
 176.31.227.198  eu8.proxysite.com
@@ -39610,14 +39610,16 @@
 # proxysite End
 
 # Worldjournal Start
-104.25.18.25    worldjournal.com
-104.25.19.25    worldjournal.com
-104.25.18.25    ep.worldjournal.com
-104.25.19.25    ep.worldjournal.com
-104.25.18.25    www.worldjournal.com
-104.25.19.25    www.worldjournal.com
-104.25.18.25    cdn.media.worldjournal.com
-104.25.19.25    cdn.media.worldjournal.com
+104.25.18.25   worldjournal.com
+104.25.19.25   worldjournal.com
+104.26.14.115  ep.worldjournal.com
+104.26.15.115  ep.worldjournal.com
+104.25.18.25   www.worldjournal.com
+104.25.19.25   www.worldjournal.com
+104.26.14.115  pgw.worldjournal.com
+104.26.15.115  pgw.worldjournal.com
+104.26.14.115  cdn.media.worldjournal.com
+104.26.15.115  cdn.media.worldjournal.com
 # Worldjournal End
 
 # Rutube Start
