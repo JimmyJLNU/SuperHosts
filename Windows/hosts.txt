@@ -3428,11 +3428,13 @@
 104.78.101.73  voices.washingtonpost.com
 104.124.41.23  voices.washingtonpost.com
 66.6.101.213   wpcomics.washingtonpost.com
+198.72.14.16   redir-gen.washingtonpost.com
 114.108.189.86 subscribe.washingtonpost.com
 118.214.75.212 subscribe.washingtonpost.com
 23.42.77.91    subscribe.washingtonpost.com
 23.198.119.114 subscribe.washingtonpost.com
 23.41.68.176   subscribe.washingtonpost.com
+203.66.199.187 context-cdn.washingtonpost.com
 13.224.2.81    nationaljobs.washingtonpost.com
 13.35.125.110  nationaljobs.washingtonpost.com
 13.35.99.63    nationaljobs.washingtonpost.com
@@ -3440,7 +3442,6 @@
 13.224.96.16   nationaljobs.washingtonpost.com
 13.35.99.17    nationaljobs.washingtonpost.com
 13.35.125.23   nationaljobs.washingtonpost.com
-198.72.14.16   redir-gen.washingtonpost.com
 198.72.14.16   thewashingtonpost.com
 198.72.14.16   www.thewashingtonpost.com
 # Washingtonpost End
@@ -34903,9 +34904,12 @@
 23.60.197.115   www.dw.com 
 96.16.154.228   www.dw.com
 23.217.253.120  www.dw.com
+23.196.241.41   static.dw.com
 23.41.75.234    commons.dw.com
 23.77.22.158    commons.dw.com
 23.59.100.166   learngerman.dw.com
+203.69.81.75    dwhlsondemand-vh.akamaihd.net
+203.69.81.96    dwhlsondemand-vh.akamaihd.net
 # dw End
 
 # xm Start
@@ -42058,6 +42062,14 @@
 104.18.60.69    www.mp3cleo.ru
 104.18.61.69    www.mp3cleo.ru
 172.67.208.16   www.mp3cleo.ru
+104.21.85.199   mp3-now.com
+172.67.209.236  mp3-now.com
+104.21.85.199   www.mp3-now.com
+172.67.209.236  www.mp3-now.com
+104.21.13.114   youtubemp3free.com
+172.67.132.206  youtubemp3free.com
+104.21.13.114   www.youtubemp3free.com
+172.67.132.206  www.youtubemp3free.com
 104.27.170.62   hipnplay.com
 104.27.171.62   hipnplay.com
 172.67.141.82   hipnplay.com
