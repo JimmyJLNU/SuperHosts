@@ -43875,6 +43875,7 @@
 27.126.236.162  app4.rthk.hk
 202.177.192.106 app5.rthk.hk
 202.177.192.97  app6.rthk.hk
+59.188.18.199   app7.rthk.hk
 202.177.192.103 archive.rthk.hk
 59.188.18.227   gbcode.rthk.hk
 13.35.37.118    news.rthk.hk
