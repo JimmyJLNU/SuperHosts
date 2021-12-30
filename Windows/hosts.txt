@@ -41971,6 +41971,8 @@
 173.231.138.155 m.hrw.org
 14.0.46.117     www.hrw.org
 209.9.208.15    www.hrw.org
+104.21.31.81    hrf.org
+104.21.31.81    www.hrf.org
 104.20.63.188   cpj.org
 104.20.62.188   cpj.org
 104.20.63.188   www.cpj.org
@@ -41991,6 +41993,10 @@
 104.26.9.226    chinamediaproject.org
 104.26.8.226    www.chinamediaproject.org
 104.26.9.226    www.chinamediaproject.org
+104.26.12.22    indexoncensorship.org
+104.26.13.22    indexoncensorship.org
+104.26.12.22    www.indexoncensorship.org
+104.26.13.22    www.indexoncensorship.org
 61.221.82.2     times.hinet.net
 61.221.82.8     times.hinet.net
 61.221.82.11    times.hinet.net
@@ -50503,23 +50509,6 @@
 151.101.16.188 article-image-ix.nikkei.com
 151.101.44.188 article-image-ix.nikkei.com
 # Nikkei End
-
-# Thestandnews Start
-# 2018/10/23 HTTPS 连接重置（需配合SNI工具解封）
-104.18.50.166  thestand.news
-104.18.51.166  thestand.news
-104.18.50.166  www.thestand.news
-104.18.51.166  www.thestand.news
-104.20.72.239  thestandnews.com
-104.20.73.239  thestandnews.com
-104.20.72.239  www.thestandnews.com
-104.20.73.239  www.thestandnews.com
-104.20.72.239  cdn.thestandnews.com
-104.20.73.239  cdn.thestandnews.com
-103.15.199.182 mystand.thestandnews.com
-104.20.72.239  dce2019.thestandnews.com
-104.20.73.239  dce2019.thestandnews.com
-# Thestandnews End
 
 # NQU Start
 203.72.226.40  nqu.edu.tw
