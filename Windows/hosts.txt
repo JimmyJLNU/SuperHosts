@@ -36491,8 +36491,7 @@
 # economist End
 
 # Newstapa Start
-216.239.34.21   newstapa.org
-216.239.38.21   newstapa.org
+15.164.190.233  newstapa.org
 52.219.68.94    815.newstapa.org
 52.219.4.152    815.newstapa.org
 52.219.68.184   815.newstapa.org
@@ -36503,8 +36502,7 @@
 52.219.0.10     815.newstapa.org
 52.219.4.82     815.newstapa.org
 52.219.0.6      815.newstapa.org
-216.239.34.21   www.newstapa.org
-216.239.38.21   www.newstapa.org
+15.164.190.233  www.newstapa.org
 35.187.194.61   jebo.newstapa.org
 52.84.248.27    pages.newstapa.org
 52.199.202.12   jaesan.newstapa.org
@@ -41310,6 +41308,21 @@
 23.185.0.3      www.journalofdemocracy.org
 23.185.0.4      halifaxtheforum.org
 23.185.0.4      www.halifaxtheforum.org
+104.154.107.219 warontherocks.com
+104.154.107.219 www.warontherocks.com
+23.185.0.3      asiasociety.org
+23.185.0.3      www.asiasociety.org
+104.26.6.146    kids.asiasociety.org
+104.26.7.146    kids.asiasociety.org
+192.0.66.3      pewresearch.org
+192.0.66.3      www.pewresearch.org
+104.21.62.227   eurasianet.org
+172.67.139.232  eurasianet.org
+104.21.62.227   www.eurasianet.org
+172.67.139.232  www.eurasianet.org
+34.226.46.235   russian.eurasianet.org
+34.238.11.122   russian.eurasianet.org
+54.89.106.200   russian.eurasianet.org
 104.27.146.57   mohu.club
 104.27.147.57   mohu.club
 104.27.146.57   www.mohu.club
@@ -42038,14 +42051,6 @@
 96.31.35.178    www.chinalaborwatch.org
 149.56.165.160  doovi.com
 149.56.165.160  www.doovi.com
-216.239.34.21   apnews.com
-216.239.38.21   apnews.com
-216.239.34.21   www.apnews.com
-216.239.38.21   www.apnews.com
-216.239.34.21   ipinfo.io
-216.239.38.21   ipinfo.io
-216.239.34.21   www.ipinfo.io
-216.239.38.21   www.ipinfo.io
 216.239.34.21   chronicle.security
 216.239.38.21   chronicle.security
 51.91.154.33    sm3ha.com
