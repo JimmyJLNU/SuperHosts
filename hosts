@@ -42456,6 +42456,8 @@
 172.217.163.42  source.android.com
 172.217.163.42  a.android.com
 172.217.163.42  market.android.com
+172.217.24.229  wearos.google.com
+172.217.24.229  userresearch.google.com
 172.217.24.229  play.google.com
 172.217.24.229  payments.google.com
 74.125.206.210  chat.google.com
@@ -42476,6 +42478,7 @@
 172.217.163.37  analyticsacademy.withgoogle.com
 172.217.163.37  spellup.withgoogle.com
 172.217.163.37  accelerate.withgoogle.com
+172.217.163.37  androidenterprisepartners.withgoogle.com
 172.217.163.37  atmosphere.withgoogle.com
 172.217.163.37  atmospheretokyo.withgoogle.com
 172.217.163.37  brasilfreewifi.withgoogle.com
@@ -63468,6 +63471,13 @@
 138.68.23.98    invidious.spriteclad.com
 95.216.198.3    invidious.kabi.tk
 104.21.15.211   invidious.kavin.rocks
+45.87.42.171    invidious.osi.kr
+23.88.113.147   invidious.namazso.eu
+153.122.27.46   youtube.076.ne.jp
+194.163.187.141 ytb.trom.tf
+51.81.85.74     vid.puffyan.us
+45.83.107.127   invidio.xamh.de
+93.206.163.141  yt.artemislena.eu
 198.251.80.124  ytprivate.com
 172.105.161.226 au.ytprivate.com
 198.251.80.124  www.ytprivate.com
