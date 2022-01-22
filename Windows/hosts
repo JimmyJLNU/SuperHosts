@@ -34803,21 +34803,18 @@
 
 # sankei Start
 # 2019/8/10 HTTPS 连接重置（需配合SNI工具解封）
-18.182.70.223  sankei.com
-13.114.155.253 sankei.com
-13.35.37.111   www.sankei.com
-13.225.103.63  www.sankei.com
-13.32.230.11   www.sankei.com
-13.35.8.15     www.sankei.com
-13.32.54.52    www.sankei.com
-13.35.165.12   www.sankei.com
+18.176.105.228 sankei.com
+18.177.213.201 sankei.com
+210.65.144.139 www.sankei.com
+210.65.144.179 www.sankei.com
+203.74.140.136 www.sankei.com
 13.32.230.22   special.sankei.com
 13.225.103.109 special.sankei.com
 13.35.37.79    special.sankei.com
-18.182.70.223  100ages.sankei.com
-13.114.155.253 100ages.sankei.com
-13.114.155.253 www-origin.sankei.com
-18.182.70.223  www-origin.sankei.com
+18.176.105.228 100ages.sankei.com
+18.177.213.201 100ages.sankei.com
+18.176.105.228 www-origin.sankei.com
+18.177.213.201 www-origin.sankei.com
 # sankei End
 
 # mainichi Start
@@ -40683,6 +40680,14 @@
 18.65.200.43    taiwanplus.com
 18.65.200.18    www.taiwanplus.com
 18.65.200.43    www.taiwanplus.com
+18.65.148.44    roc-taiwan.org
+143.204.86.106  roc-taiwan.org
+18.65.148.44    www.roc-taiwan.org
+143.204.86.106  www.roc-taiwan.org
+172.66.40.213   19fortyfive.com
+172.66.43.13    19fortyfive.com
+172.66.40.213   www.19fortyfive.com
+172.66.43.13    www.19fortyfive.com
 104.24.96.16    blog.yandere.moe
 104.24.97.16    blog.yandere.moe
 195.123.224.35  dupl.site
