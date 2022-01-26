@@ -56337,26 +56337,22 @@
 
 # HBO Start
 # 2018/8/29 HTTPS 连接重置（需配合SNI工具解封）
-52.5.61.70     hbo.com
-52.5.139.147   hbo.com
-8.250.99.245   www.hbo.com
-8.253.129.210  www.hbo.com
-8.253.141.97   www.hbo.com
-8.254.207.105  www.hbo.com
-23.227.38.64   shop.hbo.com
-52.84.49.164   viewers-guide.hbo.com
-52.85.158.4    viewers-guide.hbo.com
-52.85.158.205  viewers-guide.hbo.com
-52.84.49.84    viewers-guide.hbo.com
-52.84.186.243  viewers-guide.hbo.com
-52.84.49.84    viewers-guide.hbo.com
-204.160.114.87 artist.api.lv3.cdn.hbo.com
-8.247.69.108   artist.api.lv3.cdn.hbo.com
-8.247.70.119   artist.api.lv3.cdn.hbo.com
-8.26.218.87    artist.api.lv3.cdn.hbo.com
-8.247.67.234   artist.api.lv3.cdn.hbo.com
-8.247.66.171   artist.api.lv3.cdn.hbo.com
-8.247.69.108   artist.api.lv3.cdn.hbo.com
+52.5.61.70      hbo.com
+52.5.139.147    hbo.com
+151.101.25.119  www.hbo.com
+151.101.41.119  www.hbo.com
+151.101.53.119  www.hbo.com
+151.101.197.119 www.hbo.com
+23.227.38.64    shop.hbo.com
+13.35.7.22      viewers-guide.hbo.com
+18.65.159.68    viewers-guide.hbo.com
+18.65.214.72    viewers-guide.hbo.com
+13.225.138.87   viewers-guide.hbo.com
+13.225.103.71   viewers-guide.hbo.com
+13.225.118.80   viewers-guide.hbo.com
+8.240.115.124   artist.api.lv3.cdn.hbo.com
+8.240.228.114   artist.api.lv3.cdn.hbo.com
+8.240.171.114   artist.api.lv3.cdn.hbo.com
 # HBO End
 
 # okex Start
@@ -67094,6 +67090,7 @@
 104.71.140.28   active.udn.com
 211.78.81.155   ishow.udn.com
 210.244.31.135  life.ishow.udn.com
+210.243.166.49  mag.udn.com
 152.199.5.110   pgw.udn.com.tw
 # Udn End
 
