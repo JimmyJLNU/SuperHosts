@@ -52140,21 +52140,23 @@
 
 # Plurk Start
 # 2018/12/23 HTTPS 连接重置（需配合SNI工具解封）
-52.21.221.133  plurk.com
-52.21.221.133  www.plurk.com
-104.17.69.3    s.plurk.com
-104.17.70.3    s.plurk.com
-52.69.24.111   m.plurk.com
-104.17.69.3    avatars.plurk.com
-104.17.70.3    avatars.plurk.com
-104.17.69.3    imgs.plurk.com
-104.17.70.3    imgs.plurk.com
-104.17.69.3    images.plurk.com
-104.17.70.3    images.plurk.com
-104.17.69.3    emos.plurk.com
-104.17.70.3    emos.plurk.com
-104.17.69.3    paste.plurk.com
-104.17.70.3    paste.plurk.com
+104.17.69.3   plurk.com
+104.17.70.3   plurk.com
+104.17.69.3   www.plurk.com
+104.17.70.3   www.plurk.com
+104.17.69.3   s.plurk.com
+104.17.70.3   s.plurk.com
+52.69.24.111  m.plurk.com
+104.17.69.3   avatars.plurk.com
+104.17.70.3   avatars.plurk.com
+104.17.69.3   imgs.plurk.com
+104.17.70.3   imgs.plurk.com
+104.17.69.3   images.plurk.com
+104.17.70.3   images.plurk.com
+104.17.69.3   emos.plurk.com
+104.17.70.3   emos.plurk.com
+104.17.69.3   paste.plurk.com
+104.17.70.3   paste.plurk.com
 # Plurk End
 
 # Kakao Start
