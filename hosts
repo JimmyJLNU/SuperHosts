@@ -3376,6 +3376,28 @@
 120.28.42.254 www.livingit.euronews.com
 # Euronews End
 
+# NOS Start
+18.65.229.83   nos.nl
+18.65.229.14   www.nos.nl
+185.166.88.12  cdn.nos.nl
+185.166.88.13  cdn.nos.nl
+185.166.88.18  cdn.nos.nl
+185.166.88.19  cdn.nos.nl
+185.166.88.20  cdn.nos.nl
+185.166.88.17  static.nos.nl
+185.166.88.14  static.nos.nl
+185.166.88.10  static.nos.nl
+185.166.88.16  static.nos.nl
+185.166.88.18  static.nos.nl
+185.166.88.21  static.nos.nl
+185.166.88.19  static.nos.nl
+185.166.88.11  static.nos.nl
+185.166.88.13  static.nos.nl
+185.166.88.20  static.nos.nl
+185.166.88.15  static.nos.nl
+145.58.29.136  cookies.nos.nl
+# NOS End
+
 # Washingtonpost Start
 13.33.193.79   washingtonpost.com
 52.85.124.125  washingtonpost.com
