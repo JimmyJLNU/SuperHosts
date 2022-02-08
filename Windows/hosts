@@ -38312,13 +38312,31 @@
 # nytimes End
 
 # FT Start
-# 2020/2/14 HTTPS 连接重置（需配合SNI工具解封）
-118.143.65.103   ftchinese.com
-118.143.65.103   www.ftchinese.com
-118.143.65.102   big5.ftchinese.com
-118.143.65.103   user.ftchinese.com
-118.143.65.105   static.ftchinese.com
-54.249.126.181   profile.ftchinese.com
+151.101.110.209 ft.com
+151.101.110.209 ep.ft.com
+151.101.110.209 kat.ft.com
+151.101.110.209 api.ft.com
+151.101.110.209 www.ft.com
+151.101.110.209 live.ft.com
+151.101.110.209 aboutus.ft.com
+151.101.110.209 privacy.ft.com
+151.101.110.209 ads-api.ft.com
+151.101.110.209 spoor-api.ft.com
+151.101.110.209 session-next.ft.com
+151.101.110.209 markets-data-api-proxy.ft.com
+151.101.110.209 consent.ft.com
+18.65.116.63    ftchinese.com
+18.65.166.72    ftchinese.com
+18.65.166.90    ftchinese.com
+143.204.86.112  ftchinese.com
+18.65.116.63    www.ftchinese.com
+18.65.166.72    www.ftchinese.com
+18.65.166.90    www.ftchinese.com
+143.204.86.112  www.ftchinese.com
+54.250.176.243  big5.ftchinese.com
+54.250.176.243  user.ftchinese.com
+54.250.175.128  static.ftchinese.com
+104.21.8.120    profile.ftchinese.com
 # FT End
 
 # Time Start
