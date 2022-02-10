@@ -18710,6 +18710,7 @@
 172.217.163.36  google.com.br
 172.217.163.36  google.com.by
 172.217.163.36  google.com.bz
+172.217.163.36  google.com.cn
 172.217.163.36  google.com.co
 172.217.163.36  google.com.cu
 172.217.163.36  google.com.cy
@@ -18884,6 +18885,7 @@
 172.217.163.36  m.google.com.br
 172.217.163.36  m.google.com.by
 172.217.163.36  m.google.com.bz
+172.217.163.36  m.google.com.cn
 172.217.163.36  m.google.com.co
 172.217.163.36  m.google.com.cu
 172.217.163.36  m.google.com.cy
@@ -19058,6 +19060,7 @@
 172.217.163.36  www.google.com.br
 172.217.163.36  www.google.com.by
 172.217.163.36  www.google.com.bz
+172.217.163.36  www.google.com.cn
 172.217.163.36  www.google.com.co
 172.217.163.36  www.google.com.cu
 172.217.163.36  www.google.com.cy
@@ -38847,6 +38850,35 @@
 23.219.33.180   subscribers.theage.com.au
 # Theage End
 
+# smh Start
+# 2022/2/10 HTTPS 连接重置（需配合SNI工具解封）
+18.65.100.103   smh.com.au
+18.65.200.125   smh.com.au
+143.204.126.51  smh.com.au
+151.101.2.133   www.smh.com.au
+151.101.2.133   weather.smh.com.au
+151.101.2.133   tvguide.smh.com.au
+13.54.113.13    tributes.smh.com.au
+13.236.0.110    tributes.smh.com.au
+151.101.2.133   subscribe.smh.com.au
+13.35.51.93     celebrations.smh.com.au
+18.65.159.25    celebrations.smh.com.au
+18.65.191.28    celebrations.smh.com.au
+# smh End
+
+# afr Start
+13.35.39.57    afr.com
+18.65.214.39   afr.com
+13.225.174.5   afr.com
+13.225.174.8   afr.com
+151.101.2.133  api.afr.com
+151.101.2.133  www.afr.com
+3.106.151.180  lists.afr.com
+3.104.161.243  lists.afr.com
+54.79.96.110   lists.afr.com
+151.101.2.133  subscribe.afr.com
+# afr End
+
 # Newser Start
 40.114.51.62  newser.com
 40.114.51.62  m.newser.com
@@ -42430,6 +42462,8 @@
 192.0.78.25     www.chineseradioseattle.com
 104.16.14.92    yeeyi.com
 104.17.51.91    yeeyi.com
+104.16.14.92    m.yeeyi.com
+104.17.51.91    m.yeeyi.com
 104.16.14.92    www.yeeyi.com
 104.17.51.91    www.yeeyi.com
 50.23.135.236   iask.ca
