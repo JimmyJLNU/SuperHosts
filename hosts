@@ -18127,12 +18127,14 @@
 172.217.163.49  www.domains.google
 216.239.34.21   www.environment.google
 216.239.38.21   www.environment.google
+172.217.24.229  gogle.com
 172.217.24.229  google.com
 172.217.24.229  m.google.us
 172.217.24.229  m.google.com
 172.217.24.229  m.google.co.uk
 172.217.24.229  m.google.co.kr
 172.217.24.229  m.google.co.jp
+172.217.24.229  www.gogle.com
 172.217.24.229  www.google.com
 172.217.24.229  ogs.google.com
 172.217.24.229  admin.google.com
@@ -18663,7 +18665,6 @@
 172.217.163.36  google.com.br
 172.217.163.36  google.com.by
 172.217.163.36  google.com.bz
-172.217.163.36  google.com.cn
 172.217.163.36  google.com.co
 172.217.163.36  google.com.cu
 172.217.163.36  google.com.cy
@@ -18838,7 +18839,6 @@
 172.217.163.36  m.google.com.br
 172.217.163.36  m.google.com.by
 172.217.163.36  m.google.com.bz
-172.217.163.36  m.google.com.cn
 172.217.163.36  m.google.com.co
 172.217.163.36  m.google.com.cu
 172.217.163.36  m.google.com.cy
@@ -19013,7 +19013,6 @@
 172.217.163.36  www.google.com.br
 172.217.163.36  www.google.com.by
 172.217.163.36  www.google.com.bz
-172.217.163.36  www.google.com.cn
 172.217.163.36  www.google.com.co
 172.217.163.36  www.google.com.cu
 172.217.163.36  www.google.com.cy
@@ -19623,14 +19622,14 @@
 172.217.24.229  www.blogspot.ws
 172.217.24.229  www.blogspot.com
 172.217.24.229  blogspot.com
-142.251.42.229  bp.blogspot.com
-142.251.42.229  0.bp.blogspot.com
-142.251.42.229  1.bp.blogspot.com
-142.251.42.229  2.bp.blogspot.com
-142.251.42.229  3.bp.blogspot.com
-142.251.42.229  4.bp.blogspot.com
-142.251.42.229  5.bp.blogspot.com
-142.251.42.229  6.bp.blogspot.com
+172.217.24.229  bp.blogspot.com
+172.217.24.229  0.bp.blogspot.com
+172.217.24.229  1.bp.blogspot.com
+172.217.24.229  2.bp.blogspot.com
+172.217.24.229  3.bp.blogspot.com
+172.217.24.229  4.bp.blogspot.com
+172.217.24.229  5.bp.blogspot.com
+172.217.24.229  6.bp.blogspot.com
 142.251.42.229  000jobsonline.blogspot.ca
 142.251.42.229  00221.blogspot.ca
 142.251.42.229  01sao.blogspot.ca
@@ -60867,7 +60866,7 @@
 151.101.200.133 about.urbandictionary.com
 74.125.24.121   feeds.urbandictionary.com
 216.58.200.51   feeds.urbandictionary.com
-142.251.42.243  feeds.urbandictionary.com
+142.251.42.229  feeds.urbandictionary.com
 172.217.31.147  feeds.urbandictionary.com
 172.217.27.83   feeds.urbandictionary.com
 172.217.27.147  feeds.urbandictionary.com
@@ -64403,6 +64402,12 @@
 104.25.108.114  justpaste.it
 104.25.107.114  www.justpaste.it
 104.25.108.114  www.justpaste.it
+172.66.40.157   domain.glass
+172.66.43.99    domain.glass
+172.66.40.157   www.domain.glass
+172.66.43.99    www.domain.glass
+172.66.40.157   search.domain.glass
+172.66.43.99    search.domain.glass
 52.184.35.44    kenengba.com
 52.184.35.44    www.kenengba.com
 173.230.146.43  zhongguotese.net
@@ -72046,9 +72051,12 @@
 # Surfeasy End
 
 # Scribd Start
-151.101.0.175   scribd.com
+151.101.2.152   scribd.com
 151.101.2.152   zh.scribd.com
 151.101.2.152   ar.scribd.com
+151.101.2.152   es.scribd.com
+151.101.2.152   it.scribd.com
+151.101.2.152   pt.scribd.com
 151.101.2.152   pt.scribd.com
 151.101.2.152   ja.scribd.com
 151.101.2.152   de.scribd.com
@@ -72059,11 +72067,24 @@
 151.101.2.152   pl.scribd.com
 151.101.2.152   id.scribd.com
 151.101.2.152   www.scribd.com
-192.161.147.1   support.scribd.com
+3.69.136.55     try.scribd.com
+18.200.10.24    try.scribd.com
+3.126.202.50    try.scribd.com
+3.224.141.128   try.scribd.com
+34.205.248.193  try.scribd.com
+104.16.51.111   support.scribd.com
+104.16.53.111   support.scribd.com
 198.49.23.144   literally.scribd.com
 198.49.23.145   literally.scribd.com
 198.185.159.144 literally.scribd.com
 198.185.159.145 literally.scribd.com
+151.101.2.152   scribdassets.com
+151.101.2.152   www.scribdassets.com
+151.101.2.152   s-f.scribdassets.com
+151.101.2.152   s1-f.scribdassets.com
+151.101.2.152   s2-f.scribdassets.com
+151.101.2.152   html.scribdassets.com
+151.101.2.152   imgv2-2-f.scribdassets.com
 # Scribed End
 
 # Periscope Start
@@ -72126,6 +72147,8 @@
 162.159.152.4  onezero.medium.com
 162.159.153.4  onezero.medium.com
 104.16.119.145 developers.medium.com
+162.159.152.4  preettheman.medium.com
+162.159.153.4  preettheman.medium.com
 104.16.119.145 cdn-static-1.medium.com
 104.16.119.145 cdn-static-2.medium.com
 104.16.119.145 cdn-images-1.medium.com
@@ -72232,6 +72255,7 @@
 116.128.134.167 dajia.qq.com
 157.255.192.44  dajia.qq.com
 49.7.36.160     us.weibo.com
+103.61.39.191   btapi.ipip.net
 121.254.136.58  upos-hz-mirrorakam.akamaized.net
 23.33.95.234    upos-hz-mirrorakam.akamaized.net
 23.195.91.96    upos-hz-mirrorakam.akamaized.net
