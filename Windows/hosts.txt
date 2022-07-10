@@ -29271,6 +29271,7 @@
 203.104.129.195 www.line.me
 118.214.68.158  today.line.me
 23.57.112.81    lineit.line.me
+13.225.176.92   linevoom.line.me
 23.56.24.79     api.today.line.me
 23.56.24.79     social-plugins.line.me
 23.56.25.38     today.line-scdn.net
@@ -43111,30 +43112,32 @@
 # CNYES End
 
 # Watchout Start
-104.28.2.114 watchout.tw
-104.28.3.114 watchout.tw
-104.28.2.114 uc.watchout.tw
-104.28.3.114 uc.watchout.tw
-104.28.2.114 ask.watchout.tw
-104.28.3.114 ask.watchout.tw
-104.28.2.114 lab.watchout.tw
-104.28.3.114 lab.watchout.tw
-104.28.2.114 www.watchout.tw
-104.28.3.114 www.watchout.tw
-104.28.2.114 park.watchout.tw
-104.28.3.114 park.watchout.tw
-104.28.2.114 bunko.watchout.tw
-104.28.3.114 bunko.watchout.tw
-104.28.2.114 musou.watchout.tw
-104.28.3.114 musou.watchout.tw
-104.28.2.114 documents.watchout.tw
-104.28.3.114 documents.watchout.tw
-104.28.2.114 aux.musou.watchout.tw
-104.28.3.114 aux.musou.watchout.tw
-104.28.2.114 beta.bunko.watchout.tw
-104.28.3.114 beta.bunko.watchout.tw
-104.28.2.114 try-try-fonts.watchout.tw
-104.28.3.114 try-try-fonts.watchout.tw
+104.21.83.88  watchout.tw
+172.67.219.85 watchout.tw
+104.21.83.88  uc.watchout.tw
+172.67.219.85 uc.watchout.tw
+104.21.83.88  ask.watchout.tw
+172.67.219.85 ask.watchout.tw
+104.21.83.88  lab.watchout.tw
+172.67.219.85 lab.watchout.tw
+104.21.83.88  www.watchout.tw
+172.67.219.85 www.watchout.tw
+104.21.83.88  core.watchout.tw
+172.67.219.85 core.watchout.tw
+104.21.83.88  park.watchout.tw
+172.67.219.85 park.watchout.tw
+104.21.83.88  bunko.watchout.tw
+172.67.219.85 bunko.watchout.tw
+104.21.83.88  musou.watchout.tw
+172.67.219.85 musou.watchout.tw
+104.21.83.88  documents.watchout.tw
+172.67.219.85 documents.watchout.tw
+104.21.83.88  aux.musou.watchout.tw
+172.67.219.85 aux.musou.watchout.tw
+104.21.83.88  beta.bunko.watchout.tw
+172.67.219.85 beta.bunko.watchout.tw
+104.21.83.88  try-try-fonts.watchout.tw
+172.67.219.85 try-try-fonts.watchout.tw
 # Watchout End
 
 # GVM Start
