@@ -61301,6 +61301,25 @@
 13.249.162.80  community.gofundme.com
 # Gofundme End
 
+# ASPI Start
+104.22.40.247  aspi.org.au
+104.22.41.247  aspi.org.au
+76.76.21.61    tsd.aspi.org.au
+76.76.21.22    tsd.aspi.org.au
+76.76.21.93    tsd.aspi.org.au
+76.76.21.123   tsd.aspi.org.au
+76.76.21.142   tsd.aspi.org.au
+76.76.21.164   tsd.aspi.org.au
+76.76.21.241   tsd.aspi.org.au
+104.22.40.247  www.aspi.org.au
+104.22.41.247  www.aspi.org.au
+104.22.40.247  uat.aspi.org.au
+104.22.41.247  uat.aspi.org.au
+18.140.226.100 infoops.aspi.org.au
+104.22.40.247  unitracker.aspi.org.au
+104.22.41.247  unitracker.aspi.org.au
+# ASPI End
+
 # Others Start
 54.182.1.32     vid.me
 52.84.143.32    vid.me
@@ -61828,6 +61847,16 @@
 104.20.64.163   info.51.ca
 104.20.63.163   blog.51.ca
 104.20.64.163   blog.51.ca
+104.21.42.247   superpyq.com
+104.21.42.247   img.superpyq.com
+104.21.42.247   www.superpyq.com
+104.21.19.51    tiaotiaowen.com
+104.21.19.51    www.tiaotiaowen.com
+35.236.25.147   nychineselife.com
+35.236.25.147   www.nychineselife.com
+35.236.25.147   uschineselife.com
+35.236.25.147   www.uschineselife.com
+35.236.25.147   bbs.uschineselife.com
 104.27.140.111  talkcc.com
 104.27.141.111  talkcc.com
 104.27.140.111  www.talkcc.com
@@ -62536,9 +62565,6 @@
 203.66.32.110   cdn1.ettoday.net
 203.66.32.109   cdn1.ettoday.net
 203.66.32.232   cdn1.ettoday.net
-211.20.148.228  cdn1.ettoday.net
-211.20.148.230  cdn1.ettoday.net
-211.20.148.236  cdn1.ettoday.net
 61.221.82.9     cdn2.ettoday.net
 203.66.34.7     cdn2.ettoday.net
 203.66.34.42    cdn2.ettoday.net
@@ -62559,10 +62585,6 @@
 210.61.44.231   cdn2.ettoday.net
 203.66.32.106   cdn2.ettoday.net
 203.66.32.110   cdn2.ettoday.net
-211.20.148.232  cdn2.ettoday.net
-211.20.148.228  cdn2.ettoday.net
-211.20.148.236  cdn2.ettoday.net
-211.20.148.234  cdn2.ettoday.net
 35.185.153.185  cmmedia.com.tw
 35.185.153.185  www.cmmedia.com.tw
 104.27.158.154  2049bbs.xyz
@@ -62691,6 +62713,7 @@
 104.31.19.30    www.torrentz2.eu
 23.57.113.3     hp.myway.com
 23.56.28.251    hp.myway.com
+151.139.128.12  abo.zeit.de
 82.165.229.94   suche.web.de
 54.93.172.67    lokale.suche.web.de
 35.201.234.200  mobile01.com
@@ -64319,9 +64342,9 @@
 124.150.129.160 www.bookrepclub.com.tw
 35.190.31.60    wenxuecity.com
 35.190.31.60    m.wenxuecity.com
-35.190.55.229   bbs.wenxuecity.com
-35.190.55.229   www.wenxuecity.com
-35.190.55.229   blog.wenxuecity.com
+34.149.128.15   bbs.wenxuecity.com
+34.149.128.15   www.wenxuecity.com
+34.149.128.15   blog.wenxuecity.com
 223.27.52.110   wunanbooks.com.tw
 223.27.52.110   www.wunanbooks.com.tw
 223.27.52.110   www2.wunanbooks.com.tw
