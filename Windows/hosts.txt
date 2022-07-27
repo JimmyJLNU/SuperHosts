@@ -38424,6 +38424,30 @@
 117.56.166.118  indigenous-justice.president.gov.tw
 # TW President End
 
+# Taiwan CDC Start
+61.57.41.148   cdc.gov.tw
+35.229.205.172 od.cdc.gov.tw
+35.206.244.120 bbs.cdc.gov.tw
+210.61.44.227  www.cdc.gov.tw
+210.61.44.228  www.cdc.gov.tw
+210.61.44.231  www.cdc.gov.tw
+203.66.34.3    www.cdc.gov.tw
+203.66.34.37   www.cdc.gov.tw
+203.66.34.40   www.cdc.gov.tw
+203.66.34.42   www.cdc.gov.tw
+203.66.32.230  www.cdc.gov.tw
+203.66.32.105  www.cdc.gov.tw
+203.66.32.104  www.cdc.gov.tw
+203.66.32.100  www.cdc.gov.tw
+35.201.135.254 data.cdc.gov.tw
+34.107.167.5   smis.cdc.gov.tw
+203.66.32.230  nidss.cdc.gov.tw
+203.66.34.46   nidss.cdc.gov.tw
+35.221.143.152 antiflu.cdc.gov.tw
+20.194.171.50  fluforecast.cdc.gov.tw
+35.244.140.6   covid19dashboard.cdc.gov.tw
+# Taiwan CDC End
+
 # Readmoo Start
 13.249.171.123 readmoo.com
 13.249.171.11  api.readmoo.com
@@ -39838,6 +39862,19 @@
 103.1.220.131   www.viewpointtaiwan.com
 172.104.110.181 tfc-taiwan.org.tw
 172.104.110.181 www.tfc-taiwan.org.tw
+61.221.82.11    www.cwb.gov.tw
+210.61.44.232   www.cwb.gov.tw
+210.61.44.229   www.cwb.gov.tw
+210.61.44.227   www.cwb.gov.tw
+210.61.44.235   www.cwb.gov.tw
+203.66.34.2     www.cwb.gov.tw
+203.66.32.69    www.cwb.gov.tw
+203.66.32.109   www.cwb.gov.tw
+203.66.32.226   www.cwb.gov.tw
+203.66.32.68    www.cwb.gov.tw
+203.66.32.70    www.cwb.gov.tw
+203.66.32.98    www.cwb.gov.tw
+203.66.32.228   www.cwb.gov.tw
 3.208.202.0     anntw.com
 3.209.27.98     anntw.com
 3.221.4.217     anntw.com
@@ -42416,10 +42453,22 @@
 104.31.74.172   viyoutube.com
 128.199.82.73   www.viyoutube.com
 37.48.74.7      www.vpnanswers.com
-104.20.233.8    hongkongfp.com
-104.20.232.8    hongkongfp.com
-104.20.233.8    www.hongkongfp.com
-104.20.232.8    www.hongkongfp.com
+203.90.228.198  hkswgu.org.hk
+203.90.228.198  www.hkswgu.org.hk
+174.138.31.237  pori.hk
+174.138.31.237  www.pori.hk
+50.23.209.199   roster.pori.hk
+157.230.243.206 roster.pori.hk
+104.22.56.230   hkupop.pori.hk
+104.22.57.230   hkupop.pori.hk
+198.185.159.144 subscription.pori.hk
+198.185.159.145 subscription.pori.hk
+198.185.159.144 hongkongwatch.org
+198.185.159.145 www.hongkongwatch.org
+192.0.78.129    hongkongfp.com
+192.0.78.220    hongkongfp.com
+192.0.78.129    www.hongkongfp.com
+192.0.78.220    www.hongkongfp.com
 104.27.186.188  tmhk.org
 104.27.187.188  tmhk.org
 104.27.186.188  www.tmhk.org
@@ -42811,14 +42860,14 @@
 
 # Cloudflare Workers Start
 # 2022/5/23 HTTPS 连接重置（需配合SNI工具解封）
-172.64.147.206 workers.dev
-104.80.40.50   workers.dev
-172.64.147.206 www.workers.dev
-104.80.40.50   www.workers.dev
-172.64.147.206 jimmyjlnu.workers.dev
-104.80.40.50   jimmyjlnu.workers.dev
-172.64.147.206 github.jimmyjlnu.workers.dev
-104.80.40.50   github.jimmyjlnu.workers.dev
+104.21.82.244  workers.dev
+172.67.166.51  workers.dev
+104.21.82.244  www.workers.dev
+172.67.166.51  www.workers.dev
+104.21.82.244  jimmyjlnu.workers.dev
+172.67.166.51  jimmyjlnu.workers.dev
+104.21.82.244  github.jimmyjlnu.workers.dev
+172.67.166.51  github.jimmyjlnu.workers.dev
 # Cloudflare Workers End
 
 # Singtao Start
