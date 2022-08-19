@@ -42569,30 +42569,48 @@
 # sueddeutsche End
 
 # TDM Start
-61.244.22.8     tdm.com.mo
-61.244.22.8     gb.tdm.com.mo
-61.244.22.8     www.tdm.com.mo
-103.233.191.137 vod.tdm.com.mo
-103.233.191.137 vod1.tdm.com.mo
-103.233.191.137 vod2.tdm.com.mo
-103.233.191.137 vod3.tdm.com.mo
-61.244.22.4     vod4.tdm.com.mo
-61.244.22.5     vod4.tdm.com.mo
-103.192.45.57   vod5.tdm.com.mo
-61.244.22.8     port.tdm.com.mo
-202.86.146.141  mail.tdm.com.mo
-103.233.191.134 live.tdm.com.mo
-103.233.191.132 live1.tdm.com.mo
-103.233.191.133 live2.tdm.com.mo
-103.233.191.132 live3.tdm.com.mo
-103.233.191.133 live3.tdm.com.mo
-61.244.22.4     live4.tdm.com.mo
-61.244.22.5     live4.tdm.com.mo
-103.192.45.55   live5.tdm.com.mo
-61.244.22.8     mobile.tdm.com.mo
-61.244.22.8     tourism.tdm.com.mo
-202.175.89.60   webstat.tdm.com.mo
-61.244.22.8     portugues.tdm.com.mo
+103.233.191.141  tdm.com.mo
+103.233.191.143  tdm.com.mo
+103.233.191.141  gb.tdm.com.mo
+103.233.191.143  gb.tdm.com.mo
+103.233.191.141  www.tdm.com.mo
+103.233.191.143  www.tdm.com.mo
+192.169.122.224  cdn.tdm.com.mo
+192.169.122.225  cdn.tdm.com.mo
+192.169.122.226  cdn.tdm.com.mo
+192.169.122.227  cdn.tdm.com.mo
+192.169.122.228  cdn.tdm.com.mo
+192.169.122.229  cdn.tdm.com.mo
+192.169.122.230  cdn.tdm.com.mo
+192.169.122.231  cdn.tdm.com.mo
+103.233.191.143  matomo2.tdm.com.mo
+103.233.191.142  statistics.tdm.com.mo
+103.233.191.141  gb.tdm.com.mo
+103.233.191.137  vod.tdm.com.mo
+103.233.191.137  vod1.tdm.com.mo
+103.233.191.137  vod2.tdm.com.mo
+103.233.191.137  vod3.tdm.com.mo
+61.244.22.4      vod4.tdm.com.mo
+61.244.22.5      vod4.tdm.com.mo
+103.192.45.57    vod5.tdm.com.mo
+103.233.191.141  port.tdm.com.mo
+103.233.191.143  port.tdm.com.mo
+202.86.146.141   mail.tdm.com.mo
+103.233.191.134  live.tdm.com.mo
+103.233.191.132  live1.tdm.com.mo
+103.233.191.133  live2.tdm.com.mo
+103.233.191.132  live3.tdm.com.mo
+103.233.191.133  live3.tdm.com.mo
+61.244.22.4      live4.tdm.com.mo
+61.244.22.5      live4.tdm.com.mo
+103.192.45.55    live5.tdm.com.mo
+103.233.191.141  mobile.tdm.com.mo
+103.233.191.143  mobile.tdm.com.mo
+103.233.191.141  tourism.tdm.com.mo
+103.233.191.143  tourism.tdm.com.mo
+202.175.89.60    webstat.tdm.com.mo
+103.233.191.141  portugues.tdm.com.mo
+103.233.191.143  portugues.tdm.com.mo
 # TDM End
 
 # CSIS Start
