@@ -16838,6 +16838,7 @@
 157.240.211.35  www.fb.me
 157.240.211.35  facebook.com
 157.240.215.16  an.facebook.com
+157.240.211.35  about.facebook.com
 157.240.211.35  www.facebook.com
 157.240.211.35  m.facebook.com
 157.240.211.35  mqtt.facebook.com
@@ -61330,6 +61331,8 @@
 23.198.103.74   www.rcinet.ca
 104.111.168.53  www.rcinet.ca
 184.84.122.247  www.rcinet.ca
+35.244.140.185  lrt.lt
+35.244.140.185  www.lrt.lt
 43.231.115.241  news.mn
 43.231.115.241  www.news.mn
 34.228.49.34    ny1.com
@@ -61341,6 +61344,8 @@
 50.18.198.38    www.oann.com
 52.9.118.54     www.oann.com
 104.154.170.37  store.oann.com
+104.21.15.214   codastory.com
+104.21.15.214   www.codastory.com
 64.135.21.3     newsmax.com
 117.103.182.66  www.newsmax.com
 23.40.241.152   www.newsmax.com
@@ -61412,6 +61417,8 @@
 103.55.26.214   www.nettvs.live
 103.55.26.214   nettvss.live
 103.55.26.214   www.nettvss.live
+172.104.98.103  fanhall.com
+172.104.98.103  www.fanhall.com
 104.20.9.218    v2ex.com
 104.20.10.218   v2ex.com
 104.20.9.218    cdn.v2ex.com
@@ -61651,6 +61658,8 @@
 198.185.159.144 www.eatnews.net
 198.185.159.145 epmedia.info
 198.185.159.144 www.epmedia.info
+104.21.9.123    inty.news
+104.21.9.123    www.inty.news
 104.26.2.79     kairos.news
 104.26.3.79     kairos.news
 104.26.2.79     www.kairos.news
@@ -62070,8 +62079,8 @@
 45.77.134.195   briian.com
 45.77.134.195   123.briian.com
 45.77.134.195   www.briian.com
-104.21.233.141  hub.fastgit.org
-104.21.233.142  hub.fastgit.org
+195.201.88.86   hub.fastgit.org
+2.59.61.109     hub.fastgit.xyz
 52.0.85.145     chromeba.net
 52.6.230.169    chromeba.net
 52.0.85.145     www.chromeba.net
@@ -62245,9 +62254,11 @@
 151.139.128.12  images.defence.gov.au
 151.139.128.12  images.airforce.gov.au
 96.7.253.249    videos.skynews.com
-210.71.227.74   www.nbcolympics.com
-210.71.227.89   www.nbcolympics.com
-210.71.227.155  images.nbcolympics.com
+104.26.4.96     www.insidethegames.biz
+104.26.5.96     www.insidethegames.biz
+104.26.4.96     www.insidethegames.biz
+104.26.5.96     www.insidethegames.biz
+178.62.85.39    dev.insidethegames.biz
 192.230.66.124  cato.org
 192.230.74.124  cato.org
 45.60.41.124    www.cato.org
@@ -62651,8 +62662,8 @@
 104.247.220.139 cn.mojim.com
 104.247.220.139 www.mojim.com
 149.56.117.142  www.mojim.com
-54.235.5.6      id.heroku.com
-54.236.220.202  id.heroku.com
+54.84.2.221     id.heroku.com
+52.200.0.211    id.heroku.com
 173.212.200.248 webjosh.com
 173.212.200.248 www.webjosh.com
 104.27.188.38   xxshe.com
@@ -64555,6 +64566,8 @@
 104.28.17.247   nationalinterest.org
 104.28.16.247   www.nationalinterest.org
 104.28.17.247   www.nationalinterest.org
+104.26.6.146    disruptiveasia.asiasociety.org
+104.26.7.146    disruptiveasia.asiasociety.org
 198.54.116.94   thelatestbreakingnews.com
 198.54.116.94   www.thelatestbreakingnews.com
 23.97.214.177   project-syndicate.org
@@ -64591,6 +64604,15 @@
 104.21.26.128   www.notepad-plus-plus.org
 104.131.212.184 community.notepad-plus-plus.org
 # Others End
+
+# Protonmail Start
+185.70.42.45  proton.me
+185.70.42.45  www.proton.me
+185.70.42.37  mail.proton.me
+23.227.38.74  shop.proton.me
+185.70.42.40  drive.proton.me
+185.70.42.36  account.proton.me
+# Protonmail End
 
 # Spectator Start
 99.84.133.82   spectator.co.uk
